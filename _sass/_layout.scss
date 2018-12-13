@@ -4,7 +4,7 @@
     background-repeat: no-repeat;
     outline: none;
     display: block;
-    width: fill;
+    width: $banner-width;
     height: $banner-height;
     margin: 0 auto 35px;
     position: relative; /* To ensure the bottom border is positioned correctly */
