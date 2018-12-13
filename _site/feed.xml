@@ -4,11 +4,11 @@
     <title>Anhtice</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
 </description>
-    <link>http://anhtice.com/travels/</link>
-    <atom:link href="http://anhtice.com/travels/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Dec 2018 11:03:43 +0300</pubDate>
-    <lastBuildDate>Thu, 13 Dec 2018 11:03:43 +0300</lastBuildDate>
-    <generator>Jekyll v3.0.1</generator>
+    <link>http://localhost:4000/travels/</link>
+    <atom:link href="http://localhost:4000/travels/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 13 Dec 2018 11:14:13 +0300</pubDate>
+    <lastBuildDate>Thu, 13 Dec 2018 11:14:13 +0300</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>The Kingdom of Saudi Arabia</title>
@@ -88,8 +88,8 @@ This BBQ platter was 55 Sar (which at the time 3.75 SAR to 1 USD so it was aroun
 &lt;/p&gt;
 </description>
         <pubDate>Wed, 12 Dec 2018 00:00:00 +0300</pubDate>
-        <link>http://anhtice.com/travels/saudi-arabia/2018/12/12/Riyadh/</link>
-        <guid isPermaLink="true">http://anhtice.com/travels/saudi-arabia/2018/12/12/Riyadh/</guid>
+        <link>http://localhost:4000/travels/saudi-arabia/2018/12/12/Riyadh/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/saudi-arabia/2018/12/12/Riyadh/</guid>
         
         
         <category>Saudi-Arabia</category>
@@ -105,12 +105,12 @@ The main transportation in Vietnam is by Mopad. Grab is the Southeast version of
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;https://lh3.googleusercontent.com/WvZxJLsjWDR11FjGohETUeHUvOejzje2-z-qwIYzsGbYSG6BFA29FWAVppB8_5GdfCYGmT_9vVeCYBFH_Lbcm4Y6ku8Prg1BFZX8hQQ4ljLT8RumCoLinVX3dQX1mn10Oyrx4NpiWJEfe7jcUUGlE9sZCk7iP5Uesk1DanWx8aCg743rnAUq99BpxpjnrMvLmePGK8WJX9kWe5guzwRQ-ucXRhgyu_RAANHRYf5wi_IHtur78DABVlJvPAsDcDPOL42MGBN-STkSZNmG8P2SGOb7AGy66HbZHkjEfkPMlfQbmxVZ-NZxRnTgC6il3ghLgDx-wHH30_qkom8FHt1VuhO5EyVX7Aeiw1eBqJ97KgSkM8zT2SRz54yW8vy_sI745y7Mrsl6L9Rua3QsfAOMGTs18nWQm5GZ_Uu-zUSmVVhQPTdq4NQt79meqOYs6VpB7Hdum6lRpZ7YMWZddKCCOQA1JoVL_DjzzwYE1JTVbXaItKRUBFDbkSUaOKKNBELpI7B1ARTI8KKPqQW2MRtW1zlNvqnp_CQyN21MmZwVrGf0GMnNIiv0jBV-Sp-g5q-v-KRdwyPg1umLub7uZlifCquJla6BcIK_PhEiLmAlXA_L9G_er8aLHSFN6d7dHGELuZe0FXeU8KHWsJKpcpyMXFhcJ31kjbSR-4x1vNSs9gq1EDyHmB18urNSxgU4z_YZHdrWtw0cefAx=w1232-h1642-no&quot; alt=&quot;bby shrimp&quot; /&gt;
-    p class=&quot;post-image-caption&quot;&amp;gt;baby shrimp&amp;lt;
+    p class=&quot;post-image-caption&quot;&amp;gt;baby shrimp&amp;lt;/p&amp;gt;&amp;lt;
 &lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;https://lh3.googleusercontent.com/qkE5vc0meP5YhoTjLkV9BanVfFY_EsmcKUohCgRN3uugZ9z0WBJOHLnh0xigoMI4RRyl2g16VCX6ADpaPQrj23KChCuzthgVvt35Ec5beW4q-H1W22x39EgKUs8NvwECE0IcbYhD1VIH_F1NpNm9nqgwEBOPIVZP8CzJw1LM39E94IBiv82wGXdWeob3We7q9TDkI67hTq47YixZjgIH-ROvPjupmtvL5otjDc3SNMEE4oqCe_YyVVqYGPKSUVkahTgktAgXkNAp8NJ_LdQW5QjB9kvPqt418PbeWfe2kxrB-k_qi4NzdqyiTp668gMUjrpfuJpYghw0-NhnNhY_siinUZ_OSzFB0LynCiDzlMkWZD_iiUgxYPgn7dRmbsI7rZskhAuqQPugutYga-5ZOeeID35e_cGuvTI7gB8bOrqH1-EPwZOycZbnNdEAhTHmeyfHuxTtViTPxrQ6epU_I9G1PZrvk3iRP_YWgC1NhgzpXQIYeMsiz2_hpRXtjzpwCzYfLtHm6AgpVscF2aXf1cbra6or0Oja5VyyKsk22t2DMnJz-zrLK_y7nXBV-hGFH0IWNrbMjnP8Exenuwz5c98igfQJ-nn0IBklupwkvByyyZNrv8cJq3_41Kg_fd31sz4d9WeFMvjn2XxEjbmaR2RwN1Zohq3G8gEN5zFITK8rj8bx78abcyc5lOYjh46Zj_h1Hya85KWd=w2190-h1642-no&quot; alt=&quot;pig intestines&quot; /&gt;
-    &lt;p class=&quot;post-image-caption&quot;&gt;pig intestines (tried it once, didn&#39;t like it)&lt;/p&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;pig intestines (tried it once, didn't like it)&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
@@ -248,8 +248,8 @@ https://lh3.googleusercontent.com/a-gJwjLd1xsdDOpVFaceLoZbWXUcut_O51Spi3xqPtHrMH
 &lt;p&gt;I stayed at the &lt;a href=&quot;https://www.expedia.com/Ho-Chi-Minh-City-Hotels-Amena-Residences-Suites.h19120773.Hotel-Information&quot;&gt;Amena Residences &amp;amp; Suites&lt;/a&gt;. It’s right in District 1 and right in Little Japan of Vietnam. Next to a 7-Eleven and right across from a Harukari, a Japanese grocery store. The hotel is also right next to Qui, a very nice bar that actually plays decent music and probably has the best cocktails in Vietnam.&lt;/p&gt;
 </description>
         <pubDate>Sat, 08 Dec 2018 00:00:00 +0300</pubDate>
-        <link>http://anhtice.com/travels/vietnam/2018/12/08/Vietnam/</link>
-        <guid isPermaLink="true">http://anhtice.com/travels/vietnam/2018/12/08/Vietnam/</guid>
+        <link>http://localhost:4000/travels/vietnam/2018/12/08/Vietnam/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/vietnam/2018/12/08/Vietnam/</guid>
         
         
         <category>Vietnam</category>
