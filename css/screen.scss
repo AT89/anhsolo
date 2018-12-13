@@ -47,7 +47,8 @@ $banner-border-offset: 2px;
 // Images
 // Note that extensions are omitted for use in retina-background-image mixin
 $img-separator: '{{ site.baseurl }}/img/separator';
-$img-banner: '{{ site.baseurl }}/img/banner';
+// $img-banner: '{{ site.baseurl }}/img/banner';
+$img-banner: '{{ site.baseurl }}/img/space2.gif';
 $img-dude: '{{ site.baseurl }}/img/dude';
 $img-location: '{{ site.baseurl }}/img/icon-location';
 

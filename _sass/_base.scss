@@ -1,3 +1,5 @@
+@import 'https://fonts.googleapis.com/css?family=Lobster';
+
 /* Universal box-sizing as per https://css-tricks.com/box-sizing/ */
 html {
     -webkit-box-sizing: border-box;
@@ -11,7 +13,23 @@ html {
     -moz-box-sizing: inherit;
     box-sizing: inherit;
 }
-
+header {
+  #spacey {
+    color: #fff;
+    font-size: 7.5em;
+    font-family: 'Lobster',
+    cursive;
+    text-align: center;
+    background: url("../img/space2.gif") no-repeat center;
+    background-size: 10em;
+    -webkit-background-clip: text;
+    -ms-background-clip: text;
+    background-clip: text;
+    color: #000;
+    -webkit-text-fill-color: transparent;
+    padding: 20px;
+  }
+}
 body {
     font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
