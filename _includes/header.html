@@ -1,9 +1,21 @@
 <header role="banner">
-    <a href="#" id="spaceybox" title="{{ site.title }}">
-        <h1 id="spacey">Anh Truong</h1>
-    </a>
-<!-- {% for post in site.posts %}
-<h7><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h7>
-<p><small><strong>{{ post.date | date: "%B %e, %Y" }}</small></p>
-{% endfor %} -->
+
+<div class="navbar">
+<a href="{{site.url}}/travels/">Latest</a>
+<a href="{{site.url}}/travels/gear/">Gear</a>
+  <div class="dropdown">
+    <button class="dropbtn">Posts
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      {% for post in site.posts %}
+      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
 </header>
+
+<a href="{{site.url}}/travels/" id="" title="{{ site.title }}">
+  <h1 id="spacey">Anh Truong</h1>
+</a>

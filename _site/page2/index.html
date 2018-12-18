@@ -31,24 +31,37 @@
 
     <body class="is-offset ">
         <header role="banner">
-    <a href="#" id="spaceybox" title="Travels">
-        <h1 id="spacey">Anh Truong</h1>
-    </a>
-<!-- 
-<h7><a href="/travels/saudi-arabia/2018/12/10/Riyadh/">The Kingdom of Saudi Arabia</a></h7>
-<p><small><strong>December 10, 2018</small></p>
 
-<h7><a href="/travels/vietnam/2018/12/08/Vietnam/">Ho Chi Minh City, Vietnam #2</a></h7>
-<p><small><strong>December  8, 2018</small></p>
- -->
+<div class="navbar">
+<a href="http://localhost:4000/travels/">Latest</a>
+<a href="http://localhost:4000/travels/gear/">Gear</a>
+  <div class="dropdown">
+    <button class="dropbtn">Posts
+      <i class="fa fa-caret-down"></i>
+    </button>
+    <div class="dropdown-content">
+      
+      <a href="/travels/saudi-arabia/2018/12/10/Riyadh/">Riyadh, Saudi Arabia</a>
+      
+      <a href="/travels/vietnam/2018/12/08/Vietnam/">Ho Chi Minh City, Vietnam</a>
+      
+      <a href="/travels/south/africas/2018/11/12/Johannesburg/">Johannesburg, South Africa</a>
+      
+    </div>
+  </div>
+</div>
 </header>
+
+<a href="http://localhost:4000/travels/" id="" title="Travels">
+  <h1 id="spacey">Anh Truong</h1>
+</a>
         <section role="main">
             <!-- This loops through the paginated posts -->
 
   <article class="post">
     <header>
         <a href="/travels/vietnam/2018/12/08/Vietnam/">
-            <h1 class="post-title">Ho Chi Minh City, Vietnam #2</h1>
+            <h1 class="post-title">Ho Chi Minh City, Vietnam</h1>
         </a>
         <time datetime="2018-12-08T00:00:00-05:00" class="post-date">Saturday, December 8, 2018</time>
     </header>
@@ -61,7 +74,7 @@ Went to eat a few times with family. This was on Saturday. We ate at a nice loca
 
 <div class="post-image">
     <img src="https://lh3.googleusercontent.com/WvZxJLsjWDR11FjGohETUeHUvOejzje2-z-qwIYzsGbYSG6BFA29FWAVppB8_5GdfCYGmT_9vVeCYBFH_Lbcm4Y6ku8Prg1BFZX8hQQ4ljLT8RumCoLinVX3dQX1mn10Oyrx4NpiWJEfe7jcUUGlE9sZCk7iP5Uesk1DanWx8aCg743rnAUq99BpxpjnrMvLmePGK8WJX9kWe5guzwRQ-ucXRhgyu_RAANHRYf5wi_IHtur78DABVlJvPAsDcDPOL42MGBN-STkSZNmG8P2SGOb7AGy66HbZHkjEfkPMlfQbmxVZ-NZxRnTgC6il3ghLgDx-wHH30_qkom8FHt1VuhO5EyVX7Aeiw1eBqJ97KgSkM8zT2SRz54yW8vy_sI745y7Mrsl6L9Rua3QsfAOMGTs18nWQm5GZ_Uu-zUSmVVhQPTdq4NQt79meqOYs6VpB7Hdum6lRpZ7YMWZddKCCOQA1JoVL_DjzzwYE1JTVbXaItKRUBFDbkSUaOKKNBELpI7B1ARTI8KKPqQW2MRtW1zlNvqnp_CQyN21MmZwVrGf0GMnNIiv0jBV-Sp-g5q-v-KRdwyPg1umLub7uZlifCquJla6BcIK_PhEiLmAlXA_L9G_er8aLHSFN6d7dHGELuZe0FXeU8KHWsJKpcpyMXFhcJ31kjbSR-4x1vNSs9gq1EDyHmB18urNSxgU4z_YZHdrWtw0cefAx=w1232-h1642-no" alt="bby shrimp" />
-    p class="post-image-caption">baby shrimp</p><
+    <p class="post-image-caption">baby shrimp</p>
 </div>
 
 
@@ -265,28 +278,37 @@ I stayed at the <a href="https://www.expedia.com/Ho-Chi-Minh-City-Hotels-Amena-R
             
         </li>
     
+        <li class="pagination-item">
+            
+                <a class="pagination-link" href="/travels/page3"><span class="pagination-link-help">Page&nbsp;</span>3</a>
+            
+        </li>
+    
 
     <!-- End ellipsis -->
     
 
     <!-- Next page -->
     <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="/travels">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+        <a class="pagination-link pagination-link--non-numeric"  href="/travels/page3">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
     </li>
 
     <!-- Last page -->
     <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="/travels/page2">Last page <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+        <a class="pagination-link pagination-link--non-numeric"  href="/travels/page3">Last page <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
     </li>
 </ul>
 
 
 
         </section>
-        <footer id="footer">
+<footer id="footer">
     <p>Your Host: <strong><a href="http://anhtice.com" target="_blank">Anh Truong</a></strong></p>
     <p class="legal">Places I have stepped foot on</p>
-</footer>
+</footer> 
+        <script src="http://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+        crossorigin="anonymous"></script>
         <script type="text/javascript" src="/travels/js/galileo.js"></script>
+        <script type="text/javascript" src="/travels/js/nav.js"></script>
     </body>
 </html>
