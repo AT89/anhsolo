@@ -5,9 +5,9 @@ permalink: /gear/
 ---
 
 
-  I have tried and tested a few gadgets and clothing that I love to take with me traveling.
+  I have tried and tested a few gadgets and clothing that I absolutely need to have with me while traveling. This is my gear, this is my equipment, this is what I upgraded to +10 and to have the perfect stats
   <p>My Motto is buy nice or buy twice. I have found that aiming for quality and buying things that would last me a lifetime is a more frugal strategy over the long term and better for the environment/less waste.
-  <p>I would love to share with you what I use for my travels.
+
   <br>
 <ul>
   <li class="gear_header"> Bags </li>
@@ -40,7 +40,7 @@ permalink: /gear/
   <p> Not a fan of the new 19s, I rock the 3.0 and 4.0's in Triple Black.
 
   <li class="gear_header">Electronics</li>
-  
+
   <li class="gear_li">Google Pixel 2 XL<li>
   <li class="gear_li">Google Pixel Buds</li>
   <li class="gear_li">Bang and Olufsen h8's</li>
