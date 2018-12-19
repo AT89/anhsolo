@@ -13,11 +13,11 @@ permalink: /gear/
   <li class="gear_header"> Bags </li>
 
   <li class="gear_li"><a href="https://www.coteetciel.com/en_us/isar-backpack-black-medium-laptop-bag">Cote et Ciel Isar</a></li>
-  <img src="../img/isar.png" class="gear"/>
+  <div class="post-image"><img src="../img/isar.png" class="gear"/></div>
   <p>Amazing backpack with style and utility. Perfectly stores my laptop, anti theft compartment for important things. Secret compartment on the side. Front is a duffel that fits a whole bunch of things. Waterproof. This backpack is what I consider to be life-lasting</p>
 
   <li class="gear_li"><a href="https://www.hookandalbert.com/products/mens-project-11-garment-weekender-black-black">Hook and Albert Weekender</a><li>
-  <img src="../img/weekender.png" class="gear"/>
+  <div class="post-image"><img src="../img/weekender.png" class="gear"/></div>
   <p>The perfect carry-on bag. Because it is more compact than rollies, you will never get stopped to ask to have this checked in. It also survives the check in as well. Fits quite a bit and collapses for storage. It has a pretty well working hangar compartment for pants/shirts. Shoes compartments on the sides too. I love this bag</p>
 
   <li class="gear_header">Clothes</li>
@@ -33,6 +33,7 @@ permalink: /gear/
   <li class="gear_header">Shoes</li>
 
   <li class="gear_li"><a href="https://wolfandshepherd.com">Wolf and Shepherd</a><li>  
+    <div class="post-image"><img src="https://lh3.googleusercontent.com/HNQL_DZRfFEaqdHnCfJ1jpqQ2JmdrTGWkSXOMJLwJHtR9SxJVUuN3xtDmg4L6mBWEdJ__fkivgoxI8l0PJGCtrJoHx3EX5kkj4hXDq-zQ5IzULxyv_cerb9oBF_L-YS5JRIQJb-BLkjkz-tQizTVUT5DFs3O8oPaGGy-RGXnQ_AvSaIW4okwJRsSOy3QrAS1_mrk6qUDSEQU89S_g0mFuDJI-SuPBBT4oKA3IJfKZgupp4JIXuKrLrsah6P8Bid33IeJsSW2BE3wcXagB1CuZ-_uSMWSAe92OwhqnGLD7-09KEZWbB66wcilt2gdvKT_sLBe0itmgPO_QpDAZG1VNPqNXOmUlIdMWzGDsrc4isgX42VaUq1rYW2JPVwcI8YEWHw2e_0nY294TDkP-1aZnX7nJuD-D2tpJ-T_EO-znl5HqEjHVYVfW0drO27FyQp-QTIgU57lpEObqChkjbZXlp_EYvPZI4y_bgRRdrUwxmW03wutV8i_TVTlMuEcRq8-y7Npd6WiFVWoYU7qXBzJ1fwoYZ7jVunFrqZqbApKFyx9WPjzFFZfiRf0ttmsH5OvCMM7pUPQsaOQNBJDssjznQna2E8g0Mw8dRgT7TEoWMv0gPlL9ARxZCQrPbVvqrj08Sx7tt4sxfXWOp_u_ZyZH_1oy2c2nSbGnRKaeybMMdj-cuap2lceY0CnLIahHVyWdBYonNaniWsF=w1356-h1076-no" class="gear"/></div>
   <p> I really like the <a href="https://wolfandshepherd.com/collections/best-sellers-1/products/senna-wingtip?variant=6269869850663">Sienna Wingtips</a> and the <a href="https://wolfandshepherd.com/collections/boots/products/breakaway-boot?variant=6270714478631">Onyx Breakaway boots</a>. These actually feel like sneakers and the quality is very high.</p>
 
   <li class="gear_li"><a href="https://www.adidas.com/us/ultraboost?cm_mmc=AdieSEM_Google-_-boost-Shoes-B-Exact-2B-_-UB_General-adidas-default-exact-_-43700035847623441&cm_mmca1=US&cm_mmca2=&ds_agid=58700004302066472&gclid=EAIaIQobChMI_-Kt34uq3wIV2FqGCh1ZDAMuEAAYASAAEgI8dPD_BwE&gclsrc=aw.ds">Addidas Ultraboosts</a><li>
