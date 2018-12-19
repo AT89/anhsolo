@@ -43,7 +43,9 @@
       
       <a href="/travels/vietnam/2018/12/08/Vietnam/">Ho Chi Minh City, Vietnam</a>
       
-      <a href="/travels/south/africas/2018/11/12/Johannesburg/">Johannesburg, South Africa</a>
+      <a href="/travels/south-africa/2018/11/12/Johannesburg/">Johannesburg, South Africa</a>
+      
+      <a href="/travels/india/2018/09/19/Mumbai,-India/">Mumbai, India</a>
       
     </div>
   </div>
@@ -157,7 +159,8 @@ The end notes here is that Saudi Arabia is pretty awesome, great food and people
         </section>
 <footer id="footer">
     <p>Your Host: <strong><a href="http://anhtice.com" target="_blank">Anh Truong</a></strong></p>
-    <p class="legal">Places I have stepped foot on</p>
+    <p class="legal">Level {% assign counter = 0 %}{% for item in site.posts %}{% unless item.published == false %}{% assign counter=counter | plus:1 %}{% endunless %}{% endfor %}{{ counter }} Red Mage</p>
+<p>Level 4 Red Mage</p>
 </footer> 
         <script src="http://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
         crossorigin="anonymous"></script>

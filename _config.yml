@@ -9,10 +9,10 @@
 title: Travels
 author: Anh Truong
 author_link: http://anhtice.com
-author_description: Places I have stepped foot on
+author_description: Time for Adventure
 email: anhtice@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Traveling the world, helping people, being and giving inspiration.
+  Traveling the world, exploring culture, being and giving inspiration.
 baseurl: "/travels" # the subpath of your site, e.g. /blog
 url: "http://anhtice.com" # the base hostname & protocol for your site
 

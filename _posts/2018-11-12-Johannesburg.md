@@ -2,7 +2,7 @@
 layout: post
 title:  "Johannesburg, South Africa"
 date:   2018-11-12
-categories: South Africas
+categories: South-Africa
 location:  Johannesburg, South Africa
 ---
 
@@ -120,8 +120,8 @@ I stayed at the <a href="https://www.booking.com/hotel/za/the-winston-johannesbu
 <img src="https://lh3.googleusercontent.com/5JIGW3kQFd7v7GjWmvFRD3GwJP-y-CWWBX5XnXplXt3sAQLbSziwzrY0JQ-CkA4nnqffMw7s9H-2cS-wjPAILDv6UwdQi-hRFDnrDGtWyXj-U_ukw10KJ4oANB2aYmRRX-oZ1nwvXcV3uxqpeOQJbS_I9zC1ixG5nCFrOsASCv-BiR1lcvmeMSMm9i-028cXYXPnt2upm-an44hnVLFfTuMAC1SgpCV8qFbtM3jKjVjXY1_8MY992RtdF-I4aFa5v7Kr4rP7L4Fs1W3x9zqgqQLXFkw9O1c2B32XLy-O6ncZD7iZ9Vfu5ANiLePrsFwLoZtLcwJX4FPjj8C5WbRLfkkLWR0KAAI2skBIouXaUg90uM9NeqfNSOswpnaKN8NNyEaBUumed58ltbl8sQnHTvo6XEubOdp4bA38kpTMOF9paf_jmhufPINThlIv4PCP_SlOpNV33oSlbgJr0SsOU2iY73nVsePEwzempPqdYeiyCySJUEL69yc2sHJUwjMBuaMXeCDRGBf8HcsS_f4cMwxiGWr7u-9vu0_JHksfJ0s_0kyCMeXMFulM2TPaaV7S49wOn6oi1zUyjGHFiG0psSrvApkh8MnmVsmlZMQ63K9yNweMNbNEdKDRsRAjNhiSzVQ12Jz2P5fxipx-mV5ZAM-cUbM_HLszF3wVbQbfimJnCXdF9tErbnS5F26SBa_H4a3ySId2vw7j=w2190-h1642-no"><p class="post-image-caption">Atrium by day</p></div>
 
 
-<div class="post-image">
-<img src=""></div>
 
 
-
+<p>South Africa was awesome. I really enjoyed seeing and being with the animals and am forever jaded from a zoo. 
+The people that I met were super friendly and I at least played Toto's Africa once a day (both the original and the Weezer).
+Definitely a cool spot to travel to. The camping experience in Kruger would be unforgettable. I would do the camp and bring my DSLR next time. Also to add USD to Rand is very very favorable. 
