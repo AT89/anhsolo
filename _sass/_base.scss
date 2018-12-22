@@ -43,7 +43,7 @@ body {
     font-smoothing: antialiased;
 
     &.is-offset {
-        margin-top: -195px;
+        // margin-top: -195px;
     }
 }
 
@@ -63,6 +63,13 @@ a {
   font-size: 2em;
   padding: 5px;
   text-decoration: underline;
+}
+
+.center {
+
+      margin: auto;
+      /* make em equal */
+      text-align: center;
 }
 
 

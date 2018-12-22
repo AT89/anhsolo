@@ -9,6 +9,11 @@ Got a chance to go visit Mumbai, India for work. It was pretty cool. I thought d
 
 I did see some nice sights and get to meet some nice people. My hotel was close to Bollywood but alas, I was too exhausted from work to go out. Maybe I am getting old or the jetlag is really killing my sleep. Not sure. I had fun though!
 
+<div class="center">
+<h4>Soundtrack</h4>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_tG8DAtPDA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/aecrAKtB5_utnwUXfJu3xmfidvffQ9U28yjAb9cPca_JIiqk7UWqdJFqNSnhNa_6sGOcDTC-iV3WERui64mexi8-o4k_686Bp1uLIG0Bpw3fL3sQUgDfoxFH5miFW_NYOPu_-vwo41E0xC9QmXRrqtiJKbes-qjSl-dVi06PEPCaSH_2cmXF2Xg1hUNRI-vynuL-ytvXC1J3_NAAooAgel1lfwIUg0F5JS782lSRUyZBBUZIUI9VhKMU2xrOD7AmjkZy4oAlBxclJrOFWkVU7EvqPl-vqb7BxN_3i-59scLazDlhzvUIgAcb9ioULTR1wdJQgtxYFuWglYDDV9wzzE7BbYD5UsnTjswJTUq28mgxs_XL56fhdhtP6LFFHpddKBk_n7IEO1n3otC8IGvdF5D1SN9xFU-L_umtGjoj_r6cArjuYeeQrxo__rnKFrOoy5P7Bjy_ue0xBCJvaI_BEdKNvY-tDxvdDd6_vS_545E9Qo8pJAss9xPPNapWge9Nc4iaTDTRGDfCOIFCNmJPwc1vLQp717lkoz0ktXY5nuWlBC6qpqEWXwscJXCtRBnDdKQmU2qkjfLceUF9CzlsdMitZ1uG7AtcaElvyig3lywBnHb2UC_XidhCPT7UyzgO4MlIFJbunFPj4MMF4t2ZYJZnv8mX2w8BnCRBeXRvhdDARqyswvMEc3FD1YWE7E_y9ni43wzMR5y_=w1232-h1642-no">
 <p class="post-image-caption">Gateway of India selfie</p></div>
@@ -72,8 +77,3 @@ I stayed at the <a href="https://www.booking.com/hotel/in/taj-lands-end.html?aid
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/zFFrkdyVglA-OdH8tDs3-_pWRqlZ3CU7XAT8lTWgFlgvpm7bD_vomXY9sl0pKaW6t5OZbF9QD1wgYAUJpUwA5unqwBYK5hldEQcNVL_617VEQ08izKUKPSmgwK_a2om-sDw_HXn8dWiXo9JUjrYvK0fcwq-9PqwOu3mkee1dbGU1bITtciEId85EqHWBFwiI2PIAeZzPhM2bptn9SvHoqFSZ7HIw9LGW0r0XQhMB0gDy4E2yh_vofZYT8f7Hsk4bfsy8wFLl9jutBpDMKMCRm900he2AaXDkynFvjTBe3oDnRYQlorUAgfu8PwssMn38TRsi3oZjn3U0TE7iT-cZmiScL7zSbQHWnqyJm49a9EF1HWnGbbKJtiDZa0uZS8EjOp0JBVzbs7EhlwQdbjsUQUxfx_LbB0_X6x3FyvolMhWPzWFV_JjsZ-Q2oh3ARl3k5OlSSnqUVStRgDFUD5q-rL9vEUWLglOAGzdq-GWYqARC9gbHVBOwz9pMTpW3b1TMEITfGwea60zooVydwHnJ_n72qY_etBE1juyKgPtlBEyVoDP-u9aOl7dDg79TQDW5rg5FXd4aSXgEzM-QzstfdE1y7o2otFKZbBDm_xJD4-qb0cbfUG9UPUfvV3s-wy8qMnfqu0zxQmjKZZSTRdKqONOM2kAIvR5LjMyXQUy2_i5ZRFqiHAYDqZGsxnKs_JrS4Lyk5J4ObSOH=w2190-h1642-no">
 <p class="post-image-caption">Interior lobby</p></div>
-
-
-
-<div class="post-image">
-<img src=""></div>
