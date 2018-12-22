@@ -11,7 +11,7 @@ I did see some nice sights and get to meet some nice people. My hotel was close 
 
 <div class="center">
 <h4>Soundtrack</h4>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_tG8DAtPDA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="500vw" height="auto" src="https://www.youtube.com/embed/_tG8DAtPDA0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="post-image">
