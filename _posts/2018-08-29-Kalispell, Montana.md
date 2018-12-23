@@ -10,7 +10,7 @@ First time in Montanna, this was a brief trip (and a short post) but Glacier Nat
 
 <div class="center">
 <h4>Soundtrack</h4>
-<iframe width="500vw" height="auto" src="https://www.youtube.com/embed/oJLyMaqnCUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400vw" height="auto" src="https://www.youtube.com/embed/oJLyMaqnCUs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 

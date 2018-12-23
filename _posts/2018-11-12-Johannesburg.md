@@ -12,7 +12,7 @@ I found out and scheduled The Rhino and Lion Nature Reserve from the hotel and g
 
 <div class="center">
 <h4>Soundtrack</h4>
-<iframe width="500vw" height="auto" src="https://www.youtube.com/embed/mk5Dwg5zm2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="400vw" height="auto" src="https://www.youtube.com/embed/mk5Dwg5zm2U" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
