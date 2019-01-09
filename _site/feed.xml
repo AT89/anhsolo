@@ -1,18 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Anhtice</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+    <title>Travels</title>
+    <description>Traveling the world, exploring culture, being and giving inspiration.
 </description>
     <link>http://localhost:4000/travels/</link>
     <atom:link href="http://localhost:4000/travels/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 13 Dec 2018 11:14:13 +0300</pubDate>
-    <lastBuildDate>Thu, 13 Dec 2018 11:14:13 +0300</lastBuildDate>
+    <pubDate>Wed, 09 Jan 2019 21:13:50 +0700</pubDate>
+    <lastBuildDate>Wed, 09 Jan 2019 21:13:50 +0700</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
-        <title>The Kingdom of Saudi Arabia</title>
-        <description>&lt;p&gt;Visiting Riyadh for work, I was taken out for business lunches at pretty awesome places. The first was a Turkish resturaunt Assaraya &lt;a href=&quot;https://www.tripadvisor.com/Restaurant_Review-g293995-d1513776-Reviews-Assaraya_Turkish-Riyadh_Riyadh_Province.html&quot;&gt;Assaraya&lt;/a&gt;. The naan was 6x bigger than my head! We ordered the barbeque platter as well as some ganoush and hummus. With 4 people we did not even finish 2/3 of the bread. The food was quite delicious. I highly recommend checking this place out. The atmosphere and decor make it very elegant.&lt;/p&gt;
+        <title>Riyadh, Saudi Arabia</title>
+        <description>&lt;p&gt;Visiting Riyadh for work, I was taken out for business lunches at pretty awesome places. The first was a famous Turkish resturaunt &lt;a href=&quot;https://www.tripadvisor.com/Restaurant_Review-g293995-d1513776-Reviews-Assaraya_Turkish-Riyadh_Riyadh_Province.html&quot;&gt;Assaraya&lt;/a&gt;. The naan was 6x bigger than my head! We ordered the barbeque platter as well as some ganoush and hummus. With 4 people we did not even finish 2/3 of the bread. The food was quite delicious. I highly recommend checking this place out. The atmosphere and decor make it very elegant.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&amp;lt;&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/OwbI9IY9Roo&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;https://lh3.googleusercontent.com/KEtSAoC-q0oGJBUaVJXp6V_U5Efz5SLhmJudKa_BOKmdm6w6eouYD6-0CujWzUj757nDCBRwffA4qbrDUpLYnRlEVVtQDE4GmOpSf3LZGGms1UqB4_hM967HPmv2fRZyTM4GdwHSopUKtsMXDi22Ps7Nl4fE7E7p5_0EQEADeKa28ZsA53G0jNGd_RDlERbRk08sh6dGTi-BFxf9jGEq1jnqG22fnq1GN39czI1L1otk1lPrTQsNBjfUBUmE75RjY40p9z0boLIT8p2ZNxSkSx9jcJh1j3c23O7qt_jrsV5hJCQtGybZq8Afw4mHRU0W1AG9xEHZS5H81KKBChGWwlPYscH0BQAKy7BKjobIZW8ZGoBN4GiD7SIPjG5l4RvUnc_t7JFzTVPz59MqJkCUGegMPUPRCzi5vr6r747VuyXurExxhA4uUTMoIXESx88SiO-_Ip3i1GDkj4vtNxHjERNGxsu6qmg4MtQ1p4a6Fzjcmwy5CX2kDW7ym5T4FjexkZgbE0LskCIIGxeAw2ED080o_A8frJMS687n12qp1y8xJzMFxaF7YsaOtzaYQyKVStm9VmiIn25EMn2_i3bIu2UZ_uWVjN_Xa5R49s2gc91LAu5lQTOpoBCNTd6FzHdrkN5AAWMmqhHGPftTvwK5VY3p3KGatefhOuCzEzYw_AYlppMM12kg0rfgz1pZM4JsgeeHMZCOZ9Sa=w1232-h1642-no&quot; alt=&quot;big naan&quot; /&gt;
@@ -79,17 +84,27 @@ This BBQ platter was 55 Sar (which at the time 3.75 SAR to 1 USD so it was aroun
     &lt;img src=&quot;https://lh3.googleusercontent.com/M9lS0Ltc6hRDrzVeNOajX2qs764X8cFu9z-D_Pkhhhpk4Y1l6DCUzJ9Kktgajf3f5TZ6_gjq8tnaHB6Rs4iqYf4mZ-mrc0Mdd2e4Whs5oSDTutPdzslOn0fytDrFUdECHPIYmTvlyv_GWldc754Zeekk9v1gjdBy7MWbM215KALyVBY6BTlqAhuZA4DExq5cYwX5YjM68jlrn41UCTt46EN-9-683mBOKD7D5NoXJxlFFuETMVPnKyThWjcevZNMgDz6vpwV7pcEdyZN414bcFBfUVwFkzsrD_sJjo26UnUv0ZY6LcY36ob4MpDDqa_F7FAU9xo-F2Wc49Uy-zPKxI9bH1vGMk2trB4vgvbX9BB4doUFuW81VmD12vQJgH69Krg8COm8tfEqmOGdgquCH1yrCEv_GZSa1PHLH9aWdWRio4MFNRNQ7Ar85hjedCU7h5R9SVGPEAp6hIShZWw3gPT9QAtlRa6CcLNC8R-4tPHccHC4LcaIFIRT1a70yQl2XO6SOLPcKSGnFRiC0PslFA87eEerR0n4Rd7wISBXWO2fbR0-k85RD85JUdySXtdZi_DDn6bejDlyzSaJpMdLCfkQEi5mdFKvCj94SseiBb8BBvCvmeLy7bCuOvV11I8Yjvf_4P5nXxfmFL0FWrU9J0zA9bOq3pE7nOI7A-dEtWU84anQeLDk1GDvamMbaHxFn801fMdd8u-h=w1232-h1642-no&quot; alt=&quot;bbq&quot; /&gt;
 &lt;/div&gt;
 
+&lt;p&gt;Before I left to the airport we went to a local resturaunt &lt;a href=&quot;https://foursquare.com/v/give-me-five/5a15d31bda5e565363c5fb0e&quot;&gt;Give Me Five&lt;/a&gt;
+ that might start expanding really soon. The resturaunt was AWESOME. Great outdoor seating, pretty awesome service and the food came out fresh and hot. The Naan was great and there was nice outdoor seating.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;https://lh3.googleusercontent.com/gy9NBV5YydAYwCltXCA_p3RuCpBcq-BihD528lcL5KBZKINgDEqjwvmYZEZWEaTsCOf7NpeB3Ylz22PaBePpUbMzWmi3emUnZueEoC-BCP5JEGuHbfgSV-cYYF6SS2qOc5t_CHJgG7U1aEfJujww5tcUZRVNate7xGuCC9Tw8qIbOh53Sm_Jt8F09XSV2qLXozVvLZ0tKisNTKIVqI9QLmpYU0IvZK81th6kb5xZrOAXMMP7fUyXNZIFHjjCk_cnrnwJK4cafydX4yzIg8XRktCh1I8Qn2NlQPAdTkMrmN6RDFw9Xa9O-pWIscS3nfwqjUDPaha-b1vIF4Rw21rG1G_05U0ui27CZsqeR2eKVffvGnIsMn_G8YZ4vEOuLQfQZ9qhOClyuNd6V2vwHTecbMoSUxmGMCM8q72PcY5X8oTxlGRN97lJ4A_lrg2R_909sDumcMybKfJ0QJ-5QyxguRtRbfT1kzUzRyIC5NWCufMbTOKgmo3FTu_V0rdx1yNd51bWEfqGPTpUTIGByjLbad3m3nqViRsnpKnfuqaJqPu1Zd2zpBtbLYgmehf0nBKBGta8Eepn0OIem-MIFuC-UactwV2N180KKFjR_CpAfj1oP9BGk-P0muJO7YFjrlEJZWaPwMo65eFgyEnDllyZqHP4hle8QQoFH8hechTpw-mbKTgWLUh8LUielWhacnabhqEi-HrypBdV=w1968-h1414-no&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Kabobs&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+    &lt;img src=&quot;https://lh3.googleusercontent.com/_vvI0LDTS49AT5LQIvLB7JEJimogMIII0L9IHBjx6tt2YyTY9YOJzJqK8KcVG6kRofG6KJmZCc4hMb0dH7Gb-KHhW34ybYgIuWbrytC5DOAiGVVANocDhEEQl5Kf9K-1yDaCL81Ht5g728me_IQZloQtEQgAxe-lrOx3kFXbcj74qLLAaPAiIn8NwxxdKYSrw_nnh231peGDjeLohznJlc-7c4qo3F5kFamAJdoIlHTNFO6dPzLtMHhyL4iVFMPsQlx5bJ08IQRLArwn7dtW-eKzYy1zoiseImtfp19iB89qHO6dQhwgGDC0LPkM6aYgjyqGxO3MaLYlmQL-_wegKNeOYyXuBqGvmtL2FtwTvIPxohkXpe5svo5tmwGwdrTXM1QVYMhC2OIuAARrkYzrp6TLcuqK2SWw9A89ZoHK4LFfFucgxWoPypi8-o9eHGvPR-01LxkjXQp5gI0xWUs3VCtApCcExeEA7mirbFhwlNOH9a_Od-s2aZb7Tqn6Lx_VjdYKBipnxh7Mrtt8aH4OtVHAuTuhr9ryHaI9daIDnzq7TsXvC-vloObzifCoL-gmahX07byPcH-n440feeigv7l0Zd7pMMrA2oMKLv30ok6DzM0XOUp5t62oqUKAPFyEHbgvt_U970zKL1I665yVfvalIofd5W_cRpfJEpirhWyntoy8-Nd3_fRT4P8JUVmFHKXWWvbjfYbr=w2210-h1414-no&quot; /&gt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;Lamb stew (for lack of a better name)&lt;/p&gt;
+&lt;/div&gt;
+
 &lt;p&gt;I stayed at the &lt;a href=&quot;https://www.expedia.com/As-Sulimaniyah-Hotels-Rosh-Rayhaan-By-Rotana.h14797919.Hotel-Information?langid=1033&quot;&gt;Rosh Ray haan by Rotana&lt;/a&gt;. This was a pretty awesome hotel, one of the most comfortable beds and pillows from my vast experiences of hotel stays. The pricing is decent and the location was only a mile from my work site. I ate the breakfast and dinner buffets once each and they were very good. Highly recommend staying at this hotel if you are in the area.
 
-
-
-
-
+The end notes here is that Saudi Arabia is pretty awesome, great food and people were genuinely very nice. It is nothing that you hear in the media so I really do not think anyone should be afraid if they have to go there for business. I never felt unsafe and I even met a woman around my age who was traveling to Saudi Arabia at the airport and we had a short talk. It was her first time visiting for work and she was not nervous or afraid at all. 
 &lt;/p&gt;
 </description>
-        <pubDate>Wed, 12 Dec 2018 00:00:00 +0300</pubDate>
-        <link>http://localhost:4000/travels/saudi-arabia/2018/12/12/Riyadh/</link>
-        <guid isPermaLink="true">http://localhost:4000/travels/saudi-arabia/2018/12/12/Riyadh/</guid>
+        <pubDate>Mon, 10 Dec 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/saudi-arabia/2018/12/10/Riyadh/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/saudi-arabia/2018/12/10/Riyadh/</guid>
         
         
         <category>Saudi-Arabia</category>
@@ -97,15 +112,20 @@ This BBQ platter was 55 Sar (which at the time 3.75 SAR to 1 USD so it was aroun
       </item>
     
       <item>
-        <title>Ho Chi Minh City, Vietnam #2</title>
+        <title>Ho Chi Minh City, Vietnam</title>
         <description>&lt;p&gt;Got the chance to visit hometown Ho Chi Minh City (Saigon) Vietnam for work. This time under happy pretenses! Visited family and friends. Had a blast. The currency exchange rate is incredible here. 23,312 VND is $1 USD. A bowl of pho is 40,000 VND or so. 
 The main transportation in Vietnam is by Mopad. Grab is the Southeast version of Uber but it allows you to pay at the end with cash (discounte rate) and ride in the back of someones mopad. Which is pretty refreshing with the wind in your face. But also annoying when there’s debris and dust. Definitely best way to travel. The taxis would very likely drive you in circles and sometimes not even know where they are going. I would definitely say traveling is made easier because of Uber and Grab. I love technology.&lt;/p&gt;
 
 &lt;p&gt;Went to eat a few times with family. This was on Saturday. We ate at a nice local resturaunt next to the river.&lt;/p&gt;
 
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&amp;lt;&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/6XHy18n1DCE&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;https://lh3.googleusercontent.com/WvZxJLsjWDR11FjGohETUeHUvOejzje2-z-qwIYzsGbYSG6BFA29FWAVppB8_5GdfCYGmT_9vVeCYBFH_Lbcm4Y6ku8Prg1BFZX8hQQ4ljLT8RumCoLinVX3dQX1mn10Oyrx4NpiWJEfe7jcUUGlE9sZCk7iP5Uesk1DanWx8aCg743rnAUq99BpxpjnrMvLmePGK8WJX9kWe5guzwRQ-ucXRhgyu_RAANHRYf5wi_IHtur78DABVlJvPAsDcDPOL42MGBN-STkSZNmG8P2SGOb7AGy66HbZHkjEfkPMlfQbmxVZ-NZxRnTgC6il3ghLgDx-wHH30_qkom8FHt1VuhO5EyVX7Aeiw1eBqJ97KgSkM8zT2SRz54yW8vy_sI745y7Mrsl6L9Rua3QsfAOMGTs18nWQm5GZ_Uu-zUSmVVhQPTdq4NQt79meqOYs6VpB7Hdum6lRpZ7YMWZddKCCOQA1JoVL_DjzzwYE1JTVbXaItKRUBFDbkSUaOKKNBELpI7B1ARTI8KKPqQW2MRtW1zlNvqnp_CQyN21MmZwVrGf0GMnNIiv0jBV-Sp-g5q-v-KRdwyPg1umLub7uZlifCquJla6BcIK_PhEiLmAlXA_L9G_er8aLHSFN6d7dHGELuZe0FXeU8KHWsJKpcpyMXFhcJ31kjbSR-4x1vNSs9gq1EDyHmB18urNSxgU4z_YZHdrWtw0cefAx=w1232-h1642-no&quot; alt=&quot;bby shrimp&quot; /&gt;
-    p class=&quot;post-image-caption&quot;&amp;gt;baby shrimp&amp;lt;/p&amp;gt;&amp;lt;
+    &lt;p class=&quot;post-image-caption&quot;&gt;baby shrimp&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
@@ -247,12 +267,879 @@ https://lh3.googleusercontent.com/a-gJwjLd1xsdDOpVFaceLoZbWXUcut_O51Spi3xqPtHrMH
 
 &lt;p&gt;I stayed at the &lt;a href=&quot;https://www.expedia.com/Ho-Chi-Minh-City-Hotels-Amena-Residences-Suites.h19120773.Hotel-Information&quot;&gt;Amena Residences &amp;amp; Suites&lt;/a&gt;. It’s right in District 1 and right in Little Japan of Vietnam. Next to a 7-Eleven and right across from a Harukari, a Japanese grocery store. The hotel is also right next to Qui, a very nice bar that actually plays decent music and probably has the best cocktails in Vietnam.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 08 Dec 2018 00:00:00 +0300</pubDate>
+        <pubDate>Sat, 08 Dec 2018 00:00:00 +0700</pubDate>
         <link>http://localhost:4000/travels/vietnam/2018/12/08/Vietnam/</link>
         <guid isPermaLink="true">http://localhost:4000/travels/vietnam/2018/12/08/Vietnam/</guid>
         
         
         <category>Vietnam</category>
+        
+      </item>
+    
+      <item>
+        <title>Johannesburg, South Africa</title>
+        <description>&lt;p&gt;First time in Africa and I got to go to one of the busiest cities. Johannesburg is a nice developing city with a pretty good nightlife. Sadly I was too exhausted from work to experience that aspect BUT I did go out on my free days to visit the &lt;a href=&quot;https://www.tripadvisor.com/Attraction_Review-g1846688-d2277525-Reviews-Rhino_and_Lion_Nature_Reserve-Krugersdorp_Greater_Johannesburg_Gauteng.html&quot;&gt;Rhino and Lion Nature Reserve&lt;/a&gt; and the &lt;a href=&quot;http://www.krugerpark.co.za/&quot;&gt;Kruger National Park&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I found out and scheduled The Rhino and Lion Nature Reserve from the hotel and got picked up around 8am in the morning by a local. We drove around the park in his sedan. It was the first time he got to go too. Usually these tours would take a group but since it was just me, I think they found a guy willing to do it. Overall a good experience and got to meet and talk with a local. It was about a 1-2hr drive from the hotel. Most of the tour we went around in the car but later went out to see the walking portion of the park.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/mk5Dwg5zm2U&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/yNJop6rGDzZdfqnXJ-G4cixl5KEMH4HZgsFnifBuGzbVgUokFJhBO14Q_WnQSxXCTTskCbIGuWQn1Dd-x9ETsHSKcIMOwKolLjVsFOwwegeg3SOiUEtzy3Hi_-CbPvMVZcMfF0j0aspV4su0f6_DA_RYLJWUclQtk97FS8SYy0_u7lb-Muiwbl3Wr1FAW6tXQeBNerGr089Wut0VZX60QLzIwWxrIGF_Gc9jJrVJwlweHKlMffOdbclPZCjKSIbEM-H-E614KUef-w-ecSRGhy_y-O6Mac5QWtHSI4ma4cBHC9TJkHxDW2GHWbumW1dlu8mmY0xDAX6TIz8xPhtGkDC-GeO8TZmNwBLBUjVkyJaQyQcRZF3She8ee27N5-upXsTA5vejxFr-vn6yu2i45qdzFg8yZv5wv-4yU_UVMu5sMPE8gzhZoaey8LbroSWCtXwHJai2RAG70_ozT90cop8NsBMC511mqqDow1jrMexl7hneiDteBwflmyAbbks_cN3Fvh_OFDDAb_AnU7KxZbIbeaMw1szQ-398DDnhgh1nsnpeEvq88PvT-dnNhJ-ELdhXNcyq2TQ50neEgkA8B5nAPtp-KbPNMlDUpqrubgI_9WhT0gUtKJFvVm1gmPY0sKHirV8jw-e6JuleodOknYLomw4vcsGkwY-B5kR8rlfTNVRKBHOMxLqju1OZRNXTQVCHN6oy33aF=w1998-h1498-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Full grown Cheetah&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Besides running 88mph, usually they’re just lounging around in the shade.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/rAL_pQ8-EEzeyBVByY1OB-_8WG1FPEqF299hCoWHotqKQTHatoaFVfTNVaBGZ2WG-jOELdlO7qyKySo85hc89bmFZSTMdon_wCy2dd4xTjVnDFhj3VAUGSk-MiakED6pIJcqD-D6FXrXSM-p4Aq6rEFWGsO8yeTLl6AB6oDvX5OaG90rFg2HMsvx9RUvwYF0UBZ1tZOiPLgbZSPBdRhopiFWqpIjkqAI9gqrDs7hvKyTCJplYReZ9vgYu-vreM8PA4WCcuVVwhKgs0IzbWyiGQNbWqREBtc6cSCYsKyH-7ceK2M8zrlU0fnHtz1Xb_axawHZfvAB6nAG44k5D8-dn0-Zt_6eO4xwPR1xc-XPj4LW_aFSPKgmlDHc_TrYQmr_KqTVph39Q8wWcNN7sWx0Hug_My2BkKG637AF2qEt3bKw1rTH8y5xagFipY9MyyeLTb0YEdeXsrxEXCg58pnPytDtd1WIWbLTTTGZRX3DWCIsybpURrk6Y7CBXrbzOYVwhS_UBMbOL_D6hGTlk2DYtZEave-6_PceLw2ZzZMVSoxLpfuqlCVPZBm-bv3hfZAzr_pZWNc37h-KUJApDOvqiFrbWTnIXA42T2CrAC2kiJlWHH7K7J2zmHABXW0mwuxfkoweet7nSspN1zwb5V-5UZCE-oJXzdMTb4HMm5AQRRICKPcZSTpL0JwFBmfT2OrQ1aM4YF-nWrUL=w1998-h1498-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/gIis0EI8qWCH-ebS0COb6bDLN-vzDeDNctsJT_-9GX85aB2cDdkw3JY-v9bZhrablZRV8_vdTzdSa98pBZNQJJaKI4u8V0vEk2FgRnwCda1KWnWT7RarOp8iRgT2Hi8IiVLXEmXzHbO2o5tzhYfXNVFkc2PnArt2vp-rZXndIabaXRM_k1sUlV2nAJ46o3norVtVjecg7lk-cEJc-FvXA8uusfFCW1pm2ujG_gw3DtwrG3msOwypJij1_EO2jcfoeVvScinauOTmROQwf5qq3w6ud_L-2Fo45HWXHkuGu_nSJLDaJMPKqtJz4uKsc6VPKG-LorM5HbRi2BNRQScZxkdTETuCRDvQmSbYjpOjE8vQPw5J2LJqdyYH7ilZGoqUPRnY_hTi6wh18aITuuD-zgCZq5pRx7ya74f8E800SeX9lJd_L8QsMzB5AmxbkvAEU4dCb65Xv32gAZ84-xEBo-0A_w0xQSMSIkGi2qKq7ma5P3Iov-40SCsEhkkDT4MS02OpIOUUzR8LtyvgKTFrVuCIVpFdo88ojgTo4o2ma2HxpDzGe1cpmIFmO8Letv3Pnjdu9Fv23uEiJcUAPqXebkrnMctVoW6_b9_1lMdjyC88t5p0ZVwjmpBaUyzrA8Szazw3nbSgwlY9PyovcEa0Iqutl1XJ1UrFIL28GSvlrOu2E-lFKmPVSeC2PsNf9n1pk6iFG8kHpYSX=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;White Lionness&lt;/p&gt;
+&lt;/div&gt;
+&lt;p&gt;As you can see the window-glare, my guide was really really scared when I asked if I could roll down the window so out of respect, I didn’t.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/TdhBpa7zVYnXS8ENKYvlmJrmRgkIFAwxLSfmTI9q5ZjkUomdQbYBHhiuEu1Ea5VTRl0wtroT2mWlV2fW7nQYQSDlyjaHUHZKkNgivMMvZa4M2bvdOF4SwIJ8-KRngHLhYDBDJaKqpErL9_tMF9ysYnUD9sZgg0_Jgyv__Gp7GBH7mEe_5BW5Wa3tBh2f2jx7YTBjhhWirb0iU5m5CBjFWjEM7ZkNANc2E1lJFTFvwDwmuRgY3j6JeYIVsp8ICSJW5PT8EIoAofKg6EPZNEQFXNc9f2JYrjdGOQ7EHy9cFbwJ3bsvNjvKh68sHrL9SOhKeF6sy_d8s4JIrTV-WSaEUNNr_ucdo3TBxp7geBm8LkFzU0fW3Jbg5QcNUkckbgJoH6Xt09ojXh7phADVv8SCy70XCzOBzDnYhxzKLdaXvqox2Pc4-srh-5V9j46j4_ooAyZpjnadklKHz8RNOpX8_crQozGitafbewESEges075DH3i7cC4nZqcUt6sTATqkCbJapbj7KXlXfeaG2QjKuE0ukaTQvDOmrdGqv-zwRUmnCOvN59BAOHjXewQX3knhuI9YZWhIR_paaLrWVtaJGPa4YADaVbz8ATELl1Vm_PsviA4BAzcWONgdoX3fdkpW8BznMefmkohmWWMX1rdMdDhPXec3EhX8MheAspm73AMBDVaXGwRrqutfx6a4NshKLAn98KBhZ_P8=w1626-h1220-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;^_^&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;As you can see I was able to visit the Cheetah cubs (8months young) up and close. They were domesticated at birth and were always around people. Cheetahs are actually pretty friendly of the big cat family. They licked my hand and were very cat like, Heres a &lt;a href=&quot;https://photos.google.com/u/1/share/AF1QipNM2YYoCLtlKUkvrLo9BXXwMXg44huhXAkSTu836Yh3LcAWvYJmkanCJEj-ZMHaGw/photo/AF1QipMZlIseMQasEjkNtCEJN9MD10PzchTysVc6z7c?key=Y1lIeTdoZm02SVBmY1paSDdCdmJTdGJac01veVF3&quot;&gt;Video&lt;/a&gt;. Their tongues felt like sandpaper. They were lazy that day because it was hot and they were just chilling in the shade.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/dsX9ckbKm7c5xeAraTXjHmCHwlA_wKZVKTj_IJXn3UY_4ZA7JPsrdLUFhbX9r5wo3MlLUXv5rMeEkEBqOjUNm3YRq7PMps92YXKlS4hQOkGATC_pcFzxfJ-5FMTVgoqPMclsI_GDzpaXwKy_B3nClcvoKfuzKif8Im-rLzQTqV2KuYKg8siOErqLwlvzrEY-MwUNfjLhxZ5YzYIVc6oxTbh21_OwMMnPGLmHjcHGme1AgXdiNC6d93tE0X2qKdCH0PX-wqhr0f4ne5XarDpGfvls-FuCVA_srp3f5l5q9fE0NVJSLeEbkqBgcRXhB56PXD-Qr6eGHWwm3eCOQDEqx0s5xFNvEh3MbIr9us4SzQo-14gDt4Y3PDG9_igqUj5BBJQdD658jWgONvkI3MjdNBZ3XMHr58ny-A4nMdayQZ3-mUvH0ZNYwusP5sqSYffPakkDmq0BVTUBXZDj75ToU_z-aX3benMPOaHpbrUz59pe9JaJc-qSafXoX9uoE3btSr1FDW4CWsaGiqh4CymcQkKrSi_skNignfKdznGOSO6LcfpMchpWtH_WV3rTdw0w1wQonIzF3FZ600aFpvzs77DxtBuqRonAbAToNxdMIjHW_sFXFHDki3bbCIB1kBZgWN4e3cKqi6udP1rplT6Wkuaw-bW9vy6cYHZgO-5sg3kG3cf3En-K4C9mGBIH5CiNtymyU3vKKtJ2=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Auto-enhanced by Google Photos&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The next day I went to Kruger National Park. It was a whopping 4hr drive from my hotel. I booked a tour from Vayama and was super lucky. The guy who picked me up was super nice and entertaining. I was also the only one with him. He showed me some cool landscape around South Africa along the way and we stopped by for some fruits and nuts by street vendors.&lt;/p&gt;
+
+&lt;p&gt;Before getting to the park we stop by a Crocodile Bridge near Kruger.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/7sB5-hDpOoDIs_2Ce5UquSyf0lxinGfn_ALbylO3eOjU9USv_uZSiB2KPxlVXcRwFwMaa55A52dmdLfxEspGqWSJL9h2qSCeNbRe6-1zazxVM0CLYRFdBMTNq3yNTKSR_3QkbLh0Ojmr3CqtxvjfRMiX9EPHAMnWpXAQImg8keXkwI9-h-RGLtCBr5Z46Ak0WB_9ZbpPFawUsAVrMOHvHvCful57D98tnCxs7fjjtsYJFNdMAbeYZwVf8NxqXW_75-mcIN0o7CqFycH61zJ1gwNQS2gKpjIMUdWv52R1m9SV6NsGL3tVid5TTAEcuRofj1PI_kkxVqXIe3dZk8qfLxY2i-eG7Kv-fY0PROezKbUFqIv-8qpT8O1veNphebJD3WFyvtb7bqoVoDNj2jOHBKXpzhL0Np6RR-ZjKMTddgq9F_lWKQGy0sTOgpdc9ZVpdTl0TrL_T72ZEWgmDHWtaWpo4g5JAyPGS8wbWZM85awrBLd1Ako9EC0n340yclh1MXo7v_OCsvNPqdNTRoO763ucrefJkVH1icTUysrn4j72l0zhj39iFE_tOtXsLNcC_65fkrRyxouZdBSqydo-ilVdqiLcGpTJCm597BmLK7N3-QhT-30Z9iNMegcRtIG4NbSVj_TLG4Mn0JDAegZY5dFz07YtVqrScp5PHn8RXhFMTfcdPrnFpoxl2w2ti6n0aPJ_YXmTXT9e=w1124-h1498-no&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/NkjN82uoryPIHeVa4N3GOld-y4_zTdaj-usQidp44I-h1xBCA2UaAjLvwTgenPxOXsltfI4164ttrYHEYCcJEzGgHm4x2mnE1UHQum_koYLOtLGLmiHhedJIzggm84NP-5OJAAuTttdazL_8N_VPcfUgOz_RkvVJRdM5wywge1ZQaw5o3Vj555_PMeS4HlaVfJNENQa6psGiVtGRrt8g8fPomLewE2amcY4kHV2YAePu6wdGKc9rDge8topIAUoWCU65NsgzsmfD-L1MdGlNs_WoBspJGXnbqmgG6vCuYR1oE29fLBYbL4SkcRFXFW4Uq0BnU8PjIYj7HBO4TFcnfc_Ge0LpJ40RtooOX3yrC2CgxnIqt3rQ9dNJWZDOE5BLlJ1QSWr-wuxeEFwsIduKlNzHVpiX2OQe9HNjp_s-32cHZfF_NasySL8Hjt7OPWLJYbHEp3f8m0zKKoxmu4Ayz7p_DvKaBeTfLoE4U7zepu0gzi4_7OvLbItKE50A8fj1O6UVEZZBwbnOuc9JsHN954kYjgqwlbDiHVQWUS2g0wvFxriW8n5hv00qKefsLGreYMOCiHl65CNNaiJHo4oLdPeaJcUB1DjrYUYG6UMQgOFHbsux5MKkSiqDOzvUzoSteuFPTWoA1qIMQTYSvMrNsgdZPT6ABmUn2vgYurPuvxUi6CKGbLzCNzJ7SeiK6bQrdnV_t7S1Paq5=w1758-h1320-no&quot; /&gt;&lt;p class=&quot;post-image-caption&quot;&gt;Auto-enhanced by Google Photos&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Here’s a &lt;a href=&quot;https://photos.app.goo.gl/WPCi93SwuWpV8hy37&quot;&gt;Video&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+On the actual tour, there were 2 girls that camped at the Park for the first time, they had a pretty neat outdoor cabin lodge with showers. I think they said that their stay per night at these nice lodges was roughly $70 a night. Unfortunately I cannot find any pictures but it was very spacious and more accodomodating than most hotels. It's perfectly safe and gated too. Unlike the reserve, the Kruger park is actually IN the animal's habitat. Outside of the living/staying areas, you are out in the wild and seeing the animals as they are. These animals are not fed either, they hunt on their own and maintain their own ecosystem with very little human intervention.
+
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/6j1_FkEBkta5KXr9upgViQ6-TWNTq5ul2IXP7yw4JY67xHEAFX75kq4Ui147u6ww8IwDeJFrEF1n1x62ic1X2ZRDPNHxxBGvtBpscED3828RH30KHvI6icQ7VWnpYkk-6d1t3XonX-rGOP2H8L_oKhUYQ5BqgdYTKC9_pY37k77b6oD8wZRNZwCh0GZoLpjCB8R3iV0f6OGKC7wJsTXHY8tXPT5H2b281slwqS87e80SVZwKu1M2RuNuZqePevM1teU7jBlZob7LxtOoBus5Pxmvy2pgd2OQ0pycj-9NCSgIDn1xtaJWVNRZ_wfC5jWVg2LPmU3nXX9_LPJzG82r7y6Dq2ioUzCzWfmhZO5voXVQKifOru0kv9cFWgucnFVyVVQ8hcyInY7BHtGLtnpVhaG048eQmbE_7EGVmInEI9l2U-UfUC4gft7xFNbK9CFZ-TFJaBfVsf7t1XkplNWZNud-3xyUYuzClz4k4f1cLT6GjYrgpcqY0hpowo5xmPPMBd5Yq62qoHMKsvgehJ0KjT-06rVbXRkpkbN29qex0_nIEY3iChkOjB8C2oN0MJuIonlED7HXUsE8wHyz6FkFLGiyE9_jjtjidSW28sI3P0y0CSL0R-CjFiWSLwKN85Ihfm24Uv7LxWu_Dp0E6fKTh9DFA84nn9Rs3FN7D8TiBpu9h8BsMgeHl7PX7bpfYK3ciha7MFb1f8pW=w1758-h1320-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Looks like a log&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt; Along the way I actually spotted a Lionness lounging around and keeping her.. whooha cooled. The Safari guide was pretty impressed and offered to get me a beer afterwards. Pretty proud of this spotting. This was about 15min outside of getting to the heart of our trail so the guide was pretty surprised it was far out and it was alone and seperated from The Pride.
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/o217zOmJYxEHfAdmGhj8WgtS3tC0ngIfX0qMM-fXrFT6UTNqea2rMyQlyLKq0fR5iJaYbe8tj3w1XYcqrhUrwQvxmRjYLUCKu2D6l1BmZC4xD4DYkkaHrOfiwuKiRprEwSz1BpBCkN2BQ7-u4pnCxV6OlVFXylyintt2IgS9Lb8EAtAEOCyUstSAlPqEOej0xWcaD55idkkdTvnPWBKGVocQdZwYa8Lizlr2Zd0qGDZH3_HHGCyCT6nDuxdjtJtpligmiwZQdBxmYPbo0hn0l5uv8Wge_krr8Y8-QXT1EZUeDZCnLdpv89r-MAOyI_NkhjzHDmh5og03irWLWoO-teQfH9pGtlPZfpFa5NSHnqc8mRuNQcJdxvSGEbgYtaLKB_lkfS5n6CzP2824gp6n1358xrQdene0VPz8c6mRiNV8fAsVngzQCfU_7Dws0CKRZ5ZYXRYfVnD-0P8qFCnCUgO1eu7JPAriutYotKZ-ZADbtbGwKv5Y-OHJbnrfAyhJYTgw8I4Ltg-QSHYXcrdsuRhWzfzYBfhfq0u1kMpqKNGf82PnS15Fxu3F3R9C4IaSDTKEDzZBWoQCmKxWoF6RVHB4ysbhy8UKvybsuD5AhsHwHxfE-SbDoU5Vn9czInj1sBWKHVvNgf3Kjc5JmVo-ciRUsykoenB8-xiDqw5SinzhVvZsfS6Od5gqnq_cN-WyupAf3HZZBBl3=w2190-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;A Dining Elephant&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/n7bopcNHEdJ2-HKpetMBFfqZGNbTvAwmxSy41KWdr1r8IAOZvXY382uDLVTHgjxL2NPFWgvwii26LfYV_no_KNQvg4XWq-ibgLtA8dpMc4KxgJbpRBEXbwEi_Oknuo6oao774TLCRphtzhS6Kb_lyS-HqJgJcVh2SlGq5WqSkVSEO7LqkE2iVVanS3ggnLcI56qfmb7KiTCKsv110-QQ3OHkBtM6Wbk3WJdrW6p4RJvYFDEhkmIWPIU2VHgkWmTiKRcFIcYpSKkZZlko8iTi2OQTUGZpDum32N7G2HIFM9sQv3L0-6XfOBoekCGFV3qPx1H99GJArLZWNN1mgLkYMaPizT3YA2k2gAO_yIMKtncLnf0FB32tQNKu-D5EZEv-Y9c-Yf0uFtDMt6MjVSxllP4fwKyPX2a2Jk8lbrN6mJh_0bBnGExdkunfI65JaKbY1ECFIAPVtiy9hHhQqvCwmYUePT5jyw5c4Noj1ZtIHQ5TyasPJZzconYXLi_D4p0R7EjNYbKJlFqp1GeyG8Ju23fqZHiwa2g9r2S1m2wR0FwnDzcK36VvF_-qJ_PzpaSovXKHUm-YpNBFy1V3s0ygdlzIEaTLJcBIxNHAescB2w69503oF02LlxbKUnQF5X030dn7G9eQDX20GlX1FU-8hWjW-PZjz9J63Ng3O5sAUFyRbrSPr4C9eoqfYYYW8beXt5FDSlm_SEWL=w2190-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Elephant Crossing&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Elephants are a matriarch herd, led by the eldest mother. It's actually pretty accurate to Dumbo. When the males are older, they get casted off the herd
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/dgu8xCsFfZqSkW8rJ2ssvsrl_R0RxeDOZaLhfAi08uRVdiRAjgqHIEpi1I9a6iwjHIz60fqNXYsItSllGCLzWq0A_8B63XKqFPxhv6K5UUyupKcPayOd4WlePXQj8MhzfWsfLVT5BW_tIswSSsOEM8gJL9L8NbXC2zFYfiUoH5pX5D9wgKHRrZDSS7K89Xk5Drh0TRtCOVYfW3_yg6sKohJMjZmRMNoBhTbOAPPGpxqnhTp7541yBcLC6H1G8zickn1EOiHV4BjAnRTIUSsv7lVVWQPHhkyQ1fP3DAadxMZiZO4rwyPiNd-HPfsNc1zN_R2IXohp97ySIm80kn0dEoxftb0PIc1z55n6rjOt85fPIHVoLRmc55DTjpHGmbWCDYEFtAa0KOZ--mxy86-5yOYNW7gkFZrzrPr6wyTzRgTCiD3KfuJqprioJ7QEH7e-WADH2b8DpLaUY3sQEMMuxlHz3r3WC2hBuk2IYJ_MqJeXTdEMkMtbU0qHU6ykKMMZ7L59BDFOw2hX5Si8j0OIttHH3A3_qFG4LwOcjTVhPemUbUKxlJjn3IwpjpuIZ4dtex_HW71i9G5cVaUjPiE0SdcPnO78IrbCRqrrTLaE_SDiHasgh3C_hB7zgqUoMwwc9D6oBQ4wT5VW2LInrvHQ-99tYVRKVeZC_lWE9oqfUVXfdeUAdfV6VkRnXV5KnizPfGMPbizjupYw=w2258-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Lionness and some Yaks&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;We were alongside another tour guide and it's group. It's a pretty cool system they have here where they share locations of spotting and update the map with pins of where they see things. Everyone's quest is to see the Big 5: Lion, Rhino, Elephant, Buffalo and the elusively rare Leopard. Leopards are particularly hard to spot because they have great camoflague and they are solo predators. Very fortunately in the 3 hours I was there, I was able to see all 5. &lt;/p&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/k2vCsvKT9On4EEpu6DSPoShGJRfeAyOpLsVMXejPTz23nMi2GxUZI02RWJwjZh1MwqNMIIkzgJSbEhFYn97U_P3q8v9CCLS5drNO7VnXzsDfQesfcEKc9vy17roklVFXLXenU2qmc98OhnKzmS2UNvLMZxwcbIWlJmTQleQcsHiH3BRSBQeko14zWmPbkaVfQGIz8C_lXdjzTKdiHWtz22XT9ed5r27l9MGpkXzmuo8nlADg_Ii8qBII9iBugwwQJIE4xeAhFCrdBPukeCVL7hT8l89wMlEgG9mE9BxZ6855aFm-lCArzL1b8uDk-YMQNBtGwWnyzL_4IcZ1kdchzfl17Vx4MotEIGlw0tIb9IWV8tJbPSH62kV7l4FFils3EAM2WsWMV-zfxi_Sb_yeHkxizd5IwWJurlQsmmxZVCTN5nyR36gzygvhuvvGVwgedyYUkUnFvS3-lcQ2G1j85q1eY6uwrEnQAefqBmWA-g3iMVFk5H0oFY3WadlquQqkbLXVtiPRh7VmNnlqw39hrc8n6GGGCTxFn6i_31PHBPnthYsBrYB_8Y37klwdobPMItT9cviwXRb5_bbH9fdlLYGv3TCdcnxXFMAJxBYNFEMpmV379-TUIY3qs2u5JO4ZAKy8V9REdagy2y_NzoIW5I5WsvOO8_Cz6rRxGbn-NCKejfMfU07sNbFSOjK--M6dR3nFt8glQia5=w2332-h1586-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Photo comp is bad but this picture captures 3/5 of the Big 5. Pretty rare&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/wRMwpWWGx2GfniynDbxPIYLXMjmPWjWRPujVWALViQlm9YNkWAgx7OePnMbDN__d4DkJrlE-sfeWNbDY8FDaNV5ard_gFvpqlgmKCABfpZR3sQXbdPraAVaIv8xzKqPzigTeYT5uOaJoaqyYSNxrq5Vghz8towZvHOWwI_4WEn-XbiPCoQJVlLHFnZm81PjxYKTTq2_JOUwmxRvC1dp5fzCSI7G6905NlekP4Qa7oNukzf9tWH4ZuADigFM0aNdRwf2TS44WGZYhoCNk_j8EmMYB85omRO6iYaUORjd3P9jmQgX32wgRq5n1YL8D2jYxdA1LGGWATHQVNrYDoTIQRjFbrcO_DMkkTC72Ld-sm-HZnNgZTlhQcL1a6A9cTG7HNcDCtFHQpogPb1qMM-RnB-33SoQFqukfYcMz7iTWyN6czAAUp0U9f_fkRDlf2Fwr7Q2nOdmc7K2BENFrwW7zn_pbvGoii1SHa0MSqbZCrK_crcyucfSEU4JG95KrUXja4r3gOBs8dHjw6UCLIKi8caNj59kB7z33iKOVTipxlEhDJkpxjgvZ6ksN3O92KOxoVKM2PvQOjLh6yGDpz9wylI7sNaA26ptJUf6ufTi4brt4cg99hXwRRxK1o8raVmWAZPImmFbADDfHg8Tu_fIcAd7VgG2L3JsCZl00_m1phFSwVYXmhtoIdtmEE7-B_exbL9mgdpUTeCNd=w1232-h1642-no&quot; /&gt;&lt;p class=&quot;post-image-caption&quot;&gt;Scout board&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Along the use of walkie talkies, they are able to update daily sightings and share them amongst rangers&lt;/p&gt;
+
+
+
+&lt;p&gt; If I had the chance I would definitely book a week camp at Kruger. I calculate that roundtrip airfare, transportation, camping fee and parking fee would be around $1500. They can pick you up at the airport too! You can either do the hardcore camping (with a pictch up tent, campfires by night with the safari guide) or get the lodge. Either way, there is something soothing about sleeping with animals and then excitement by going out at 3am to watch the predators hunt.
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/x5WYZMMtoe1y3MHvUSLQza7QvFCOKPI1lTdXTj3Xf62El_aP8ZReHFCZC-8V4Yqad6xAfE1uQ38-5u-3ulpu_t0r8pA407JlMM3Rx6kaa1DurpuQq8YA_0fmYlC3OQHcThUjNftsa_mGE_SyO4fhR_02-gC2_ILfw5WDaaizWbw7eBC2keAga3Y4n1s4yvWD94ePnUW-UCzX-VloyLl71vC4eXlg7OVUZeBjOogz-lTI7BJB8JcEmxE98cY42Xb9dCP97tafCXt3VEEzeBngBCBEf85Nr6rGJQiBGgXnjLdJjruLafi99CFzQN1L_kdGODsfRKbU5KOHqw0Wuv20s5b7OdMhErytnqonEhheDznFIvxvrSp2-qwRKMD3vx3LTliSygd7NPpgoLoEHBydG4FDWxTsWTsrkvOn5PvC2Oj7vVYOmDA_HRyBIS-MiAKXTSqzE52lqS-6gEftxbi283qeU-IfE6EiXf9zX_wae3_k8q1XdMmMP_lulXijTYR6QwJ8kcq6MSvGa1yBMp1mD1iXPqSVqfTxJoLS5JlIrzAC5LQUtB2ltTf48QmliLo6J9PygpGDFymVOyBjKsykrJEQY6tduT9CgRG8gwhhfUw1Jm7M-chUY6GRXdKZzIoi9NI_1A2Nr8ncbS1Y2WSjDxv1WnQqXFLVEkdnTzo0l-3wg6mIws2x6SNBVbWiuV_apY1G9t5VkK_u=w1232-h1642-no&quot; /&gt;&lt;p class=&quot;post-image-caption&quot;&gt;AMA-ZING tours, these guys love what they do.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+I stayed at the &lt;a href=&quot;https://www.booking.com/hotel/za/the-winston-johannesburg.html&quot;&gt;Winston Hotel&lt;/a&gt;. It was a fantastic hotel, with friendly staff, very close to the city but secluded outside, secure and quiet. The outside atrium was awesome for meals, night time drinks and just lounging around. The interior bar and inner areas are great too. I highly recommend staying here. They also hooked it up with attraction tours and generally better pricing as well.
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/apUFkejpSqCuigR44VQ8T2V0-mp2JrAcT4O_B0RXLjtfACIKl_V4bpiaQXrhCtfQE7ABE7nH9GsSFLxbutxIV-Nk5qbl2POvHI3b-LhxSitu2Ku1sx_y4_IvlxjiPq9fRF-Q6rsFq-c-MBPlX4CpN6MUb3mHy37uEwE8bshz2vxIClQGS-k-Do4_v3FiBv3IV3MOJDqQMwIHpXMPOFc8ehsD7KwQVoz2xAz4AHwXBdLyVl_LAdLwQSDC_UXXx59SMKuG8vfUGWnFXRt3s6OnzEQorS0wVqfNbX6pomv3xgpc0Cyz6l6dliYK0QLnucrsG82nkxfdmUEewsoYsNcAsq6yvkkrXQQvHbBrJqkfMd2tkdqjXMHIxBZiQzhF0aIUqP4FmEXm1utkkC_llPbAc5lceXzKt1iPpxZkDM-DM7SnxbstWWs9x64_l1tCfbLys41_ZJqVpB62COvDQhLmozq6v2WuFM3ECMT3K1c86n3jtV3X_7BDaLuCRi_fasjsePByIDxkoGXiXCVUGED4pG6xALZqB9vnE8wXlen9DNAVLyvmNJhkrPrKVD47ovfLOpo952aVROGWADPBluBlxKfYlRLNif7Fxcv6XQ3q0J_6sS-qbs_ZSp93jlOxzvILnrJo4NYj2ZLcG0WfMVtBuAL0GcLkD7bQG6gzIvuwOHDkAKvVO0bifEvq_CU9acgHcK84xOvlimnA=w2190-h1642-no&quot; /&gt;&lt;p class=&quot;post-image-caption&quot;&gt;My room&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/BwNNbDAULRAFOu6OBj95w_5NKImEz15Yr2CGJZHcvzmclJJjLchXGDrcKAL2QZ2ig0Sip8cDLLkiCbMDApVM4u5C6VuIsD86LCofpov_-IGdkLRctNwPKj48skeo5FQH5X2RpUthk3pb7h1dwbz-wXY8bO_h2epzbHnRYBShGin0awivod3bASiaoMQsSsJYe_jGPFI-KsupVIZoh1VvZSS1JSiFlUBAtPeguZRIoZjABD19H97z3ZnnLXOmN9bBDl1E7-hxqzwLESWnBZmxmgEGYmFwn9O7pcgtdCVCTpU56o4sKeBerrDfeaOHyaNP5WBdnaFQLNiTuP5jM9wEGTQuaz11psF10DiUUaoTfXXIKs2W-h0Bc2DHsW356m9ImsGkPMGpzenrB4GeDnV12TCWz4N5-Vvnrw8hZFMXHRfsqQkgs25fhN-6_1cC-bqyBffJ0lm3R66MEGeOTGgEcgXdewnYP3u1TkmCa4hJwQexfTb5bjUcUDlVjwnGMCv-BERv-ZWuZqyzpR7Y8mlK55J3LqAjG5wOF1j4L61qOrKr9is1_r4AROfFdqq3zRNejV4B3WfXWdv1kJz4U-NLFc_BWOYk7JlED2vx2f1jKIRhHxQuyBpsmiW45ANzVAKhSzkrva56mAqHwGWr28guU8IAtUeix19qs1kbN9APpTOZMWZBZGnFEAGlCIYHT670uL0TvucUuIVe=w2190-h1642-no&quot; /&gt;&lt;p class=&quot;post-image-caption&quot;&gt;Atrium at night&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/5JIGW3kQFd7v7GjWmvFRD3GwJP-y-CWWBX5XnXplXt3sAQLbSziwzrY0JQ-CkA4nnqffMw7s9H-2cS-wjPAILDv6UwdQi-hRFDnrDGtWyXj-U_ukw10KJ4oANB2aYmRRX-oZ1nwvXcV3uxqpeOQJbS_I9zC1ixG5nCFrOsASCv-BiR1lcvmeMSMm9i-028cXYXPnt2upm-an44hnVLFfTuMAC1SgpCV8qFbtM3jKjVjXY1_8MY992RtdF-I4aFa5v7Kr4rP7L4Fs1W3x9zqgqQLXFkw9O1c2B32XLy-O6ncZD7iZ9Vfu5ANiLePrsFwLoZtLcwJX4FPjj8C5WbRLfkkLWR0KAAI2skBIouXaUg90uM9NeqfNSOswpnaKN8NNyEaBUumed58ltbl8sQnHTvo6XEubOdp4bA38kpTMOF9paf_jmhufPINThlIv4PCP_SlOpNV33oSlbgJr0SsOU2iY73nVsePEwzempPqdYeiyCySJUEL69yc2sHJUwjMBuaMXeCDRGBf8HcsS_f4cMwxiGWr7u-9vu0_JHksfJ0s_0kyCMeXMFulM2TPaaV7S49wOn6oi1zUyjGHFiG0psSrvApkh8MnmVsmlZMQ63K9yNweMNbNEdKDRsRAjNhiSzVQ12Jz2P5fxipx-mV5ZAM-cUbM_HLszF3wVbQbfimJnCXdF9tErbnS5F26SBa_H4a3ySId2vw7j=w2190-h1642-no&quot; /&gt;&lt;p class=&quot;post-image-caption&quot;&gt;Atrium by day&lt;/p&gt;&lt;/div&gt;
+
+
+
+
+&lt;p&gt;South Africa was awesome. I really enjoyed seeing and being with the animals and am forever jaded from a zoo. 
+The people that I met were super friendly and I at least played Toto's Africa once a day (both the original and the Weezer).
+Definitely a cool spot to travel to. The camping experience in Kruger would be unforgettable. I would do the camp and bring my DSLR next time. Also to add USD to Rand is very very favorable. 
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/south-africa/2018/11/12/Johannesburg/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/south-africa/2018/11/12/Johannesburg/</guid>
+        
+        
+        <category>South-Africa</category>
+        
+      </item>
+    
+      <item>
+        <title>Mumbai, India</title>
+        <description>&lt;p&gt;Got a chance to go visit Mumbai, India for work. It was pretty cool. I thought driving in Vietnam was crazy but India is even crazier. In the cab, I was literally inches away from another car, car horns would be going off in seconds. Mix this with the intense saturation. It was quite an experience!&lt;/p&gt;
+
+&lt;p&gt;I did see some nice sights and get to meet some nice people. My hotel was close to Bollywood but alas, I was too exhausted from work to go out. Maybe I am getting old or the jetlag is really killing my sleep. Not sure. I had fun though!&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/_tG8DAtPDA0&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/aecrAKtB5_utnwUXfJu3xmfidvffQ9U28yjAb9cPca_JIiqk7UWqdJFqNSnhNa_6sGOcDTC-iV3WERui64mexi8-o4k_686Bp1uLIG0Bpw3fL3sQUgDfoxFH5miFW_NYOPu_-vwo41E0xC9QmXRrqtiJKbes-qjSl-dVi06PEPCaSH_2cmXF2Xg1hUNRI-vynuL-ytvXC1J3_NAAooAgel1lfwIUg0F5JS782lSRUyZBBUZIUI9VhKMU2xrOD7AmjkZy4oAlBxclJrOFWkVU7EvqPl-vqb7BxN_3i-59scLazDlhzvUIgAcb9ioULTR1wdJQgtxYFuWglYDDV9wzzE7BbYD5UsnTjswJTUq28mgxs_XL56fhdhtP6LFFHpddKBk_n7IEO1n3otC8IGvdF5D1SN9xFU-L_umtGjoj_r6cArjuYeeQrxo__rnKFrOoy5P7Bjy_ue0xBCJvaI_BEdKNvY-tDxvdDd6_vS_545E9Qo8pJAss9xPPNapWge9Nc4iaTDTRGDfCOIFCNmJPwc1vLQp717lkoz0ktXY5nuWlBC6qpqEWXwscJXCtRBnDdKQmU2qkjfLceUF9CzlsdMitZ1uG7AtcaElvyig3lywBnHb2UC_XidhCPT7UyzgO4MlIFJbunFPj4MMF4t2ZYJZnv8mX2w8BnCRBeXRvhdDARqyswvMEc3FD1YWE7E_y9ni43wzMR5y_=w1232-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Gateway of India selfie&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/gFMPXChDgazMgn-XuB6G-42ORR-UfWDVflCB0RVU966ze64EFWJFFLS1e9yL34GrXOfK2hPcvsSxA3OM3T_6gp8ODNgUbrkeQtrQZj2c0zKnrTnU9tuNtUjRPQHY1DC9DNy6l9Ac2SGLXxjrHrX7HASEjos3BLMVpbwk54smfoocTp1fCEvZZ39k6U2UYTB7iyGKrphwxymr2aGw5MM6jYTfri_khRWy2ag_BCR-NsrPISFWwwjUwxviG1TqkAiLJ0STT6dYvaiD3lFi4L6eYwOOjO4aVcDjzlKd6hCnvitn5hZlBVJLXMwwiHOEmVVdA2RaSsyKgM9lqJbso8QrXzSUVRberzMY1ApqeaKQFfOun5qz4tA5yJsEDjNJgS43SH41uujwQIPz2hKTJZJCPVhGn8cdkXVHfPizHzf8urx-RXbF2rQok_9TzPc-n9MMPK0yow3W7aP_dOsbFJuDIYzyoN6Auv1U76924txUpAIv8SteXxr9lofB0tbqsR-0o533hS1ErceKx25mO_0qKpYF-bJrEKYQV0hF_4qOsq5qbvKFNWA4625h4ZpO0atGWNm4s205WyViNpuyNoFU9ky1idFfHRYBUVWarROZOCylscztlfZC23x7si3TDy0P0TPaxImhSwK_DPI4MmCsDObkExMbo9t95_rYJ3_VpNzRvjtaCnXporXWrXEgxT5GSDTfJTL5_Hd3=w2190-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Gateway of India with the peeps&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/CbRUJ-eKr7t01o-VAGrWlEAg9DTSI0agAYxV1b8JfHubd7Uu5e3C9guOitbCuu0WIHKNeTS42JvHEoiZbn8NXEEpR23-zCNjqwJibGSiwJJEHv8jPkBro5lsxG-XsPF7ImpMrBVX2WaaNye1cTl8gpmwXPFkv1bq9yGqV6Nb6JXHj5lbz_dtdiPtEfpuyETl3Ul2gbkcYDRwydhnuvZ6HLkE_7eXfsiclPY6zBKCU5t7YamwVi5L617nALNXwEVgROC2g7XL2GcHxe44BLLEHF-xWhg2MjkZmhyPg2y2-nMx8DQrUd2Dq-5Le2wtB8fbAvS64QA4YX_zBCRx5Wcs-yL4P0AyyV0vvegHN43sYdp6VVP0RGVUFsYAciLKQ4tkJIfXZgGVplaJKPKyLPWQJfr_tboNFCf_q8N_TakgzUeud99YwCdjAu08R9J9eNJITCdZBvO5m_zsD-duDyz834fPrrQYxPCbQqOOeVo8wae_kBsiKr3TwCgH12HBa3VuW4KcyxXwEZsvNCzhwF5n4tXvkAnSPzhRlNeszGtWr6XPV2gb1wQ6dIyvz8EQbc7YM5V5DDq9qfY-QuqUVpTLZKPjAyCcPjnmqfeQEPrFWZKkjWn4xuhXmWnUb3AhX5Oc2buc2Q8fu_XKUNX_ALcU3ZmHQ1VVKZlyT7ZkPc2fUqICcffoTmNEJjkl3bnGjI8U-uvL7lHZhUoF=w2190-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;I believe this was the metro building&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/JVCzZPVMJBVRGoA7JtdoDl9BzlFDxziowfOKM6rUhbsG_FpCRtoudeLOp3RPFC3juW-QV3n2Vt4LDGAtoL_Aqjyfeqw0yiZqKWBmQpJh5Ao6BwtD_x9qrpkFG8EM5XmQ53vTOxm62NfuNFB52BdK1I4H-6l3uYkWpTlFL3nkTBt8n9x_SW-8HGojGUkBhOsI1JJrvp_d9nw61GnEly-ub6CXCtZSScAwgBOtPgvwa2OlEjWbBoxblA4kXueWgJZxCE9T4OMwmitrBICyzEnSWqM39e9e7yTi6vDPz6Z7B6isgCf9UyMqcZNdwmiQII-oOAj9DJn1EWPhTqgWjnYdoqQsGIO7IZCXspvm9l-1dD3iALV5cgvi3VPJhydO2oB2_D5YN9yWWIg9gaJbkXLrTZ6ftcV-4RhH5W3PGS7h4U3YEXaNpD2v9wvg2c0fycUB2CM0Z4rnOkP66whaBkEq0_7AB5ebJRm5Iare00XnZSrnheHg5mwceHHDih4O8bBcxISpnJ3fy1hDKzah0NatZFcUxvmQ1_lY5K-OVoyzgdJf9gN9-Ah8GEK1wUdar5GzVu26RDxmQUKdsnZoFziS2UzzrGGFyBXDX0Jb-1-d41by1tpzWHKZQPDGNSG7svX3bk8IJE3mvf6zQHXG9SYIb-TlNvT6UcfGN5h-6Kn5wwANwQYuPU7msZcF8lhtu6wKveK33ph3KjLy=w1232-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Municipal Corporation Building -Such lights&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;I learned that “cashmere” is just where the silk is from, its actually from Kashmir. It burns like hair, its relatively strong and doesnt rip apart, and beads water. I bought some scarves for my mom and sis. A rug for me cause it was awesome and totally burn proof.&lt;/p&gt;
+
+&lt;p&gt;The Shuttle loom where they make the rugs and scarves. There is a sequence and a pattern that they have to follow in order to get the desired design. I knew about these from selvedge denim but seeing one was pretty neat.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/cZCZ_E10ISkD73p_pu3HtjqZIN8ZOPk7e2yC-YPs_LurFwYMSnh_OHHO79UDAKtkvFdTiS-1zhn9fG2JVZrL13ajZdWWWRgBgBqaLeUdwsF0zyjzhgRfUNTadbTwx97P0OdNGuVRHO9RLSnD9Jgrqs5_1dLuKseZTIzXoHDslPIVJeyTSXYrXC_WH51lnlQY4eH1X0MWGYRYOx_N6MEn-3F_0y85GLKl9Wp6AVUKU3ZhSOfFm4ldK1hL5FOcIMPH5wbSi6J5MrZhFBSg79NCOR1AB4Z9Y3fhR0swmMqeNBQYrVB5tI95CIIpgUKSjq-MTqJ3mYLY5JBw06n55QUzXLgcqL38UaJ9cEkeyCVf3nSSj2mOO8hJ27Gv-Ag0eaYHKP1h4GEbrwvCgAx2jsMMQSgZWo8gAsgqDQWSflg1du8X1htuYd_g8gGucFS0IjbS5q7GpL1nUFQJ-Ghzq7R_-XXYfIbFExYF-acTTtAP1AbNwdCz6wPUdqztT87H0hv0EnjLL_33Jc2TNE9Rifj6wloe8lK86ErccIsbXWbieoC1VTD7CQXrwYxo3P0OL0cnCCk6A4Rt4ffhjNGRjVjfYF32v2mP0MHdqNR4rJrfG1kF9H3SQfqH31oTZ-et1O1PZgyB369v9YJpxCCX4d8ZZl-tsdWYjxRd5Tv8JWkljuBRJ__u3ZzT1_S92YvGhAIa7NYAqHsPp9ki=w1232-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Got some custom Kashmir suits, never had a red suit before but this was opportune&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;This guy was great, I still have his business card. I will update it once I find it but I highly recommend him for custom tailored things. I am wearing the pants he made for me as I am writing this and they’re still great.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/tVXZdwDK1XO3tFNzzMj3V2EzjuBpAf7laHUOLYJoknm8iBRqmMu0BOkayOZOHOFoWKKFqQpE4ZLLAIZ8Or8gmBRM__gO75eqtDMvQLqxscUZUBworn6ovhaXJ0uFdwqwGA1n3Ra1IEuCL-wEVGUcs-kgxSV7IF0ABarmapr81qw5l-43Bx3A9fmy0HH5tbGopeN2nzE4kMLoUC2mizZj0MbbwNa-VEm3LkU777Pln0XEkfHnUnBBu3tyi4LRIOzjJ64zbn6WZig9bjLCcgE8uIc2lEdpvPRuUVgZEcHONV1iEFJNtW43POgIswcdZDydMMYjxpkB4Xs3_AJBzYdQq8eY_HhZrEfpP4VVKnw4XmOJZ2-885Bl4yj2hJBV8k-KtnPB80bhwhG5-45AEZ565sIidPf6n-GKRCw1oFEU4UEQdkyCUyVsVhD2MVWUp9wHxQ6twEsgTWzhGTYT25cZ7fCuGxZHEJw88tMs8sGGyfeFCn9oOauKt3a4ZmpZ4xUimk5_l8pQM63UHZNMJA0xB0-TqXFwNkop7Ehmcw99CPlbswKOLC3jE8n63xN1HEfeRODFyTSTSlHuQlxgOVo4kRx-PaZ4L6BU9ahCvLW1qO6uQuFWesQyjjrAGI5dsmn0TVCqkyV5g9USHLY40XRtIXI3vXquLSqxV2I9mTgQ8tHEzHa30cmjX4FjO-__IxHvZkp92-vqPrva=w1232-h1642-no&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/ELuiSNxQzDSyHdLChhAigLxym-mgeiU9eVUg4j0cocvWkS9bZF3_cgz2c_CHjHc0ilBEMLkf4uZ4V-rws85X0pWGtdmZZlXsjtdkTdAAle1a9NlZGtBzNqMQlFiIXWSlcOWYnrkwzfJrok2uz2KjAKBX3mgHjR3b092LKDS_h3RgUVzgGkknVMo97g8TGbtgClX5tcFma6Mj3KDgeseaZuraLVvL0QTaL4WJn261A7rV-F-NAGjhSmiWkCUkLOEVF2CHuBbXj2i45cB0HNMNFvcRm0RDChcRGopHj4UYdG4WJ7x1k7Dm70q1E2YR77SopnvYU4MYcQv2QZ3W51vNTsXUoBKuLkcflarkje48wbnfNUALoaEyQxxYuL4yZUE-oIjfCEiPll0VoHYqGvrsUh5Qo70aUC5MT179mqNG6uuHSUu1o5M-9rwMXIWZm3C0LZhFC3xdPXQSmAi_kkJrQn6GlAZ5g_C238kBufhJ2mgjs9S9fieNfSbrSU2WsnkL4tYagh9vKzLobtr4tgxmjZaTg53I_eaeoq3FgBZzqStdaNYX6lgXibFwWvd6mYo0Ip0NhR6VuPkFvoT2jafJX78CEm1D4y9giv6420ki068NpIBSObH5uzE1I_LJdZ_659I-tZP6Iu3BfuqT0y3j9axcy9gThmaIpao_DC7qouyhpQvVFcUWqBZxRRFaY-YxuCHZavLjKbq1=w1232-h1642-no&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;This rug was shown to me, I didnt have the $$ to buy it. or means to transport it. This rug was has gems in it. I believe it actually uses gold as well.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/1bNQxeULdaWN6dpMg_an-_dECAKKIa_KzGP1jpOC7bqczAeGixDCxrjjkdl7nuKbudl6j9eHozawOM0p2AulUQbzLctLBwkXU25Ag8y0i93_hkkGJgb2Y5H4gmCouCuvaUAOc7DC56SCJNN4uICyvBkPrvkqXKuO3H_0MxyaHda05HgInd7fsfu-SdCp9mYnluF-B2bFoS6YRaXWlsgbGRiCwlWjznUElx_dAxVNgNqUyyW3B9RS_c9RtQakFBmphfz6FchGHaio1h_1D3Rum_vvzupHXUvcsbWvS8PHol5Y_yA_Y3VNPI4OzCy3Ltm8vtqH65bC_1SFici_XQjM2E_FACLGRW_QGv_EzBOgsGsscwc22naTibaQBvDCyHBQh1IdE6cS9tcFPpY3hFY3LZUf-GR1zoUZcXU4qz-UUZ3rjinNVr5ftZw-Upk4UQB7bIGKNDhNTKiqEO05j8TgJvOn5EFlqut8ugRWLj_9T30XaRT6Txjt3JAon7cVs9ed23iWfcJJbErdVUt285JRBK3OEbUKVt8pPPs8Ef80kHP5eSgVxZM7TTxd_YANxpHOb58p3C7K_n9LhD9B0LX3ROD0Al1i8KVX5MZZRb9gc2gjTH6SNl1T_AwlopQSoDuVhyefQNeRZjXvAbWSUdPCEvgqmtz9XdE0LQSYjC35Uqu4bq5X0Lva6i_eW49X3evKFalnWVmXSfCs=w1232-h1642-no&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Stopped by Gandhi’s house.&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/WrkCaMMI6qk47CqWtB01LhmW25t8tgVKmPh_zH6pRojE8eWOYKSh9mqNW6kL_0sdH7p3PEG6eLKK9UNSTrqptfRJG41n0PLYAPyIHdJvhWxFVQBNIl7SAiRg0B5eu4G8wLkgResQJCOwcV2IjiJENvnGo6p8Z0rMpMUVeKNb89-IOpfeeU3_3shBt24aAYuvS-FuZ12TzMWOEuGh8iIvgjECYZoxSLUUPolnP_J2NigwlOKik5So8lbE1RzlO3AKsISPJeduQP3shK4wsLxBMwGIMNITKAhRIYm_EPBwOoDGy9dTfTSoJcBlj0Va1uaAXIkCfhisM-yxmlDIyoUrv9xq2jJET7k5vdVVkO4acD-DFwrEMtnufy-NdtogFSix4aaNJYJ3r6sHHSsFvbI6NrRhIE1Bg2WP6FACG2ZiqpgFj1nuoTHcH8hX5ljVSQ1tj8ijmLn0Kr0wRrF90VyMVWdJTpQCKpDjC5d_v_nfw1Q4rUy53GJ5RBGnrkb3h-saKBjdBprzTOrvEiOYYLDqtpJEvPmhq323gNJ20PqwcDsc8iCRXSgZyYTgVe6NQTAsWNAHKNadQXtuT6e7Qthv6627og5C_dutoc_OrhTxXU0RU-BT-2I5KTynConIwGvFPMlEq0nkE9kdD-W7ZQB1FX4bQrvV1fF34-PWAYzvQRFlEHUGF5XVu6hqoLeMIS7zweXYuyj5pADx=w2190-h1642-no&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/8yOFowI3Nba6g2vB_IJ2XfxMkfscfrZbu_mPZFypRdZo9cxjnflibYfWZFDPy66QODpOIY05bdmtEKNyO6grZKfMPND0AxpgayegKRBBPUxqEjTOo4pV_XWq7kIn_On5g1wat0S0XW0XsAabWYsaGToGk5Ivo0XCD5kXvQ4CU7RTvix359SdBpkNybub9D5p3SZ1patDQAqDIAgOeotZsTA4nWgiITdg249yJQLdyDCxMdXzNoM5z-VOpDmFemz_VVSGdIavXqq5086PKyi2S4vhpRVJI9vOhS9hS8adutEDY-b_JPcmO6UoSDhG5DkkBnHBxjsB3k4Daz6OiI2jKYIyFQZXSJSSfkMkkg4LCxt1yrtQWTH-ANJZej0uXx9wZAs0WgAo8pSyhEer4VdtFE00HN1H79KYor5K1Axqy-ZoJNbIQtjWpQ7U_MkL1IahPGBrKf-UwyDWSgXKxnM2RHKeNHgLruVQz3ZvvaB6DVfN2cT7MLP1_cLPuT8vthiX20eh--jiTkc0Att87hLSxAOyHS1GglV3yWPQCRR3uiWwbQPGLZRiVWHcADKskSGy9rDQBmUCgT3FRA8OtvWJphrnQmO3aXp_x3CqXMMgX8o4b2KzZ3CV6AEjnrLyG4QZxgFtAgqwHvMw6nXG58-TESw24MfT0R8IoVFIMzgvqy3se0Ft9vPrpJf-aguSOmdS7cerNYt8HMwc=w2190-h1642-no&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;Near my hotel was a great view of the Arabian Sea. I would go on this bridge from my hotel in Bandra to Mumbai.&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/pkwIJJ7ycKCQ-H4OyBE1r0IzcgkjBTE1icJK44vtAXbtoi85JIiLojyxwd3gpcaH1i0dguCzXk7ne7V0ePOL0OkUgo1E4c5NL8OH53pveCA6KIxhVnAWREProPfd0cGHOpRUpQrehjWEFLUVZcxeD6DUX6JrwMCwTwtdEXwcnu2-j_e8TCErnHaS61wDMdxndaepGiOspYth0q-4ZFA6gM4-rN4Egf_3Lx1ceSHIrxrE53PMAq65A6lPa5h4UugS4YIhApR1IBCVISAjOv5A1Ibif33YQjxhWp6u7yDFeUNL9GIzg3TEAIBEFN6Vo6iLXlo7JZIhCkzhNp9yWnGNk_OW3DAl4iv9611IxYZNQLufnCZZuQWZIefAV6F3Qx0Q4iWJAa885g7WIW_eDVmZGotgeAelFKXikJa2QmRVZ5fn6SBDDdwo4RMHd2KBFklmWPf02SGEK4DTUmyGTcXYnwfKhii4UYL8ymuNPOysejclPF2YlSRATGixDIy3MK-47too2mQbRE5qYiLnZASbW5d5WruvLmZE95ieLozGrc4yjRTiowqiD216tx4jvWAvCwrl_9iJafJhPr2SC3efA8iGKLPyUtZ0LLXtmXlxEWG823yk6z1DxFCsBzXy-Am4DXpiLn_YD85CfiDDh46_A6cflEruBteOyyimJyGUpvLP0_gwXb8Un0jkCAjoTfv-wnZZ9E3XQqrK=w2190-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Bandra - Worli Sea Link &lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I stayed at the &lt;a href=&quot;https://www.booking.com/hotel/in/taj-lands-end.html?aid=304142;label=gen173nr-1DCAEoggI46AdIM1gEaJkCiAEBmAExuAEHyAEM2AED6AEB-AECiAIBqAID;sid=dede9467e6164d867b939c605a4691ad&quot;&gt;Taj Land’s End&lt;/a&gt;. This hotel was AWESOME. The food was great and the resturaunts inside the hotel were great. I was accomodated every step of the way and it was easy to book cabs for work.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/zFFrkdyVglA-OdH8tDs3-_pWRqlZ3CU7XAT8lTWgFlgvpm7bD_vomXY9sl0pKaW6t5OZbF9QD1wgYAUJpUwA5unqwBYK5hldEQcNVL_617VEQ08izKUKPSmgwK_a2om-sDw_HXn8dWiXo9JUjrYvK0fcwq-9PqwOu3mkee1dbGU1bITtciEId85EqHWBFwiI2PIAeZzPhM2bptn9SvHoqFSZ7HIw9LGW0r0XQhMB0gDy4E2yh_vofZYT8f7Hsk4bfsy8wFLl9jutBpDMKMCRm900he2AaXDkynFvjTBe3oDnRYQlorUAgfu8PwssMn38TRsi3oZjn3U0TE7iT-cZmiScL7zSbQHWnqyJm49a9EF1HWnGbbKJtiDZa0uZS8EjOp0JBVzbs7EhlwQdbjsUQUxfx_LbB0_X6x3FyvolMhWPzWFV_JjsZ-Q2oh3ARl3k5OlSSnqUVStRgDFUD5q-rL9vEUWLglOAGzdq-GWYqARC9gbHVBOwz9pMTpW3b1TMEITfGwea60zooVydwHnJ_n72qY_etBE1juyKgPtlBEyVoDP-u9aOl7dDg79TQDW5rg5FXd4aSXgEzM-QzstfdE1y7o2otFKZbBDm_xJD4-qb0cbfUG9UPUfvV3s-wy8qMnfqu0zxQmjKZZSTRdKqONOM2kAIvR5LjMyXQUy2_i5ZRFqiHAYDqZGsxnKs_JrS4Lyk5J4ObSOH=w2190-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Interior lobby&lt;/p&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 19 Sep 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/india/2018/09/19/Mumbai,-India/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/india/2018/09/19/Mumbai,-India/</guid>
+        
+        
+        <category>India</category>
+        
+      </item>
+    
+      <item>
+        <title>Kalispell, Montana</title>
+        <description>&lt;p&gt;First time in Montanna, this was a brief trip (and a short post) but Glacier National Park was a great experience and being able to see it and be there is definitely worth it for a post on it’s own.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/oJLyMaqnCUs&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/6PfEKJY6SEXok666b0U4xyaUTcLD2gJBM3GAXtbwEb0zp-iDFyOpIXu-sizB3Xl9_kVGk5APblyfhxX-en47Wiklm9LD0E6vJURlV3HUbqc7E2YVB5-FKYUDlOzDyuTq22lVfo-IEWkc0dtXL6gLQkfXT2C46OjPfcCoPZa2D0alDMsf0LpqAujZkFKmjFfOjLiv8iPM7FNVGhpiL8FLm5F0GzvkoZPaar-W9GGJdxKFl4iT4mcSWNefLSOzNctO7JsFcMftGTlxHaywxOekA66VtVUcY-Lg7IAXZoxDtXH1yyCXvPfbMCUSwoATabNxaUxfGrhwgkVjTDnIm4KgWhIyd4-pOvSdSq76NBtUVDn3l8U2WsGM67OUr5IdkBorfawS98xzrgjdGClNvutDdGmkBbmMVNlAb5qDIEdOfkQfbtEuY71M1JYwk-f3xMscQB6_ZCpg-43jm3QWWm0qPwuB3aId5b1_FCeJSaWqixAjncyhUjA69foCmtkqiP86gCb9ICiBRgIeZUYF72xGMrTRnRVnEiXsfyrTo96NTaN-msq_oo4DbIXTTNfrOlmNJ0sJbwjtJ5ODTV9AiPQr8lS34Wd3fOyedgpFKsgXc3cwpQiDqaWzJ9MK_leZdfS2zdQEcCoxhK92vrMdtYhtlBE5ANM3Nx8kF78d2mwlXm-_Ud7a62CRtYfAKvccVakBHv40aGXpjyRn=w1480-h1110-no&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;Glacier National Park is pretty close to Canada, highly suggest to visit it and camp here. The water was so clear because its literally from the Glaciers in the north. The glacier air was refreshing. The people here were super nice too&lt;/p&gt;
+</description>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/usa/2018/08/29/Kalispell,-Montana/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/usa/2018/08/29/Kalispell,-Montana/</guid>
+        
+        
+        <category>USA</category>
+        
+      </item>
+    
+      <item>
+        <title>Kyoto, Japan</title>
+        <description>&lt;p&gt;Definitely a nice change of pace from the fast-in-your-face Tokyo. Kyoto is very historic and serene. It was very calming being here.&lt;/p&gt;
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/TYRDgd3Tb44&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/pGeEjj822zsUWbsNKjlBnaZw-ixsnIH2vjiWWqG-5TbwmKzb00oo_lwrrrz22GC4VOFHV_FW_cM-upM2Y3ZYv2gYybpGaZcEI_5KCpcGCDsaJop9Bzvx9oyIGA2Gg51B9e5bqHOoKHkA4Tc2K5oAWRtqmJK1MUAZUsQj-iwCQ9Q4qfk90ea9uoFX_3Hiwv3M2UudjZmV3d2wnopiSU8nArbG9Zg_XnkZO0jqWX71kazl1IAUWfg-DY7qpxUOeSd3HYphiR40NmjU0BeqB2UYC38VhzoNJomsIvOhU-TntkiF7anhU0S4ZA3JD0cI1k94qg-Hesb-C8cqRDxh8YTmJ-LomdbcpsF2agBeDJ6mKcqiuUqVPNGNNmPjCkDBvVNtb5_fwSJRGaCBkUV4ChJfhy6qAl7uISMltWIFv90CFr8zJR6hhoE28LF-TyID9vBnDZTeQjkahW7OeMQ9n0H3zAyMd8bvAEWzYPS6tpuvBsnDrJOz8wfTi7t27GLJRBP6nI-IbE-vaCs3as4U7BwumwuSKcsoPr1oK7FTjCydE_g5yHBaJcQB_ji_UqIayHYq637rKgQtajN0SjCUM4P-DEqiiXQx5RKl97aGsBpPKjKfqZVsOKGasZ7LMwA36Ham1lUBzRpjXCchw3WwsXQytfbgfN0Ls0hdeB98X_M8qMx0QQ_LSdG5H_VroFMYLTysQrZdflpr6ko0=w1144-h858-no&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/wIOIvbIKNXxnYwEztk3ZLkGy4tPHB4aZZ9G9WUBNPC-YHhRXhXvVp6tmeUze6GHaVzmnVrumgjLEQpBp7lVoqaUmIL4FuGGfm2V1US3eTNkb0jEwRSz8R4qnISCZiJiyBCdr9ETLMdZmwyQeyZqf9JwHUTI_gFq2F1xls7U0-CdFpzWnSDBzfvPdWmMLUittad9IY5kxUjkegxtxyE5L2ptWFVZyNzkjuRlUkTTrLx81Z9DfoMC8QQ4D_OM1_qRzTapNA0AxzcW2URMikkPWWkXgIF5_3Pi3SoUi4YKlkIXkTIxoAANeGR-4sNwIgWzTubLtwUzgRod6PKoGf62x2EViG2lqHtGj0pzEMNoUflkXiZ6WjM2oAe_FbG-NT8DQBSEQxTHt51LkPvDsisDLEWtAj999-TM5E9dhWijJMPVEq995O2xAX1-gUrFIGy4j2vaE2vX_lLNWj78VCsgyIiq8py-zT7KN2qnL4KMHRF5LKH_gJdIEOxIodyHe7i6APrBVyA9OpuoQwDm8FqJR6zepDoc-kUFIcEQt1WTgMfrqlBbzK06D0lgyQNqWKinWwY6ArIAfG57y8lcAxNYOoYrJ6nAhSuiz9sMz-ZkZkaUp-Fn2E1T8IAuGhbJKRFPh3YqdAChbAZ7lTV1MVJOnQZpxbL0bQZ5elC-aaHy0aTIwBZhaueY4GSod0MDGKKVPZwq7cwjuHxzm=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Kyoto's Kamogawa River&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/ngTC-1etyUab7dIlRPM-RZ8dzJiBFdmLQh2PCP2rRk7bjqdozjO48w0pj4RS2xqwojGKhtvp7xf1mL_R3Z1SPYPkTpfZajCuFadfcMAyWYxQRbxZnkL1rL4SSHPkvpWntXGmNo7gJNFeKxf1cNB0Za46T1nNaZnjKyvA7SHUiAR-EbPwYvv4Ne3HroyzoITIkPUCWI5S8GilTizThVsrcjFudkWR0ligF_oVyM8fvDbQ-c_uH8puujD1jpl8s6UHaJAWGJ9eVkGc2OKC4v2JyTPnqEEu695zde1OC6q2lccOOTFOiMlR-k0EgCswrrmisqaiiN7jpS9-yiFpidAUtqPWX2RJzNnYfZNQ1_MYoUHG9cfAlS5fbtkoWMit9-SIFHspDG2jkjVMA0UnZErJutUEvbRqbzs2r2XnOx4nLF_tgXqXyzI787neYCKfi0_aUfWBWLz4Xr5-HnuYKTOUASv4I6JWLdbnFmK8HZORfNCfKgfSSGm4KXxDRo1zEPLJC4O6beooCgWN-xIqqwr-BmoI2aSndeUAzj7urzGEvfOVcfIS13pCVXzmkxR7Xw6ses6s1LArv92vC0VcA_NbkwIdMrHxtIcU9h2jxVheJbT1BykMwpigoO8WT0dSiVzI8FiM1Va3-Z4Z2y8YDDkXerSpfO-7hNRC-9oGHfV9F3B1p0jdXONfUEPrjtXCRaVLx7dqOel1wZwB=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Small street near hotel&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/uSCRM18SHDTEggdqURaJB2Tdx5MQtdmashqkJBObZbY40K0Lo6eY5owXteui1FD46vePHrOSHUTFBx-oIPrE1tAyKwBSgJ6azFAfctTXz0UOIkRII-GoXIAm5GNCOE412-GpFbq6KMWqnYGchwxxu4zs-aW9mUkjf6W99Z5_EBFHByUQ3rulqy-0nd5m4PZYDA4Q6U--iHkvq8x_I5rChtxuU4PA2iiF8pLHdCbSdhcshn00YXde4321LCKkCTWZCvu0bkpMh4oRqyNZvWbtC1mOlROw3jBVTC9brFOGTaGevTtIpYBL1rcIUq6pEB6sHfAhS0jDwXJKM-5lZyR7ehqOsQrB_xdmnqfpYchoj119dphW6d0ZSTpBCuVr_w801VfDe-cSsD9BNVZPl3AeYKdDUDVMVjlvFwrWYBgHBvz0X6269NyxClpCNRDcE_aeCHXduCF8D35nPXUAXF-03ZU89GCINnunc6H5eFJpYetv6EwY9f3YALL2ncSgltFZ3dH4GvgxB76jl6eXrYtuiGzhtGif4Iqv_xtd-6xQ2rgVn8E2z2cgmxFKtnG5PZnqYvNqwg9T4cj6ptbJNBnvYRrw74gOHmW3PqkwavaxJutZ0pjtYAnYf052qBUu_V6MFb0lEb7Q-4MoYMZBSYj8nmxLiEOQ7fhIniBtNxXE7rQW-6bVAh1GOafczPOyzMwvcMSMmrLi23eG=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Across the bridge, shopping city-like Kyoto&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/Ve-yyhQgJ5QBk5acjZkHN2xqoqyjaE8wnYBLZqSD60w6KwjqEH5C70MdILuHq7hCQIrUbySup456eROiaabz-0GZktv400egzvGUFpuziQq7GyZYgoou47Razm_jUbQiQKkP5F_TFh5GnGTsD62RSTLvq6B0YYqTCIH2nbHrPURRniQ3v48Bzmq5j3vFSqF7dBcpHX7WpXdbCTHho3wX24H0KdJijTjfsR4QrGO_rIilwe5WWvKT40tLiOCWZJIKmDqNTnz-RY_QLf7hBpUPp4ms4vt2NOP885ybfJZZL63Db0RdwLcHW2Mfbg02g7WoTBQoGkuDcZEKld_9hjjXIw3XoMCh1_CGOAa4wYYKS0XhiCeezmDJN8Lvaia8gS7fMC70haYKv-As9lyxEIYizJDjkCNmMZBJB8CQwK-iTZwVkFsggVgu22JTbs0Cfy8BKmrjKJBhKaPqXNVgwOecWP62oo0E44TZScvWc3WMK8IlVuo7Ab-N_dGDHlIf6QTFU9fiohJqCZ0nq-raXnwQMQch4zeANMQhNe09sjk17_udVHSGx9aOk8V6HLYIntnDd3jwXFR3JFKQIJT4OMoe_q1CQ3YkSzaCRdOn2DCoxXHw5Nu5-bfLTXtQvkhpyoaHO8o5FIj4fvCXnKJLd36Gmdva097OKST_dQW0FpCDO7wWxK80HOJJAIoIFDHQ0bpCbApRf9lmPMtf=w1144-h1526-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Matcha Ice cream bar&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/_5765UYkcoN23wugl2V_QcWihQojrkEpWQHBqoaA_YsQN8yKvfeuuRpJRUkmAlhaPgsULRyCJXUdOafd-yeAxb30xPUMFzbC2KigpSDhzA2uHgd8ViLTJfXU8wpWfN5sc_QkUB3WtIVNf22hzzFJrFTXMKy2wlRTaT5vWo9z8phW3p7FrJXZgYZvkMlfIRLbVdrR9a3tMNhat5JwH4hKEe0brMnSp7xPO3IiR7kfFpddvhup1wIBHSVwe3ib5wHvoo6kOrR-Y54kAxvmbmtIrWuEBDc9VtRfxrEHT4EzQPd_WO9cXXwaP9HShI1QabAmd36RvY0nuKkaP_BIr2ovhMrbJHftHUlorETjOxQN1MgWLq-wQYimJiTfcFR7sHYy_r4O7M7gKmcWfWS6o1lUcIWiw48MGH21GYGA9NH--2v29nGncxV0MIj_4h9Lp0vGaur6x6iL-yiBrc8DaVCVGuQCJJEyBaUyXBOYujVgI28-j_H9qR2zwZ6uJs8iCNc_KRplbhjz6XTDgNqyhhlZcM06KS1GMzMh94rK1sz_YiFnZG6cYizxKn_i3-d_YWBAMKpM10FEO6CaoAoqRidt0H4RBwTUe_BzrRkmap4Ma82NavWWII9wKiDH0hwsCmdwfzMLHzhzCR862y5eTQS2MYx9SUSP0yy_224gAIoit0BqKv7OZBAl3Datfc-Y_fKkDUaQhnjZk_20=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Nishiki Market&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/hoQ6Uh5Zd9TexravDlp9-SyPVNTK9rz-i9VUf4CJZ195uMMYhmIfpuROoJMClDhEnm-M2Z4lD3bQRU62nJhS-O3FBbBeqRknZkMrqDa6x7wv3ayetoKvPXwuMv2Kx2MHTMh8eQuYfYTsPydnoH0LYcVqyNJWEplX40dImMDwqwqemHppsj372aWLkyLJxrWYLs1Cnv8A7VvBRCQGpk_4Hkm01uoudCMW_fjz_hITa-ikLZm6HIFv9gy_ky1LxNEA6MfuzSh9M4eAP1xtvXIrJf4Ken-bDsGft7-hcwjnDsa2_muQ4EpssvlrWByejFrKjHdfzvY-8l9NLvvIYFUk5ziijvU8sFmIrF5QCnYSBko0sDA66uTSFnDcvzUZvrFTe0qCZG03nH0aqRYXsAl4f4CfQNKXZO6wm2hFUL1L173T2sZce5rWUefvmqlBJAVGxQpa1My-9QSnS-fGyvL9TbstvspbX5DR1ie1CJhJ2Qty9sgGCWNwM6_ad30cg0X4x4u_TpdQml7WNGT4k6zcZyi6bOKDnvxDQJ6A8vCxCCohbSr8noQxJ3-OUo615wC2SweHveVWYSrjMBpAvGeCTOYWTobKbYHUJstSkK6oB_YCptDWMnOU4IvkpFYWNT7mdO5lS4QVH-6HOB570LlB4Ppxh5-Wt5Ugy2_WFWXCjF7nqLwY21mr8jg7BRw2CS00wfNJLttpebdd=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;More Nishiki Market, really dig the rainbow glass tiles&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/5bjx879orTM_geBY7NzM56KmPj0LlPH8lr5hBUMSG6bS-33IzmGbMX_yFPAABPziAOzvSMi7JTjXxWx8Rhxa4sYtIRB66iAaw2TPA_DFqFLU_3Esh8Y27Ug-a0bL-z6BZzNUUt8Td4xkyPQ14Aa6ifU-5Lg-MmqtgkwSTugiqH1TTki4AtKgPrDf_rfIa59awMhguUsJIaaqHRjRRLUCQYDb2ivPZJ8QNpiu8rZ7UYparxx6tCEcA5Cn61XxuXRqcnzrZ_XszPiW_ueMmQq98RjAINI7zwgug3HQ5Gg4dOYiTFhsC9fStD-iGoeJKDuRH3ButxnC_mZUXMs0cWoADUWX3_7FHuxvhIgSfpjJE9R2c3HNLtFL7vUM_TRByQSzHEfs_884bDiH5O2_l63XOJfq_EZtZ-u8fDw3yAp7eEJt_xbkDsgudeWFCCArrvSDYHXklWVnQqPBdNJJwv3ea64UF25VDuSbpeoYe3lySAj57bNS-RFS5LJHgFcNrplhEzIMj_c9OE8aoPCeVBrF9J-XrWhduSSLIRyOlq9JN0m2UlbzurtfFIT1AjFnF3YZJa5qseDs3PwDcpOCeXIKchCTtuUe4_PIDm6Oj3O2dETyQw_bwSqXcHchuqQ4b4mNyEfCJ-YY0G-cGIDucLj1r154lC7_AF9JY_syRZxGvm5T5YxJ7RkZb9m40irhgLe52LXsSTz2nUm-=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Trying out grilled baby octopus&lt;/p&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I checked out The Pokemon Centre at the top floor of one of the super shopping malls&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/60vRQdvihGzamY4u0YAI0IyiUtiC7Us7e1NriQc5TqbtOk6f8-gKdv1qK-xUrZBT6UHbGsxbHijtGMPS9iQVHSrlYFy2zaXp3CnGCs_0F1BhaSQtC1B6pgpoqkHJbG7YxhBY9xLxCkFHFoYK7sp5p_krtqIkhRbs1BiqT23I8tH4f3jcYIhIRUCHXtRBmR1IyvtQCvZ9fJbaUY59cgrXXU_w12g-XLcq0TTE3EeGVxj2AoUNVfaKzpa8J6MRZBnB0w_tLNzC9ogefhExrZLO0oPbsFbMBhCie94jgOLKjlA51TKHYIKgXKd24Jja-852_NyKpG0IGbg25L7MJtlWCa4s0tNrZz1tWoD9T7UtJ14a89BoPNBfDK16EnElbAUCB_amVzuxiu8AfWP2gmtGobxnMwJsw8RyjHsOvz3sRLNwVc77lIgtkjIGMkHI3RLB74C8GJIgxSJ2nAilMdVBgQfLTFgnE9GhYMKn8C7HPxgFIy6InRBRoqQ0AfBEBm3SVhyz2C6Tq_GwZ99dj1_HqBf05b9BLcWitH4gu0hDfGy83NM3P-lACABs4kqB73SJWBHt7X_sWz5_HfAKp8lRUA3aKh7nWTdYIJtwNrIqTiFSt9AUQHXtBritqFk6AkwLCBWAENYCQAWpOyUVJxLVqhHdN8jcBM3wbhxLIPH_1Da0XLvAEvn8ib17bMcilCTL9wnazD48iP44=w1144-h858-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/ABWBVpkJnyE4VaqIretYfg6pq8lM89zs7ax4Bb-zfGLfv4FmBu4_kMG2SrCvbRRDOiam_KM5LTv76ggB_51KjWb7jwx6GubSkS2pheAgBS4sT1Wdou-0y211YS-Uj9ROCZ9wcVt4eCCTyD_LKcPLkAwHv8yUtpah03YX61DPRfyb3Ri-nmWvitGIgf_oBTLA5inNLatNQwrNdgL9GeHglKOx8xXu5CeomeXo6F39UsvCAief5l9Fz9WRftCGCAeCQzuBIDd77JGFKcAO7SMkfVmCfEbia3Cype8UY2Hf4Xy1zNtZV2-jEzviWx9Yo-WADPsSxDxDhkHeLe-QuSOFXINqKuQEIPwcSTQp-_VmBiCFf8twDXjoBLDqQgoAq-SJ_gFedY4LEIEEVDmtUE8-Aau8Bs7rTIhOGIeh8PRVhRrusZyQhP2nJVu_gPw6aN-08WItnPsNZcJ4DfoPugVk34o-h1OEatAmpqL3par24tmbHyoQyp8KYbsk8lHyKb-dNttst8KoIwwdJZxtP3aeeamfbT1TTpL4TtWPOmTJz_kyJzTszJkJmoFMbvl0EkpHS539-QdRGLn4vJhA0GATL0fciqnXAJrhXQVez8rN66fq-BgHRrjjtG87ISSSiKOK-DDo5vkexn8yK6JixqS6LvtPd2g65bTnTnsRGRpaPZ4eu-4gUXWxAJs6acn61yvqupmt2SFl2Gw8=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;MN03&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/vgPTBVkmLRqtk_-19yy2W4LVmaEV2q94IcGgDphgL1MMg7T2r6-CBlIms39I8rL8O1Ne8LYGU0Z8BQ1VjgJ_qiy2AtZ8UYjayMY5JPGrQwct8qYCTf4KQ-rZOIscOP7WOhI8-Xqjis5wITudylIDbU0UsuPtmCju8FMgLI9ZxpHAZ_olVMgxPGDdXPxDV4GxnYggHc9-cXClgix-r2Da3BsMCzvdckvz7DbiQlM-g4en038TNAsJ_muYIx_UzDleolcbEa14IZgnGaq9XLfJuJFyMx0dqcpTSuzVMtJO8cEtA2MfaZy4kHKBcA79qeqDV39yXcTYrTvc7xHkixFj7leDqjqACsCxm_oCTTGqK-V9oHBSsx_GUksIOx6zFS6o3KGafdLAeHi73NjzJMcmxqp9z-LYss1urXmMZjoLMbQdXPsNpZ26WTH2IxTBkJb1rOcwppDj1oxsb4mzZY-eHBF7HknFqNPK4bml1VRkwcn5C8dp8K3BchzW2Ah9Be8E9w-BgB29te71INJ-gEybEULHyeb00SidKqSax6o9wZ_NVnhFgQaicKDTpEVsha7uNUXc_EX7fnbMQYkVZ7WIJOOqMmGEkvuV1xbKqCWKj8RB5uqmQAdTQcIH8CiMwiEiOmMwvjHBUzvWHzn6G-kLM1iOt7j8nqUDmR1y8eLOyL8AOU6BMgrKc9gWQXtcBEoLB0MoCSJ9QZVo=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;stopped by for some Ramen&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Checked out some historical sights&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/dTixxhh2wni6nTra8UOtSbLclUpCzEtXmYmUXO4eZZnuiFVv9vaIp0qoVwsXG9H0-nWWWEJ9pE-LWAAC_HVL-9Zj7WBK164Z-lSwnwFZPz0Q8C_SheForj6EeUjl3h5QMb9wnpXxVyupMCj3iyw9wT4JfM57OepzmfgQ9HNdcdmEY1G85npdRcxD7SrfQ3lwHYbNlxY7y0luc_8QUJvUbWUK-NWt84_l_o8TzpYkHIPI6YDXRjysyTZIt3OWeBN6lhTEGkH9JOpK1Of0bB1Cv4FzPZlHBrLdvlqpEV-LN_VUJIM160GdT3d91ZuQmwTyjefhTO13Res8n9Jao3rxhBW0q9kSz7pVPVUC8thgaTB77Eu2niSR49lSTFS8d0MG0DZ3oyUfvIwDqaok91luwVMOs06uS1flQaIi_d95SEHn1wLRvSarEOgFGy4rCd5GCb-71zHgaVpk7e5ZLW_pfw-MFWTDgNPQ2CQEPKGS61JsKef198ROiR5UFrveakdcX4F-8-9vuS8n7mhrbknQopqvykj7oa0Xnhioc8rVAekZIBOcEKMFDaxvMqubFygFI1tFKEaWn1hOY5kMhuFi6HpUHYuOdFikY04_YILMNWfCKdEsxhnOcMXqd1lpZcTy1u_vdtPhuVOh80XGWArC9iHBductD8BQcZrAttjadwCEh0d5CFsoDhDouqPuLX3YhxT8h5I9ai7f=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;&quot;Let us discover the significance of birth and the joy of living&quot;&lt;/p&gt;&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/r7eE7VpugqmtEO3oKQm_Z42LOkLVSI8GTsRLM6Fkw-k6_KuxFhOUsKaTxqqAAMjMVdJ6rNDqAracy_luKQphF3K8ZEygdo3yg3_Z1EXrXVIw-V20fQ_Z8C6LVjyDDLD3951VsDD9WOglXxjR6Rq8bbuVsEtLhjXzkoGjM9_4tmXjOwpjFmbMpzzGzYvle0Ba5iNXnOfWBknBvOTCQDqd04Nhu8quBNqsKocPVwjos_Hu58oin9zdcux-7daDTsZrRvqFoI3Mqn5apywdJ_ZOZmtu-iHCSer4SNyQpSTJbhwsxR2d3YeZfrlY6NGPzvOzQcd_umAaTuaC1xdK9dBTHrNans5cCdPmUTL7PfyK_ydUYiror6mN5Fxien7qY1E_yt9_WS1OZ8Q9UBA7iKNYFRl2MF2SNbNNj9OYV0mwRYgiGlYTmFbx6J2I47PAAReY9xRg4zn9ssb4uLuKhF1dvUp5Un5RLMy3keFByfjVR7WRw9E73MxuZdFmOcEDLjztxTcX0oYB2guF91KqBTbBkzD4-T2h70yTqcwHojNUjlMP3JU-yO8YSCjX75ENZhEeixBltigTuZzd_InhkwA6lAG2KhGCAsbQZHH2ppb9z9V3Wm5hkaPqJOLdSgbspdt2m2jU83i4CdQPq2IsAq5_v9_03YBfzDOAbMjQl1oUSmc09W-rW6QddPK8QI-dD4Me37Gh4RUtbNWB=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Higashi Honganji Temple&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/Z1_4rpNsUxx7fpfDShatUSCMBIjtx_t__hjA982JZgcmm5kBfo4bsPbcDN_ntG2Rv3TDHsZq1SFqmu72y-0riNZ7xEpubzm9YOqQ10ZA_e87JpPf9TWK53Uxy58qkDt4NZcSFHDmxI7_I-E-cY1BOj5st-VV-RdUmM7F4RdyqrDtZLJLttpguyWHzC4nmLs9Bp9HRztO8xBKvBWxI4BCDfPKSCcZydicpK1-Y_ozx0nYFjYKVD83L5yOo_JlDKu5MY_hY8AnZKM75QZrq5ENE9nMFoSXhA7X7Izt2uBhHvfbkONKaatXCWEzo4Gq9-TxTnhx6_PSBP9zCj_evQwBqN_XoIWOVKmfkRFxcAs9Wo54uH1ncKc2XHY_qxcwWi65v9gbOv111yyWnWR-x1_H05Gagx-giTi01XoqrZsUBSGd5iLnwjQPv49oKi413Df914H7OsWCdtSbGq7SJPbVLFG4Q6-894JGO14akA5oH_ivjEoMzNlQfoHEILW8Co319ViXP6TT_wXFYlhZhBUT0AWMvqE8Ws3ly7YShwg-ff0B4EqknaCDZNE7A_DlKWYX2GjqJms1yR8CYBBbfYfSCV8jn0HJXGsa7H_nlLvBVNyBJsWNbYnfM5isDbgflntrQ2wVBqr2Cf4oyLOrRTHElG6OlyAuNDpvV45AJs2TTtNwCinSyanhWS5AbdELyw7Vg2h9CrZOcavx=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Higashi Honganji Temple&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/r_l4We-TZtbC5gkSpMMnMjxJLDsyKHOX9uPr-69JgqUjyPFqdkf3C4aKhU4WfSPusCW7hF6IvqEr4yhcHQBOS8GswFFcXdv8uqExvUBZHSnRobcdNaaZQPXoaa-VNFwNAK01UYhUZiSWQ_VVwWy1_5A8na0SFrIrsn8l-osJRZxcjM0-TCGcyAID7piJFLhM6sRqCDa82nHOC_zIN_h9osEcfmlqzliALuqqIQGxMmHypPanaXteORn4_4LtD6YWtX0GsEHLxI4bt0odnHu9RJ3kDyj7kJG47al210289leZhaY2yWh8A0gWCTgvYuRYMMwB1stLhAXXv9AMVD1HtfFEfQqAjLEwoF1i7e0o-hefC-t-mylFC5ewSQ82bEdUe7Vf8UHjzHxLGx1dnwP-WyVFEQoZSaaPzmm5ZI2HZHWgaoAXpcvFABPu6oNwDpYBD1ILcJfi25kOz_YV0M0t2niM2QLpIPFjPX8XdDacWuVrv-X5DeHDA9dSsT1bO_DNbu1gM152zDN0rmIrb6b_lUyAq8N_8Z5eqahQXDNsw69HiWaUFODrG7nWZ7UiXhIjB6e5odIBiUfe7BfIQs062XarwiSXp0NIaz7y4qfnbTy5_NJcmY-NQkmanQKhmldnVyyiEjWxdABJOmsp54dUkflQgZqairfJMZAuzM0kJNS7VmEgssWFpoHbiaLFd-ntC5l8aREUs-KI=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;feelin' breezy&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;I really dig the black and gold color scheme here. Very interesting &lt;a href=&quot;https://en.wikipedia.org/wiki/Higashi_Hongan-ji&quot;&gt;Wiki&lt;/a&gt; on this temple.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/ng_FMWqHAMyvtLJjOjn-aUFXrsVkwW_QOiF2zatxDtwml9iFFhCbxpnmhN4mpJl8cUCMvPXNIJR7eEw9vRv1PUCsgd0XmP1VFvkq1LNQGess4nYBuNk-PSHqe875kgh6NYPC-ASNYb-5EWCAc74jin2-j92spePTjfjkCwBvafZnEZ-ubPFOvRjRsEMVuRPOQss8uVV8zdikMeXmglUhAXJ5NWHzS5HUDvmEZfzIWK0jf4yXYjqB-TLzWOysUq2voaP84xeDOOAAX2bxFuzJ5mAETL5xV_BDgfsydsEObaKTJQWCpsPpSfRCjaYb3mh_tqRJFHrUDo1H-pd9efLwKovmnBD1629cfkgoJ1tFdHn1hDX8NDtj_q3-rE-NGqqO-psBxcdaBg9q9Ncnq-Xw_mgYXZ0Ue9j6KYp7eZ0oD-KlcOqi4SipnzA_xJwR9HZ5CiZlHfWVE0_0luj0ut7Dc7Ogy8ZELbM93CuHB2r3zT5uZK-GkwFClwc60GvSxmU2P6R2CO2ICmx4-tkTES4yV90KCtteOpvOgSlk77QcGUQ_KPqQZimc750c_jQzydPtePCX2S6ySHaEHWf9vUKVz7o7MZv91yOnlSkWMM0hLvln0EmKO2xep7aREmLOrbvrt_uuoimMpKO1Zz0-gssU_nPkgxKDoJC7722YIVBUXXML0mryp8-2XvTN272NFHMNBAuZz6a-wbg5=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Sanctuary of Fushimi Inari-taisha&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;I like that its smack dead in the middle of the town. This shrine was cool because it was an actual hike up the mountains as well. Pretty famous shrine, everyone has pics of it (and I understand why). Here's the &lt;a href=&quot;https://en.wikipedia.org/wiki/Fushimi_Inari-taisha&quot;&gt;Wiki&lt;/a&gt;. The shrine is dedicated to the Kami Inari, a fox for the rice grainary. Rice is the soul essence of economy, health and wealth.&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/LuwNE3dIma7xviiUSieiS0daT2gg0TKjMWdkVYkNuNfR1AhfRMNXo9102159WjbeU4gFzINMB2mq2N-Rteeu3gKDMbFCvMgqjWpLLjMtPgBN-hQuYMAQkFnZER-jZ_ArJzfVZYaKjIQx23flOoR6mhwaRRSKu1ewUCDrzRs05ltoD_Wymphc7Bdbw5JuMLDy1Xq-I4xY-HsGdhyiwn6tdwzcTpwVR0MXJaWbkfxoVAbP-TNFeeRxfXqVrNjQMFez-K5Z22VK2X4fil-oxIlU_uvqs7wW6qwcSfUO56B8kr7pkKkpbbKJ3pn9clsE0jAu4ql9VUuFt7lJGnhbKdPx7v8llNOG1RCy3p7fobMFNHMrvngf1oKOezmLU-9aMc44lLQoShsTeO-q2KxxMWaTYRvCgw03F7WB-MCCNRL1_ypGJk6ePvv6CDWK13GTQ_NHOjprmbwDEeamr51dl2FrSbMYszNHrLZH8K77IXx7Q0cHQWuCY7NJdYsuwrwsgml8vjIjmgSKTNR00gIS04ZZd9Tsq6bSK7IeOhX-9YWWMAOGI38joMZe4cdvvXV9qngHtLyv87viBqsNowjRaAEwICZIT7yCcgrTADlpP49RSQVlWOYF7GO3Fam9lPMmYRJpYNpw393tn3ZcKp_fXyHfuE0CLRs3U7uGSpRkMsQXjhldP1Ny8CaD7qsrPxczNZaN4ub5EpWw0x8U=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;A Kitsune statue&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/mkUa-YdkHU8ow_zlTtHZSi83L-TBcaln7vQqf7Wtq54dsd0Jo7Utnn_hZ7WlBhu1SIs2IkB6uqjSz97LCdaXUk8xJ4aCtptxe0uWOQrpQYpNISdDH_e3UT0n6g7t0iht_yYZ3YfvhnvFayjT6FW8v1I796We6Yh_lCrXoNROIxQtNBo08O8xEzB4KxqKxORsaNtvltOJIZtTt-OJd95N7Eb5hs5vMvELTEtIwW8h5JUWzDomKx-mtc8aolrRGrPK5aluWJjzRlEI92TGqalZ0MCJSJTKywCdvs3T-5Jgb7N65HfveUQka5An92kgEj6WfgzhyomYWtu7Lp9cZIgPPTg1SD-HiC2FVXw28scBIDejcgFrzPXAst7p0s8w_t6B4nACw-t181vmFBj8ylo3aYwJ8hK_2rGj83xvSAuQ1pCnWM5CkSmHLfdMZLfoQmVKRSvaADBfQAsJvLaJ1gP-LeUUkenj4rGJbyIjgUth7ttt4ALDF9Debrubtxz4SHhz1T29CmcoU_Sr4EI7kJmjTCKCUok5UTbIzGmG21xWTx1Tf8g81T-a80dt4sHLfnIiV2EwBDM5t29_aiY7jsQkjg1qKUGJ7nKvFs33cVXO5YGxrlJQhSl6LiRvLTqHURQ8qsBTpY80FdrgCigg7Gxqa8AjroeCHSW5fPXNF8E-k6W0_FITcS7RRzduPOBOE2oNPOqeftscPtLf=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Basic Fushimi Inari selfie&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/4rI750EBU-o1UWxmtthxrfwdoaRSymBoc-s9CGp5IqnWeV6L9hil9_k03_egQlnIhrHOeInO9k9rYlnkoD6u5q1_0evpZlCAk9zyvTyjEX42JV5oNFS_RtNiTgarYBn1gAh_W1NNhw-x4oIhOn_GPgnhCgbMrWSaKkCG5GVXxEMvVlpT8DqDaK7kq9KITXa-kp60AyMtVYsxF2P9dzmHycpJE4DffT7DQ8zZ4Lnoghdp7TzG6exuyVbw9E-UNpC3C8GjHaLD3Z6jYfbW3Fezw-_8V0rXyYnUrNGpqLma_-AdCjFOKJgJ-wcr7nAaopqTDDgJ9xggQvdxtA6zsk1ny4s75S36xjl-G-AFdloq0vizTmwB5YhvD-u9iCjawXZxOU3EXEdm1Mc882QzrHC96yy3Ll5bJW66Ojdx6AwE-ZleGu7MIMAHOw9BoXDCBU2zGt_zIYp0bClxrCYFKPWDpHVnrtXoZ13c7g0wbVphJruEHMFE3ND2XVyM8sMXTzcUJCM67DpVRqOCp3nSJMB6goJm7xY_gYVhkjoA4pDOG6vi-4o2wtLIGJ0r5gZxU7ojv9yGgmmrNWiZu3jKPwwxAjiTwEfT2irdFEqggEEoDSgzpCeOmSZKnCXRRwy6F68nhTjFdQw75EzfptrjB0RXdTrKxq0efJiOf8kOwF7qBvAoYxR6a2G6YDUmo6OEghjZa00z91sZ8A2Y=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;10,000 Torii gates&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/8stACNYkyn6YQOpNNDipGUUj2US0SGWmdk_nHGEzGsuatUf73DKsYPtEX7lR_19xIhN_oY3tbRlGX-eqTjnGY4OINZArigwbBuEd9ovrhL5el9XHoy6waZ2mqVJarWmBIVW5xnsLRe5Lv3GASZ90OnBoXPNTyGM4aEaNcHqN7PjlLZw0B0e-IXo6t-aYMAdc88g_nSVktIZuyelrE4O6v0fuWKNUU9rqz0DjHUkg7EMQYdajrSBU8uEuhsQxrvPosAq5OuFwJT1WuAJLrkVHB88SulfEshnsvJvNGx6OxteST1a-IB3-jjwNj1U38SDZMGt1zaangp5pJIlbRF4JwfyY3F4ui94iBdqknKOwi_PqbzIFpz1b5DCM5Nj24ldDdZbUaCWBkdDZH6bY6DqmXwAiAugfBbulT8FtLMyGw3ILGjB1KMhEzKX02OzecdPlNZnFmmlxLsO7Vfd9iGDlwx7yEstXkbZHneVsLRGhLgLcbxJONgaKfE9vqJv6rvRVsvV7uqtCNJkxGhI7n_4vMXK1erEF8_PdZB1LZ4jzwh_tXsh0CtHvD9nrJ9EFE-n7a3gBaItUpstm0jRXP50CiD_uywkUsHZH7aht_rPYuhBmd46ylTFtnKm-6xpn7JzXSxYc2Dr_-lcWv3rJTwsuwnzMUmooIewwxSRYSJHsj3QR3jpvzFQVx4TkmgBfYL2FWKgts4ecHIP3=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Stopped by for some Wagyuu beef&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;After returning back to Kyoto via train, I stopped by &lt;a href=&quot;https://www.tripadvisor.com/ShowUserReviews-g298564-d1172468-r322573931-Issen_Yoshoku-Kyoto_Kyoto_Prefecture_Kinki.html&quot;&gt;Issen Yoshoku&lt;/a&gt;. This reviewer captures what this place is: &quot;There's a sign saying there are &quot;5 girls in kimonos inside who are famous for their beauty&quot;, which turn out to be mannequins in kimonos. They have only 1 thing on the menu which is something similar to okonomiyaki, which is also similar to Vietnamese &quot;khanom bueng yuan&quot;I do like the humor and atmosphere very much. Great place to have a snack and a beer&quot; . Another good &lt;a href=&quot;https://soranews24.com/2014/11/05/kyoto-restaurant-only-sells-one-dish-features-mannequins-and-gets-rave-reviews/&quot;&gt;link here&lt;/a&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/73deITC7VSJ0Oq8KvmHnI8cqmCoFdXr6xCe43w6bho_eaSFUPNGXMLnoacF1igRwofkvcsBq7WU1Uz4esXlithf8MLD7114WFKuSxNEFTb3D0Zvp0DS2HWiAAJJNisBqvC5YwglDupJ0HqWZVUzNDfDG0mUhs7S5hsACM1Rwr1Gzq31nHETarMINIQXgSrCKI3S4Gz21Rg-Bbh6pkeX5BpdDqvLOQR-lJdB_X0L2Y75MG4WHOMyAE84k6NT2I8idqhfS8sCeZId81mX6mil3ylhU4HuYVqYDBuijJttK7bqtb0hrPuG2MN8cnI7l2FxZQoGmTDp170CJMGkwh7JGbfX_A5jn0IxBmYW9S3GiBgRFKxruBaaMOUskqB2g4TfSp_bciDfjFa9SFU9ExvUwdXh3P5J7lv-kcBaZIWxN9O__FWnq712Pg1RQbIr4MokzhM5RlXEsieXtHJtMIBRcoSrhCf3VJ2sj7yLg2ntPWUm4t8csLKm3KsnoxhL-WkSEeqD3fUNmEzwO5U_SVDnda3720fCRCdXIbffggzoPMPpkffYIgxxlmBl2XSyGH7z5j04BEnl7Z_t0mJvFWDU14EnVXw7007tUfIsBHAp3KxkyBrFgS_yZrqOCaRd0CRd-TWCFx9nI1nJon9NAkNvwWrlrNTz8oj-LyR8ejaH-6OfoldDH18dS2OqadjdRLqKHBXzDMURewbXn=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Beautiful lady 1&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/ZIPeb22mfm3r2slNR0HS776Cz-AUgGC6RnJiriwrg4TRlePS63CFlCq1hjLMjwfxfLpUq0Lhkr5xw9IOTUZpMIqUnvI4mFfHo259t64I2tfNeSNG5bSjy0w52HguDoIhnC5YkNBY-ZOSpF4myrWGQCQcmHKzI0eCIaO_V9GQomp-UJqGQtpkhpDXnHPtMSJmOmK9BcETH43Qj3jKyHMUaEhhk8RtMj6PmL0Kf-wu6mg4WIVzIyyRxN7ioUQuzpBzjVdfQdBbcpzfUKeHYlzy1QZHhUP6EufjC6AY7njZ3MCjWrM_sVjQ5QBJPhnlRsy2oeKKOAQMvXsO0JP2LM3PxtZ_s8scBOhhNo20azecIhUlOL_hWop_tR9d5-uhx-IhRFJdkO8LHGwUuU03M3yXrDuFQtlEp2UgoMbUaDJzCTSctOzKYSyKWhw4kJ4kMXLxXKz3xB7PXhOQmm1NBgqAF0u4xl5rk-A-UWvZnZW3jza68eNGtqPYlU4sPBZ2puOxcc_y_r1Q73GZyNw9ezP8zvzPbjpEtKIMgqlkkrRQIA9A-kJ3bK9btBg-wrXe69GlEaDavm_rVtVWqFl5zDbjEx1Beo0Z2M8nCkFUpiD0kx4QvxRfJhPs4BFRnfbqurSpMW-EIZodkUsj4VndTdGgXQNwCbzPuh9sPslGz4kLhYpnArKZqzdOJOiYnSsus9dhIjPY2CoGGAZ2=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Astro Boy wall&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/sPwA0iP5XM0HqKUFaZ-8fHdAVFCuw6qNdyaTRJUOGF8kfRhb4MH6gE2XJmXu_6GHwEwUphtFvChlBdnlZji9IGcQtF-x1FHU0Xbn3pmmF5xlO4aMj1B-RLZjtG37Or0xMhRON1Zv5InZxzbThXJ0FOhLRCMv-IkWi-AsC9B9dYJRj5KQ9AKWUG0QfDvXvPnN0jUwb-JOLDxb4idyxSzX82Q8LjxFQyELPcw9GthB35MrilmRu8dNWJxIBlUKw7ZYejFukSRwwZEvxjUXjxfHr7eqB2sf0hpqCCXC01WpWvG30HMqW0sxfVuTRS0uRl0BTpqCAjSa_bt3yrTSXXj44wOuk2O1xqKP4QES9-YrpP_hxOeOgnP31TEKmtW0SEBh3fWRuMkscSwK7UAXdxWdebL1Jet222lX_52gZl2yGqmngBjCG1XhN9STouqBK18NkS3BRFSnwnZvd38dsSv-R1ZV562i4vFgfgwkvAB6wkXRexG_5DGYgYfp53ULr1dMOOauwjrNu6FSEZyh0lqTt-DmAC87QgJNNyZU3u3pq_Ed1mk1F2Wx8T1UCrDf87xorFKhbt942rW6Rk-snAUgxmBIfRNlyO8V5Op1n-pKFIzz8OQvopRRnUfthbvj4XzUyU7XB5zaBiJgLGvsRYkZWZT6oBCIXuZKQBS41v-ltnvEsiMJH-qEFoKNnMzscnWMm-Kj1wjCnHzW=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;The goods&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/nutqHFDn21XGtFp1T25h5d_-CRi5M2m21cy7k8pY9GmcJf4icZmnrgzXDB651aRvOI9fuf1N7r3CcVaAxit6sKV-PBY6P12i9_rwJvCKeX_qR5XpF-U-dcEHV9JM4vjo6le5nHVMz_QcLjBnHlBbvD7DVCz48tnlj4t7Us4XygWNtvEwNxW20e019JuMccCG9iWmQtUr3fTISQXIyHrRsok2xNIoIF8JD22ekwGRpQUPEQi_875QYcXrBhiZsHxwXJnraa4t7Bq0ofz2RgS7HBKRyTtKZoGb-QDM_rdAdMIIEFsjycXarkSRPVxSSUWU1Xb6ta92zKaG5S_jfXSvXPIq40lplJcPogEw1CtoSBcA9qeKvPzq6bIWPYANWGmI07_jG_922JfZHPb3kd9tRKmBXK-Sy9l9v84MN_Ux_Ecm_FFUF42ImQk8wx9yAs6KeRvMT_BSd3RLqemU1qIO0UD6rfm61l8nVh4sT3qJ1Yg7-1rwrGMgqx4rhhmPsC7_58qcAFgAaoj8aSz33QTtD7ZC2fIIrJD0GtceDRymyB3fjYFbOgJMCE3b6CnnMdaut3uNx_NyyHcw0sGzIJlBcJBY9Oup8H-Pdl3LQSOXLly_uPWG0KSfdqPtV2wKbmkof9n2GwfdFvvp10l9cibSn_YZzBdSIptDrlS47IKwVXjlmucaqQXq96OWcZFQWxLLfKSMCGDmJEgA=w1144-h620-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Later (next day) went for some more Wagyuu beef bbq&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/XOAKwYjdjO8Zd_wmCv1RpqBbJ8rC66OnHR55V4pLS6_ur9BBr60x6noD18jSPYdo9u26EqO0E_1MEDKq9ZgC_ppgWykmObWtbZcKLsJEeVdsW4h1USV50rzAAkQT6EgN_PU4Y3eYJqm3S9P0IGXd-J0Hvstqe8rGDwLFbDNyzJUK2LVaKFjX5eYsG7IUAoi-oJwr2B6nr8mBEgUFVjYn5vZhHPUDnEdA2M_LLA-EaYAZvz6RUATicRF6bVhoCOltdkx8mzSI2LJKEwUHJrHgIroy8-S5iOnItWDt4Q5OVC_n1J9ESo_JqMgU-WcUUjdIJrtPtbAHxYFe9THFBONV-XKnRqmVtqrd2Rga-duW-l7QuxhviXLb81GxWWkXGrPnyatMvVzKqriTIGiPGBRxMic7sdDfCvg8f9waPQtPPMq4cUqGIrdy7MlAuLwaJzPcLUv8Ni86pSXv1jXqkbLZsyj7gDfPkUp49EzRuECTNTMhnF5u2yCeQaFRL3yMOm8-oc5ysKPml_MpbC2N0nFsPlnrraUYG3ASXKJfsV3xRhFV3Kclh8-JWkZvNUeNceljdV34nKU1mUn71AFq9DJ0kxWDUXE2hEopzk_J197Pyk9XUMlN0qxqHRTV_3NOpJ9KPkXCly3E731VpTm4RjbYxDSHp3ifJ0L8y4tUMZMeyjjnCtw-uQdJJsq1-fcSjVhB-0fyCFi5EK_S=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Yakisoba&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/iyNAQfpHijO8Qi52bRJlibdR-I_X-ZwSg9r36Eey3fUK4sjqofSVDUB2y4AbwlAf8pNBj95ToZE1I8oOEnb3FbFD2NQUHzgwUoEvwUyNh72HRMwq3rpzJgRQeBh01faNodqJK_xU0iwplBmBj0z32AxATIEa-8jW5pvlvRnYjPhJeXJkk6GVOa7sbNS0nt2E9LBoxHfxuf2MFRLN_UGzL99IDmaKGW_j0U8icaDJY1uQpIzu5A_F2gskIEkwqWlLONVwOH2iNNrdffQudqzGcwCwhT1VRkzClp3n61JSZKGyWnRled0pxbYaKSU-fe9wHNoytrDJeglcx7m-63X_GpZlmS_Q5kmxUyK5kw0AXD_-Cow6VlCSLzfZPUQzXxoGl_xnOT-LIjX1FuI5C9uyspgg9sJon7mQ-oW39uYNgY58YQTPoDEKdxG9Bff8mJEd2-D4qpWt3yBpS8HuRhPoJOhY8DL8elJHGdI04Oztv9fpkN5FXCYe2KOHqo9LQ7Qm_LeWdrzRNsmXDQXWTT_D_WYAlcWYDGqGtYodqK-3eQQRQjg3uIvXJgVYw8YOyjj_UnkvdS1-HbY9Mg4X-pyHWki0n1CL6OanqWTV0Iy0kzlebNXuVTD_feauoRWJcL90BLQkZMJ_A1Z4OtTooEq7inOxX5KmJdvTRcEKNxda5fIzaEGKaVATDC4lxHhqQWA2spK2MqfFqYVq=w1144-h1526-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;last meal, more wagyuu bbq&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/H12L7T1avysShsxbiEzLRgs6U8OhY5UiR9tiBCj1I8OkcK6iJ6N5j_m2-LXRqVOuog5Es_bBl0QwfCL-93GQadWP9tJ1jEPK99reGBfrg4sh4DtRbC30AYFYA6gOxG5zhCaUXm5abu0uMoOsLY0N7ihD_fQc3tqP0QszAlNJDa-ElXjnTsWtay35OvZPqWatZvkN60u7R-DG8I7knMNbA3StZ4qjoBZ9Y6XvyPAc6VTXVbBvR8J9zpz9NGn0RWG50d1-ojBP_31i_dNpF96qUsDf91q9yRhUN1Gxd1yuRrfXJ_7qCDPK_aznXANASEeerU9ghPunwOZmTaUCP5ZG4SmTYqNGbDkJgJv4pcBH9_rYf8tHFvj3duOJgUS071LfiSYMYl42noC4zGhL1GwLPKnHBwTq6MzsTRexjOyiXv_6h8rDyYK-YitGobzzveJrhF_dgsbzOBDwoHpm4uClGDYnb9ECqmIsHMj2UMnm5-4xawn5K0P4fl8JCfVKiO5-pl73KNS5rfNDSrBNKgaK8JR3V3bQyPXgCt6ENHYKgTTEQaLQ8fO1XGh5riUGuZMdgDVKFJFA3v4sTDH5OR3l1-id_oi83Pmi4YDDXECTEULYXYIl0xAdYHXxihIj2fEvLfxT9Om7JC85Mc3ENjM4qs9v8et1SRdVI2uKgXDpoc_cEQ-ZP6EnO4AWsJM1dkTeYCR6NAnjmh61=w1144-h858-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/h_7JwsSjzZNwf8OYAZyNFLBuO-EoCEAZdVMManyS-xPfUFoRD_H3yB_NKu_rDROVi3-n4x_XmBWJ1oBa3cU3xSOEfX-66LAC0lbJXHvOlPJPvY921mOXMcM_uz5xU9elfjasiogvby0Xd-Zd9MmbMdd0q6FgSVh9ar-_RLEYCIyZ_FNFCRut_Ks_c6i6gOSsba1xkkjjLztWXDhT741PiImSA-cNkZuDyl82loGjejA5u7f7RzFEZhhV546Ji6fcrAsFwW64jXg-34mUy7LR1NQDll12bjkBnyd9bG5K93tB3M8rZKXQvbcCfpIx7KUAtYVkxrgmF63OmjoZ3fjATFP1BvYZDrj3cGKItw56Mew6L-k88zyLojvmOw7N-cClgnBIeCxlz4HYOIR1oFCZfvvtGjcq9r7xhgYQEgqvg_cwcUjY9zRWMgLfdb6PFm9ZT-HB6UrhfAWruiXdRZ5Qs3ZFvVmlTChby9IV7Xa9v4D-RXhM_rlkmtrWM-86Mwaa9arpIGP0HK48d8nGx-ramZAK3dh3LiNlzrP83Bra3GNYHXJB2vMtUprYb0PVWisyf4kwlhzvUstwvqvqZ4VAE8jAm792aHN1-BOH8-0H3G1EQ0GBb0sVtTO9KbXfQJX23mPThP073zBbyDQDfnJM5F1Hk6T9kd_dmVGxBSwkrYwVZScCmAtPxHs4nj1mngHRob82UAFLJxI4=w1144-h858-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Capped off the night at a pretty cool upstairs bar&lt;/p&gt;&lt;/div&gt;
+
+
+
+
+
+
+&lt;p&gt;Kyoto rules. I wish I had time to go to Osaka (I hear the food there is the best) since its only an hour or less bullet train ride away. To Kyoto to Tokyo was about 160min and I was able to go straight from Kyoto back to Narita for departure.
+
+
+
+
+
+
+I stayed at the &lt;a href=&quot;https://www.booking.com/hotel/jp/jing-du-guranberuhoteru-kyoto12.html?aid=304142;label=gen173nr-1FCAEoggI46AdIM1gEaHGIAQGYATG4AQfIAQzYAQHoAQH4AQKIAgGoAgM;sid=59383e681fd5c2bc170c60d7422cbfb0&quot;&gt;Kyoto Granbell Hotel&lt;/a&gt;. This is one of my favorite hotels ever. Has a Japanese bathhouse on the bottom floor, the room was small but efficient. 
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/s5BtilKDzYqd4OIhD5kjG1t2XoSVZHZOgETUaofYOGFgN3KKPPGM77C5JBxpf3VV7C3Zqu5AQ3hSprdsVPMP6-LjIiGlK9I65a4YF9_7wCqZlb2F5ryS-CXGe2gJk_gokd6zen0XB0xCbIQ4kWNi2hC3qFHDiHJwgRC0mreTqJ0N7uqdsx-_iOzZaBKlnGwd2tsLUKWkTW5-pPquUYLgqFUrNZX3WmraFborw3y67TTUQ8YfHfhIaQ_if2kbo3MvaEmlPKC9h43O4OXbpi6cS5dQE0YZSOTO8Air54zw2XMYABBmUocsxkFmMnVEyjh-9ffPuMl-njota9_IJxAJvLtG8PX1haSB0WsskgpDtLYsHUNR8qI2UgsjFSbwztkCrQQuY2f-fM_2g2nvEUlLMYb6Bp7Zux8frBHnKgX_UOhzq8i0_D45UbT-BlxP3vENVYDabGhyzIIXZjHP4kF_oopggsp7cvtTVmBEsRtocc1NIJImvqLOJOrMWwUkzy-KVnbGIXglBUxyyGOrvxUdcY35qPsx63ICVFlVzbd_XPCjTuQ5yPtS1MKMEjAyepVVdMpTUIW8Z8gQpwen9ycaaM2DpMYN-4papwu8LaMiDt-mhO3ONIUBJTQrUJjt7g1v0l_9uJi7VU411MB7MesevhwqKCcq50K6gKYVET_QJXyty8dXjkY1pxv4g6dzUhvWNXsTsEQg25AV=w1144-h1526-no&quot; /&gt;&lt;/div&gt;
+&lt;p&gt; You can see here you have a comfy couch that faces the bigger-than-average hotel LCD TV and the bed takes up the whole rest of the room, side to side. The bathroom is to your back left and closets to the back right&lt;/p&gt;
+&lt;p&gt;It had a state of the art Toto heated toilet (seriouly, I want one), an Apple TV. The service provided was impeccable. THe staff dressed up in Kimonos (or Yukatas in the summer). The location of this hotel is 2 blocks away from the bridge to the shops and malls of Kyoto. While the hotel is on the otherside of the bridge that is close to all the historical museums and shrines. 
+
+&lt;p&gt;I think I really found the answer if an Asian can be a weeb&lt;/p&gt;
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 10 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/japan/2018/07/10/Kyoto,-Japan/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/japan/2018/07/10/Kyoto,-Japan/</guid>
+        
+        
+        <category>Japan</category>
+        
+      </item>
+    
+      <item>
+        <title>Tokyo, Japan</title>
+        <description>&lt;p&gt;This was one of my goals of countries to visit. I am so glad I got a chance to go and experience it. I originally planned to be here with my cousins (all of our first times visiting here) but unfortunate events came up but I was still able to make it here due to work.
+
+&lt;p&gt;There is no place like Japan. Anime fills the streets, people dress up sometimes on the train. The trains are never late, people form lines and wait to cross the street. There are girl bars everywhere and they still use a ton of coins. Anthony Bourdain has said it too that theres no other country with that many things to do/see/eat per mile than Tokyo.
+
+
+&lt;div class=&quot;center&quot;&gt;
+&lt;h4&gt;Soundtrack&lt;/h4&gt;
+&lt;iframe width=&quot;400vw&quot; height=&quot;auto&quot; src=&quot;https://www.youtube.com/embed/vunm-W-ovLc&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/PydTJsuxfiZL4motblsXzATWnX9qmJ8x1fU2Dqvg_ojUj7XWT39ZMQU2cU5xeCblUVebpHoI1g5Gi3meCa0HxEMGjORlejD7blmDs6rXDUMDANs58cdaJCAlICRzF6UymhxvRIgMMBHNvyLKFr0VtVGlcZgGwu5nyMsa7OJxCWKDnk7az4aHUGLs4HoA0maGXxzKiDUHAupi1WKQF5Uj8h0_jS61ntO444vft_3PEDXmSSgiNIb-4BkuuJGJ65C5W-ueI3i2mm3-Q6IMm1ex0875WtFTs9cUZP_mnUWOmwrt84kAoaZ_ioH_s9XMqea2LrV8ABP2St5ef52H3UkKyDwSzC_GxzZt2V48C_scKRyJdoiy4T-22gOQlmsImS_2IE6c9bH9Hw1LsgGG9DNo3AgBSYr0r5HoCwL658T_nW4XW9b_h9ZNvbZ0JDBsr9SzgLS6M26UZSv9qkIf54OYT-T4Z0K5yahJQQm-eGhQfOecR3jT7LycDmevh5xJ6vQXO4VjqAcYr5On3-NEmGwkTQycJN1_zYji8h7xXIRrh3jAs09IQ3KvBKPbD4MSBzy8E_DlKotBXrqG38TkPA7diYGUUHwhOoLscngQH1fHcQmLxSqGjrZF88M5oAMxEfdivwFPjYQht8uo05S_7eC8xNUuw4cUo-7PJJF9jPf1iNJg0YqSivsS-c54QLZsEXOeS6awmnb0v
+927=w1124-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;In these streets&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/eQWwgKpGeX_KwPb2ocB2xk8NzHVeio-2DKkwSWyVBTGFDSzh6Abytv04E6F0Bqe8f9DqHnNv4gDs0QXBvOSBuEIMoRdQ1U6gJKV_7RzRP5jITYt76L0i6OHFVXi01OM7ltOq9UggngDJP4vjdigW4ay2AMCtDVXU1l3BQ32RbqitMdY9Tz_TevX43pk3tHaItZQ4Gw38tK1gpQWEizM7l1WJMFRLRK8s2YsQiN5ofyQZfLdRVe1LJMqy9sXoBq1BAcYHQEKc43oe11zyUSEw7nKbRULty1_nCisNj85ti2XdAF6CN7qxHQT_1H89dkO_aIxNLDgoIKj9WR_yrHpdoXN_rUZoUi66dNkndbK2OiSJgq6RdfIPH2w612fFLQIiHVxXUxOwaY9QkZhfy_6rURHybkdMKD0m5Gj0uJTxKyAhBlRqe91Sh01LjbOdH_KKW9ncXUgLhfjtaBQXu-Rrl_tX-osGfsDUCRM68jvtETZLvbonNAo53X_2UBWB_EClAclKQTeodXRR1nSIPAnb8DfExqkm5qahIUClXHMC5fP7O7BreZiSKhc3x6UDgVuv6ttxKommT3XcOsDhF3zuiAF1EdcgniZBiksATQMfz9EajMQmmxzgXfcEAEx7mTzoVsiygPjIT15LbCzNz2o073-44xaue3lF-UOKmUS-J2ciiubMUkV4q0rB73eyrJrufeA4ha4vmiKy=w1124-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Waiter for ramen&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Shops in Japan are very narrow and stack up vertically (kinda like Dark Souls 1). A typical Ramen shop has these kind of vending machines, you put in your Yen, press a selection and out comes a ticket. You go to the bar and sit down and place the ticket on the bar table. Then in a few minutes you get your ramnen. It's a pretty quick, stream lined system. In Japan, they also get offended if you tip them. I watched a bit of this documentary &lt;a href=&quot;https://www.ramenheadsfilm.com/&quot;&gt;Ramen Heads&lt;/a&gt; and it's pretty accurate to what I experienced everywhere. The chefs are dedicated to the craft and seek to get better everyday (or else whats the point?). That continuous improvement mindset resonates with how I see life. 
+
+&lt;p&gt;With that philosophy, you can really walk around anywhere in Japan and be in awe of the food. Ramen is about $10 USD when it's all said and done. It's a great inexpensive meal that can work for any time of the day. 
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/NwUB9vKULI76Nj5AfxDRbtoDEHBpBV0r8CjZ3xlam-5oX846JiYAHKseSJ13BE2e1-s_ssQZQo2LryOmiO7Hkm2jAoWXJjrABAt5TBZQdQbdPU_s9Ml62Si0NugtC27HuGkniqLf7CkpHBVum_QvyPWQZQP2yLOT7QYW7o8RxSGtFAud-bYl73jUfhBmMl3B452ydoMQKpRKuzdMqciE9dPHHVr4vB7PmSwe21uACOZ4MK1clcWQ4VT-JX2jeAQN86HkrwA9fOZE2rfcc-uOJuYF12zqbNclI_aM7P6RDQ6GDT1TmNyJeLKtg6AmZhF6Eejzv1WnKJFiGWmBixrWcUJZSx31OoQyzOwLJARDBdtVwLbAmGpLQ3KO7meJGAvvxX9QHbDgfznmKCeVEnbdwv7K5WWM_RxUEZqVC88FNASHGHTcOC3S9taa9j9LmBEv5dRy9_s8y-Dbise-35vyLcZ80A9u9yR1Jr93n0XWw89ABFxZ2wFvU8Kwt50xgHP2d8HW62Kwc4O1OmGoMQdFjPCC4pj1yELnl7lfRVKOG1nQY9eg7Y0VIEP3GKPs_Yx6t7Kusu6SUC0UPA3zhPN-8Gi6vE1jt-PUGPkiNqUqBq1dCERE9NCEhqS7XOP_58BKBPzVYcI8ACJpDD7dWhtlZKQzV-Wro5hLfSaS9bR3prRRQktOqYmJp39lEjuEguXU4I_XK969HXSz=w1124-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Tonkotsu (pork broth) is usually my go-to&lt;/p&gt;&lt;/div&gt;
+
+The super notable chain souvenir store in Japan is &lt;a href=&quot;http://www.donki.com/en/&quot;&gt;Don Quijote&lt;/a&gt;, theres a ton of them around and they just have awesome gifts. Very good packaged treats here too.
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/N1HARRRxYZUGq0EFiJJ6hnVWLXuOLGz9fR8X5D2I9yrN6a8ROjPHKgRg5bKByLkrh_QgjIt7kDqiD2W-UkN8w9fMV9HEzqvDg3s1Ohq3TUhac7dLmpCjmYDIGslXHGcJS7lev0te_bBYfRhBl-iXZy9aMGPaEBtUJ_M7J6bEiblzuF6_c-JtBVA_QhNQ0uH295qdO_dspAicQOtJXmiZGmpI7opSGjUXY2hi0tWn38beClBPX19bZ_9mQwUfS4b-P9OXmY78hBsU_pTKfNxzF-DZwK3nl0YpuJblzQPKm8LgE4-7xjfh4Cp8-ItGe8Kenwof2XE_EKvXRbMqNuGP2gjs4HuBrKF7Ofw2Fxb_3b-HUvm9EncOkpTmtWptXckVlfr1qJ8oUUdXRNmX1Kxkr2sjTLVVo6V33NegbRVnivyCsR8Fg34CAn3cEZ0QRssb4HJutn1nG4KURKKWEqs3GOtGNFEN-ZokE8VdqdoJhlDaXy-L49waK-3f4_vC8Z-8rxhegbiRM4lBFldYoV5RwcVrcciIERzafWLQocOmCYq1JFZyb5fYSCZPhS1zg30V9KfGP4NRZyZfQXwqnT4hCPkXufCOzVK_KkzfBWdSQzPWCu47vzt_4Z5107diZDu5hWQVPH2IZPQHjpOrrEh0WC37HwaP_WS3E7AggVNjev1OcpuCy8GtNRZbV405IKKwmwmxRGfctqGa=w1124-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;no shortage of hilarious weird things in Japan&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/63Y3ki2R0NohzT92lRrYh2b7g0ZCf1vQVed_B0QMEyozE5LAanEh5e9tAUbmwj0sh-5aFGqCw5YuTmToXcepjTzwbdNEXYoFXKVxBQYowOorGHGqCkJOV67ivkzJ8eDBGohupqNC94fxXi9eW7sIU_rzGier9jCDxsAGzF3zbr3PRB8OzSw_iUrzA8mUDvzqxHUd5taZfRJyr2b6N1yqybjXx5R7BAHxNmEPWS0MCKwlCmxe0wuKjoYbf8UOpCRGwKJ1l8gEEuN4d4cLKSc430VQTjfT68ASdLetiOw2Ah21oR_kYoIlxrlzIrEUyEfP0qlCbFDrcNPgBPG3vTAKRd8ooXgSzk71ca0uCybRGpmLHMy4cuQAFZHzOh56WHuY2ICIVBAkVnNRXuGt5sotufPPI1WPM3EoE9PgfHirSpGpW46Exh56Jz-X5Fw1KET06JcpgOXpP5NmKxfyWyaTzH-OoIDSfWe4jL6Ho117AWAe0kIpAPAOjd6JMeZ1dbEkFoStHPsNBrG7iBTRGB6ETYhKD3ny4N2jlTBM_6CS2SDPE51rDkCB-eA5pZ617sfK3fKOG_4kfON5sBSPPYtZgABEdq38mJaqb4OBlpcmST8JcJdHcaGs_noAkU-HiEH-EcGl5MNRKZpOqNQIszmfYlb6OIBrwOBLeYlAy3oSjVpyaBl8TVGuZ2x89nefijnHXmNAlJoxJ1XH=w432-h323-no
+
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;or snacks&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;p&gt;The next day I set out for adventure, I wanted to go to Diver City to see the 1:1 Unicorn Gundam. It had been on my &quot;must-see&quot; list since I found out about it's construction and the removal of the 1:1 RX-78-2. This is a true engineering feat. If you know me, you know that I really like Gundam. The mech designs and themes have influenced a ton of media today. Gundam as an anime is OK but I really just like the mechs and models. It is also one of the longest franchises out there. 
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/KGDbX7zTLLTb7iLm-uPnN1g3uCrcjbZtWkAY1nvE8sI5DG3l1wGOwgRbGqgcG8pSXx6OgHGBlNgADqCOagiXbxDIT55FZflGBHtOaeATIZ4w9xTx5R7TOmgDjz88jDQL-TJK61Wkb1kjYDGYv71TPl4J7wIDZMjBUXpyr_Vkc6FzmMeURPjXYIS4SV3HqJwpyLzlbKe0Wa3kOOaC8TTojO6DqhYuTZNHsJlvXqR7sQVLSbxklPL2K0-TBW32LcwjSDeA2FLvCDFQ3NS--NNOcySYCHClcQ8M5ixa1UAdW6bFZl_PDxzzP9bHsQWT16_B6dy2CCb2nvPvImw-ys4v8PmBbzpeg8jEbuekN0ylwO55CLeFi3JAizhPTz9Q1pHGJVK-3hT_w4iUScXbA3xprNHzoVFfv8K5q0aFPkZuB4KQWywGVmlyPGv0OSf-17IsBcmE7exfWhlyFndcnoLt12BP_8QRxyjzY1veZi5fyIsvCtJiLPj8gmymio9Y8Bx2TEiCe3m3DYJ0xe6SD1GeZ-ThMCM07mCXR0oHD8KWmid-o306fFb6u0O3IwUIC6wGxhADU067ultfEdoe6tzIUbqHUMfr7rjU5swelhwS3pf_7vP-tu_iZq-Q-to58mvCh2o2wEaaviJowrmga_-dW_BJmLPaJ6TsbP_jt9rIpO1Tn64d_mAHL2TddkJwF42OZraT_VaNsfCe=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Ahead on my way&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Before going there, near the train station there was a pretty cool department store that I bought a pretty neat shirt from. I explored the other floors and stumbled upon an &lt;a href=&quot;https://appetiteforjapan.com/2016/09/09/evangelion-store-tokyo-01/&quot;&gt;Evangelion store&lt;/a&gt;.
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/gKmUuAIZ_xeJglD2Lsp5UaYs99Q5EG9vvA6IeSbuDO6ZZXH3BFUkZ--Ij_cw6fWyfSN8guIMenNxhnm1F7x__R3hZ2eAoYVAVpKkhQN3N9g1o47g3dTUGRZ-RQrmwpU57BHK2ZdbBVHA9pTa8k-VqYwheQ6vV3DDzPVMgZzRzz5BFvAtsqja-UbXJQbskg2mMDysy5e4TMKevL_Bpj4ILf-CFFObT22gIzknqJC6FLNI4RppKDBBMaTOaB2oKyR4F-OijZ_WSe0P7F_ioAN8S9gp7ajHDLaUykD4WOzt_9bDUNnmJhBVevKyNSCYT3DAzPKT9xMGDyLiQCIT5u4IUiMlOhTNHbAqYpOC1Do_uVdcMErOSkmvqL4lCDCIMW3uySDW6jdWdmkFOneapjhHNSrHWE55BnD8jPI3crYJFYtEW_byWhzgMiRbVEFdOIrba8woikB5C1PuIkwAqzqLWIt2k3ljlZgOCe9SjAMIGE6_ksGR50VbGkNPJSrJ1B0voiRBee3OzhEtvmIowB6GE7Eq-bcX3zrVEpsiZPu2ZcZ9MEbXDmmy5MxGD2DpCRVSDiHuQMY9NVng0Im0s6tgf17UxlB7I5OyMkTBFtAiYCY_wt7H2k3xURMWiBDOOK9VlOaNp4n-5ly3Qn_xMyp4BQ2T9PeANWUNLs5NIzxD1sqrQY8QVasG_IGv4jadZsQvJJpaZshOWzpW=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;I mentally queue up Cruel Angel's Thesis&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/2ptl5GMytv2M2ZV4jsuxPbSAw0MMOwHRN_G3_ceDz5IU8LP1X3CI7-uO977jBG7I2UTYyFkcWUgdUo3Fm1EnfTjUk_1YohdE9Wmm5SpqsEQf7GQ1eKYNObyGcZEI-C02kz6NKT07WnF6Y5gIzrJl0xjoVHomAUc3UM8CTec_ly4k8Qp8XDedSJpPS2J0cwnnY8pMM6XgabRMJYyV2G4miE1Ot64J7aewiYmNUG9pD4s3oPQtZ_f8Ru_TLJlmtAgtv-WtXIXeyuJoV7fGtXIa1E-J4Apez4sbHtPtu3JZoZZAGeKuvvRbFJFSP2wcYyMICAPSx629NtFwfqjyZ6vUw5R60BeIMozkIjMWiWaV8kfTVKOTXMKr7Ft6f6crRUB4Y86Q6ai0oYemwsGcB4AzIkJI_Dgs1VlnEwSMtLrq6U0CgMUCAAIuuGM0JqcPG5YKO_CB8TN6dK-r0fggBrOb8aXC42aLwk3p2kiPbfCqjvACg7hTVE__kLdpIq4zdNN6p04V7P3x3SZFCH0LmFwdIUZV0ajHFlmYam_KBXjIMqh54MuubpxVTq4jSAh8iyF5kb6L_P_JU6_6NYyAg9skMEMYEqNXXuL-mnA2A6AR2ThcIytdevXjgWbGi8EFfiVMxgWnHPtogWtq6hkV6--G647rBFQYNAo7eVilaga3YcLDml0T4VJ8VAoXnlIvxuEGjKp8Cd4BWy5K=w1124-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Rei statue, Eva unit 1 t shirt&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/IMCG1HPH8dr1w-OxCsVDdPsiunPXbcWxt4WrR0XztnwmbIm7laIn148o-NGwmL8lt2cTJZAXVetUQijixKjPdEcBICxM-fFE0CzvqKGLLQq7E0hEA--TVwAr5831GdC1yoUH8o1EmCR6_LDvfscBsCdZrRGj1p-OYsHTZlLc8GO2qJ04fZbM3D5bYI08sUwFyF_l0klVFN8Se-H9dMsSOkbhgwkkiDIFKyP6zl9wsq_4RfM0vweA2_YBFXbOqypL4PnqUtxHEzVsuX-jpkUvkLaWn3Qzl0HKLfLCVbzo1vix_UwxACKn9CwsolB1WV9Tid3cF6jJuTjuTGboPp6JN3fazLczLE5JDylXcJxvLEATgdNQ9e35Drk32Wnbp5KJQwKDNTIKNhJbQFjdpFFlBtSdjDLl1OULlH_cjC9zfuBjYqeqVHQ7aKKTGGadsCzG8k5XdMw3bS00nKrr5h78dNtJblP21hyJOmMjICZBmDFpTcMUWcrZfcL28fwRh0SCNjXkbHt4N3eVhI9nxKT99mVP5msTP0q6ep3m2i4-PCUHSY5Kp438ulhOZED_3kbQ7XtdH-N9K1CSd_pjKxAXmFszGyyWQunIfckkWT-MwbhYjzA8CjLB9lmnPHEytmwnncedAAnA6fAyxxVhwYNJJXx_tNGDDMq5_fYSlaGgLXLn5L-SMFD2ZkkEbFabf68N4e9UeOOIwyB5=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Eva-0 and Eva-1 backpacks&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/m5uVlkjMTdfGukYJ4yn_ZfHqQEqey2AZiUvs2aY-WasZWTiEjVzYH7Jg-S8xcm3hPh6Glky6Tl-5nRteDSzrk7Zy30V1QbJJybCVk8nOimtkYsHsSPlsqMbqhd1_FgBSpnv1A-UWJ0HgQMZZfaluF8V1t9lZet9PV8W3D7BLy_mc5WhhRDXpLenwH3nv4O-dqjDAt8VjT7BVAeprEvttcrXUaHSJBHBeH6mYAmaqs2LAq7pvWkCyi-6QOMf8ZDzQyV2GXkOmKD0AXiYIkPDe05g4lu31E7orQ4CR9jIy3sGMQfWf6bGTD2Ob8qUYtTfA9ZujIGijlqj5LK1zUA-DLFZBtWihVQ6AMvomzzU5mJORG0J4HwHboIfaz-_-qgRzYkNMwDbo_wUmEX5ATxodw04E3u0rl2dbNaN4ZkUEkHMmTwKByNbvhbmkEXq2Pc97xJ9EfXuTKHNqKYecdxMpsKE8UTVIzuJVIYfUYsv-E2yroDSyw-czpXH30lmUXHPfK56Vm0i9B5yHiSE7bA-YYbmjx83WvirWiU0LUjCkqz0l-KrL8RvqhYr9hjqaozaGJpkLJLlMmNkOCSW1Kis-HbzAyupu7c9F0gyqIlyktP1PuRnxfNcKfgNrXlW5jqv0JRW4k4ZOSE1ItmmCFKHI6UxSb9WpPkVlxlTrKisB_K2ERFFdN2E10jJN-TzYEMl4vwUWLJhchPBF=w1124-h1498-no
+
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Eva-2 and Eva-1 1/100 Kotobikuya models&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt; I later ended up snagging the Unit 2 model in Akihibara for about $30. I built it and its a very nice kit. I love how the Please Do Not touch sign is an AT field.
+
+
+&lt;p&gt;The train to get to Diver City was quite difficult, I had to do about 3 transfers, Google maps was not too correct as train schedules would change based off of construction or I was just an idiot. I managed to meeet a french friend who was actually meeting up with friends in Akihibara. I asked him because he had a chibi Goku keychain and was one of the only non-japanese people on the train. I befriended him and joined his &lt;strong&gt;Party&lt;/strong&gt; to meet up with his friends. I probably would've got lost without him. 
+Later I learned that he had moved to (and married in) Japan here from France. He was very happy to live in Japan.
+
+&lt;p&gt;Diver city (Odaiba) is a man-made island. The &lt;a href=&quot;https://it.wikipedia.org/wiki/Odaiba&quot;&gt;Wiki&lt;/a&gt; article is pretty cool. 
+
+&lt;p&gt;When we got there, the first thing his friend wanted to see (first time in Japan) was the &lt;a href=&quot;https://www.tripadvisor.it/Attraction_Review-g14134368-d8615316-Reviews-Tokyo_Trick_Art_Museum-Daiba_Minato_Tokyo_Tokyo_Prefecture_Kanto.html&quot;&gt;Trick Art Mueseum&lt;/a&gt;. I joined him because this was a pretty cool interactive exhibit. Photos are heavily encouraged. We had a very engaging and excited 5min presentation before entering where they encouraged us to explore and find secret passages. Entrance was about $10.
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/1EAP2fvnZEqLharfJ9QgA2TLj7h3RNa_7d-hlWxfL9QNmmjLNeOu0AIve0KnvDQvpEHX8k743_tHqOdJEsRgtYHn2IpLuANrN0Xl615Oqgq7PfVjKaRzH2y7-VSmP2iOAot7cm3T4AoERAULN8cEkR9zrJtvomAnn8wgvYIQtlPjgFng9UA8_Fw3BL-5GxbialNCfVY9ORyrB-TJ9l4xP_lOaDzE-j1cQIeaREI2u-aTFJMUbE0dEGtGXwlUvk_i178bBY7bUmgFJij6r6SvoWRr6ln9_szIcqSDOgYdyTivKDGXn_ODtaiVkBHUczyfgtxY9TXaPZs8FyW_E7AP2B05RQ3GXWBmRAnrBim2ey3c_CSoPdKRSLjxVx7XPF_8IZ7BkH71xJkMCQj3Ki7ddnx3nYh8ceOtW_KSaVmsr351-jby5IEZatd10hB2B9oj-85-uzbTdbab2CyKg2rWijY0myQPBYWCf5tjy2YuJqC0YpifVwWA3CfQXiMRG8PkxuqjFiUGQ9gRYH37-2t_fJ1kwFwWWAismignog58amALtJ-VJwqCjduu_FTXDOSllCRjcQbpmL4w8q6wQbphNWr6G--BcCRmcG23DGmPk2pSm1spTlUZSpF4zahQZKBFilQZkCEV_pNlZWUJEvg0VpqtoI6DWxvRYtb0a_rIlMccEdE37ot36YIqac0NHmShg9wOP1oWWyAV=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Instructions were clear&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/wH5tvuqu-P0L4HzGnoESaHQFX6XToERzUaMQ15BMfx7BK2evT_nLuEEXWLUqP9wIi5dFcxqexhIQWsU1KfXhak9YzskSxWdo0f1IGXcSCaVraO2C751ZNfnwszGyZzynN57IYmYgpZ7OfdQm410u9ZOtZfAMQ1dILTh3nInK45R3bUKaSOZOJSxbA4KkS9S0g-dShnGlebkBNywxKOCPa9s_wl3RyfUdi-yZoWific0fl7m-z5_57c_SQonM6Y8PGc6z469hFb7-d0bGJSONUzqSO7buffZsYmzqUwsz3uV67tDgWzwd6-zX3u7Jo8mLR50cP9d5nuIVQzsovfjPd6bPaSSR-zL_bkeulQSbTm6ILsR-hIh9q24bW6mQ9MEXYuzXO1DU_iSUFW_l2TwOauuBCWPSwCea_yVx7o_dKhAKWcfL0UJpvkOwNYSJnq8T5UVl0sOsgtxeXThwAjlzRIr3o2FUsG88XTEYw9JfPoNSTgxTqRdR-C06YOoYwJ7DDzTWN1cd5htKyqSgionbRoUd43jibWEKVI21hwHVkqBL7GQVhb4jrbhYv69HuKE9rRanFa4z_jcX1iDOJlPOYBZis6cg4q5IW_ZSwxv3-fmJu7zhmhKVUCMG6_6snewAGTwcjlFBin8cHSe0yc5rwizbaJWS-DTgnPV_a6CjmiMvKqSQLMCxv63WZsBqKHgPBPFvtN8_GOr4=w1124-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Optical illusion the 2 ninjas are the same height&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;The slider allowed you to clearly overlap and see that the ninjas were the same exact height.
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/yUABvPsTvNtWSbGrHGasjzCjk1lQOzSqto-4vlgOmxhWad4nuoWriY_4HFYv2sRfEx1B818gkWfYlJak7bvDAUtb3NLIB_HEfjcnXYI1eSJgRpP37Px9Aov6bGOO4L7H8K2k3oOetiE937lDpQqsQcmst8QysmdqyrOGRddbq8YyrixAqYN9l3-MVFRoBOa2QExAPr0dnbfi2ztJglnGJw-gCnh5VUy_Q6Msmch_WFZcSLlKqVWIiCPuwi6dR-6HruB9_8FTGmszAULCAvocGV7dkLuKU-9ddry84lMrLfxm69Rgo_G1T-a1fMSyzBWilQceqM8JQITqe-HxaGA0zbaaYHEAqTt3R-g0I8nwZmr2Ds07G6AwJA1_QXMNVAK1C0O04U2RvV9oKXJyTf6X0cOPOXsFKyCyzX5bEEN18Y3KOMgDD2f7yAyTszgI3b21C-W5Y5Cm7M9X7eEiKq-rwEDYtI9VpfzftFTiW4JvyJ5ZpzwNcdjjYe73BiatnRQfvZW_EICKcih67XV-4bbTl8S_E47L2VVCOhuR6C4fXtvbFe2ICwrAoDbfB7H5r7Zt8JYCSjpeFOJTeO54CdZcuP9Gpyui-m2u1Cq1vpLJUKJn_b5XnFn9uGdbRFkEacwS0ZFzhvCPjUpVX-ZwWtbvyiqaLZ6OM8_CKftmP83eEHTF-k3vB5b2Ppe6F0zXxa8gQFtVPulWKGkC=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/aXvEP-MyjhMixj-fmqffarL3HJgQ7CZO1xYXWG50VwRZN9jTQmdh-81svtqRtrSFbc70vh3WI6_2cm-VhW7DqpQxVl_MjxGP38bTeuSmNm6ZWT_jGYlmvk0oBumEPlICmhXHaB02rDmDtlMMJuWZZxluxysmkiX0NNtN-EuobWl6uuw0HpulU77edJ-YhvC3MO82Z-Dia0Dq1y9Dg5bVe4PFPLC7bqeCHuXbh11YE7MVVKbWMoWvqEbETCciq68vVvolcEulLPzw7RkK4XOl6E1_NjgIRtCWglGWYrcjrUHZ-OZtf977t9gNy9_hfEGxr8XcheAIHukRYLSrKUGoIrvli3qzVID_JvTeatHbAq9R7zbxOj388X0kKYsKOug6WOLCNsiF-LKMsJqo0u2PU9r_pg-BxkFSC5qDEZpXUm7xGvgdOAHtwThtX5ZOw18FFYGHmsASIpqVj9NnlcSQUUl-i_K2AwgZ2kFIf1tXuStTSruzVq9Ptb6SqdHWlAoJvXuQ_8TAge-EWc6TOQG-wy6s4VNtvsP9nKHq_sGEfIdgdWLfvk6TLH09zCr3C3T4J5d-t-6lx2iPB0NCMjmR1kA8TQoz5nhnechwFTIw5lNg_ZSDqpvcWEc8jDNwpoIDhpoiU5M8nvMlg9N-9zjRiCbhb2Loh3ORcTmrrFYHvEJ0YlY6FiKF-f6HVxODDS90FyeQfb1PnG7c=w1998-h1498-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Just hangin' on&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;We went on our way to the back-entrance of the Mall and here it was the stairway to the Mecca
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/rStKeQHDIIWg_lv0fMM8vA36yZT8w0O_ON_8Lrp0nNAD6NN0gCiio9y1j9dD2UNarrZSIvUBSoafw8Z0v0gV1N3DjbIUCicuEX7iVa6W5Z9aSR-HGGGdxRHV9rnFfUlmDJee6TAHJsPjW2OfRdXwajoH7E2O_sijOxL8-aDva_pj05tmKZuOJyhQCTc81eaDevmHpRoZFn31V3eppYfhwSP74HeS8SqR4FZo3aTADLzapJLFU_kkmUfc835blZfcv7AahL5OphRP9gMw-ta7g8mMrUWTkFgfCIC8E4VKysrjKx2IdWNkFbXnduhfSyRCROvYGXbYZ3uTFjL-SluXlQXt8OKmDYpJQ_GmV1gaPpbm0cvM190V4WvIE0zsLijTiMxWskVgg4uKvuNDVeqZn2JfLnJ7O8tCPA-8UNqKsTbdTV3wf0csAcOaKcuRSdFBio9y9Uw1Le7m1jHi2A09oH7Djn1LriSXwc4BSFx3xs3OueVfvZEehd5gB5j_wsg7TlV8wiWpjsA1Il9Y8BEMQ-3EuWc9Dglk8K_tNWTNX2Xaqsp-2EXycOsBY0HN7EbK5miXJb_IFntkCpv_KO-dfimOnh0Cp_Cvrq7_CPdUsr7TYjQRvsVo4pTBeoG2RavevVZ5AKgINsvIYlF8Ddx4-kSyUT5iztWdmIS2YYHk_vtwR_Ciq46WgJaQ8La-RV66QF6_bQ55ETz8=w1946-h1460-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;I was in jaw dropping awe when I first saw it. It was perfectly made with every detail of what the real thing would've looked like. Had warning decals, caution labels for the engineer team that would look over maintenance of this mobile suit. &lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/ec18DQBRIJctKK7Ru9vthqTqJS6NYBtgnMTdGPyTpekX5WR0PW4WZmmM8r8bgXUtSUkZEUO141G1NdOdS-g8yM3kFfoLFE51aL1BMWSSo4fk9B7fWopsgXi4OqJ69Y5sf8aPiyf6IZj9LeGnpNHEI37HLXD_Ny0wubZ4lC_BxjxHjM0TL7R31d9DK7oWr6bbWZQVUcc-O8wB0cN300jaQPfB7CkI6lSGzdwPhrmdSXRVZwOoUk1d0nHdDuZIYHbj9HJUws1OyY9dL2BcIdaygJiC8vLMNLzwDJI2_UHRXBSW1fax9C8mQxb_lzJFVZHgJZdGiwSzz9rLqQUotsgSwDVsrm31qXOkGpwQbftxMIzOuq2c-mEwjUTW2cqvcNuu7DLrpYpxqLbwHkol3e0gvoiAWSW26Fim1eSqUGN0TwYRdF-7O_Z0oDx0x3ED4WFf8kL9sTO3OY42k9NuEYSHm9b-HK5_kpqbu6Zw4OEVCogbgFifjEOzDGgqMo4rJuwbRRIW8eOMUT84Ou_BjWGSbjRQWmvTUgu2T4YLsvzXmaW44F8kaMskunz7nhNgvmTbQFZlHfFmc1FZf4HitCt-euIb0KknEZvImUNRG9FvsSgSFLhpYMTIIWQuoyStBWlooKAyRo2b-OgS9A1aOzQw1rwcO5fggblj0ada3PHriMokoNFdDSm17AWPvZfHv0L4Rr4M17IF9l9C=w1232-h1642-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/FWdiJpFL67HWb-GDJP1TXU4ro4eVMMZrCPG65OlKBA1Q9E13p_KYMlisIJErP_JV5VnO5nKszl-DXffq64x_OCr3lp1_WLp02173lOUvNITtko5N-sLMPjos6M7R5jfJ9CsSxp9clKoARsVRpUZULV15usAqTRUrgvNE6wGMznrQgxfFRymGLGxEk_-6-6M6q7D7NZFVFiZmM4DQ5SXko9CxXBtBbjUNxXRfU2oNx2dh7m1cD5y0KdlQ6LJwzu7N0xDcV94_nXwdbuCSK0rTBkbSLFc_yg4bZrX5l27ALkW5Nydqeby-VG2O8bjGoBBal5sAhpIKWJm5bmXQBwH764kiTa-ZEfTdpT1jOmxklQOpjZ0iTFbd9Wf3pUNzgAmTeHnK3pn9Moel3aLzYlmNPNVeGv8uK9cdiv-7oR_Tyv_CyBYQOH7qGO3OdB6Na41cxlPCrjFfHQhW8JbznATvOIQfWSqPZqyF9W2wTV6fkip95Cw76cmzAC3RQWYctzNNLU6riHyooAQv1xlSYGbPlpwTt1afHrzGZ6I81mPvv-DXQ4GxwyrK6A_Htdpgmzm2---AFPG1IP3ot2Bvjw-qHFAO1YLspFkCLQBvZNMCvy5yhiUEIE-naoHmlG4Sg376tSVISLiP4SvalVcumlkt128JlOZ5tGwh3a4-Py_8WwBspgVmwVeFYGGQk46AEUQrbfjrdHCifqbP=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Auto enhanced by Google Photos&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/OStabgLEVR8xvS63QYosm1Y3df2kHhz_7p4l7cLWtLA0P9f8cnrn4oe74la5ZlvqRbcbyF7AEq_9IisijPijbuZfbgvSoGF3Id6E_3lhB3AT23hbXR88Pf29oEkw4mahDkqGdoyZyxr8SzkliEBa1shoXxUT2a9S0enC8rps-VNS0tXzWdbK2PXGRxxkIDzH9cgFAY8xMpjw58etLoFBQmtHeg_fUCSmrMbmjHDtX5rJuSpT4XPv6LLXF_2bIH8lBzun6iwvQTWS2xx_CvvdDmw8qafrSv3xDc65YmxKO7JkQyb_gVaLzH0RjRAucXhWKKnabdfMZo9S79WX4TcSuAGWTBNGUn70FNvdqrf9aqtWA8xg7jFSZGtk8i7bjJLnmxyc_UKIz4vOH80ffRycYuu0Kswvi-oGm_2N9FDYzxBDBvBnktc_e9s-BLjyvGzLg2CaEH58hj4xdU_Apvh4AVfI08w2dbnKQHsGesEgkc3SPW8tbi352YIpw7bm7DMO4afwignazIKilpaT0BFox44MN_xFc6KKxF-FBE1UVHhn6SLy7b3P0cyLzvMUBFZjGO905MIhHMD4ApOGUpLJdu_8ur6Za72aLHBnw5l9PpP82t0eOwl7p0Jbo0eFGOqmQIfjyfOrmjJhCg4nz6-DaAAnGFs9E_CNTnU2WF5OXJ7eiz60qaZZ2H9q5i0W-xP87hGHlAPv9ppI=w1232-h1642-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/uDMII74Rj6ZWYjwxKJeT0vWJ4IK2q4IwUFGqKTyYB-6_mlwvfqdCfoBmsGgFUUjy61Hjd7PtPX3kQTxQ2K1SzNOha-VFjX7JStWQIqSFx15GiarHAr0y6EBSmJ8arjPPOo3XYDij0o1K5sDXKFd_uOXCL2oFIkgH0JBGA_8NvWcDiTEl7y8e3YwhppvROK8SI_vMdErI2U8d5-hps6Ab9f4b7MoxzzyHR6-hJACB8qh8-v17QFhfBVNlO6iAazROmY-jd2myMM5kANS73G6C3AbMS9oHftN_dyUvMTLGal4DwBSYd4O5muvwYbs6sGQ02cgUzXbtXSj9mDXhnZZac85HAlnzwM77E2Vfzsv3SeXjVWlKnIiO3Cz2gepLuGVomQKPbauXpukzEyipyXsXCTK72KY_mdAEzP77ZQrGWLcoDC6VUdjjoFFiEKOhrTShHZdpV202C1J0UnoY_FMJACsUwf261dcGj-EbTMMsrAa2qx1rR2qrddALgwxka64GqRKXXL9Itewj1n2whh7YffN4RwD9de4MKwIKX92FGlT0l17hmAxWPL0oS-Mtg9d1lY2DT3sZRIyBgHP3jcWsDJdhMk5fia5Z_2PtXEEYIxaqSy9uGFK6rQlQ06o5d2SDX7QHtjZefltZtCQ9lyWM8TI6M9zACToGR8U6Tw_F7xaa4UaTmCL-QCiRSjlCzc9i81TySDYQjSO-=w1232-h1642-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/hX4o-r44KzmtYsw7eFjJ5Gk-aBqAVLJTLHtX5YcfIBPJv5eQ7eNAUjr8CbfVyvdbwSUB-KMtH1givMeqri4-R2VGHzHQZ1RQaNz8h_P2nUiiYYy5TyCTw1x340yhdx9alwYnP_hJAsm0VMLqz29rAGxiBiw7UHLFCDJE8z5JLqqb_r-GBARKAV9b98cTTTq6qSRFM00ev7nCxhz_qWj4u6DmP6TwqvYZ5Duf20AL_rJgD7VH5nKSIimmZhvqwYMFt_JwsrbLYbum6KokuR802ySAlscDrZYS7fuRBA1TaJ317cqPRvE2ZqfLkF6GHVLvJvWc4l3fiDElYjNBCRT9jqHpIqYoFfdIr_eec2wqV6kJgSHQpp_TvdNdLu0P6oxg7cA4QkhJRnuXzWGOUXGk9b1PtOs4hh9He3fYZGVRj-9KjknfWfEkjowwkpyzDbc1chixWh6-NDPZHH75KOnpNQVr0D8SRVol3-0xDaUxQt943NDJM1M6j7SHB4EauLrmip1huZfan8r_LZtjkQXkMFI29Ex6FN_Plg2OL1hfBQ2KhwbdFJE8ALOtcEM0bATWRhqz8hCv-5cUcmh9tj3iBDHr5PZjcgCgAdGiBlxGC_Tp7v5jl2v3gK9tc3mG8MPQOJd0lNbkZ9-37NpXyLEonZHl-WtgTVcpDmToc0Fj6Ih5XhIy-pytkeS5iFTR-7I_oT0H200U8uT7=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;The Guardian of Odaiba&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/25aoE1WeCD3XBR0CG1L58JhpIiN9_mVudztekUmslylbATu-QkDwN5r3OiONP0XPtfydyeOEsw4rREyezFm9vqgVV8ge4PgIDND3RIv4JHG-l0JReuHbD10Rz57fDYb9IqMMdXQfszUxQzkY8LgAnvXNcqT_QlodhRC_oEbQeSUbTd72DubaKHV-UG-MqRBA36mcpGRw_-URO3imf4Urm-anBa7KHBXPluxNteGiD_7W3qkxvrUZQxpyvqm8Z1oTSnxB8nIxGo9bbNV7tWC0jxt1mxQWuD-9Fb1nEAvgUbt53OX8o8YcSEXlP1SvImfrNIXasn52laQdfxyWDyQN8wgdMEVJsHeg73iJLylVS2OLS5lapdUqz7PsvUgoXxISlyRYKL559Pu5Yax5Pe3K8KTzinioV3BLPZ0YZOBvNTIoJrFP0m0AMIVdhWJ91WeByOCMcttrKEvOnmL7j8lgh3_3q6MtXoxW9JQjNvPjh8cpbH7EHA8YD34eVBUMU_T9SjH5ydMg1Lc4Gzg1kuGD3S0vgh--MvxT7U9aypPU0FRFqAzBavrb7lpI5qL_MBN4SMFfVwseaDKY-tpfrencsuHxDqTIdh-51VOu6ZZavx9sQGaUn1spx9uRGxQkcZ-ZROKQ9MntmOT_ggeB_qc6FS5v7ySfW1fFg4O4wdfVpaPiVsTQOvPQdaa9Q9TTSMBCol3Co27INqBU=w1946-h1460-no
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt; This thing transforms and even looks better at night&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/gfM80g6esJmoemzPUivKVGwUwrz54rkE3sNbL5Sb2wG4wIfqmrw0BzMwM9QBgzmsMT37WGGT1--y_9ZWSXktks3gTp2hVaLd5uA_hjKEonSMQECcm2lrwNabw9toSPfzwL61c5mx9XDWPtwoyToaqdG4ZHr9J0jfB9GvvcjHW6ZqUySpVhQIcdEh-d4RutgCcnjoj0Aa9ForRDU_PxhMpb99W_VHh7B3Kowiz4lQWGdqQpY0bxtxrpb--6mdclAHVvMX2YQXQexdUMkOK4CCyw-NEHmWZdfWJebHEAQ6w8GWmMO7qV8iQ4tmxESQPcLbUT0UHIpgp5Dhv-9uBmDNDjd43MGZLzJveH891rKBOH1u3QSQqtQhpYUsFGUVorPwuYV1U4Y1OzcpftMTPyvcSppPRUB8Gj-WYEfy40tlVhQrm4rnA5o5J3PzPACWfooXlRIJ0Ye5L_GQGcPkLmtFrAam8S8rC3Qwy3foUa4ScH3M0g5h2R6h6NFEKVPIgoOe7fDRqGJnK3YivT8WeN4krwTki6Ua-HWyt_B8I0f00BzViVH7zvH8ODWHSKSHRMzliKq_ZwFY6G6OVgF_DY2QsTMqYfXTgtLH6_XGwcuuf5aiz-Xk75XZ3OFd17CRHWXUPP1yOJbnux5WlaJfTOxn_PaHOvmecS5CqDd-C6-6PgzgvOIuwFs9kos6jpyh0Ju6OW6gq_kY8zzH=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;The Gundam at night, 274 days since&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt; The glowing colors on the Pyscho-frame would change every now and then. I did not stick around for the transformation as it was every so-often.&lt;/p&gt;
+
+&lt;p&gt;After nerdgasming at the Gundam, we were quite hungry and went to the food court inside the mall. There was a bunch of choices on what to get, I knew that every option was good so I just seeked the one with the best wait time. I went for Okosoba and had no regrets.
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/G3bp_bNkdiKB02vk5vNn_NLHdMeq1UKunnzB4Ai8lORyACrSollxLluJv2wtz4VaN20KyTWGzdOskpOKvwIjJppxIkk6APYTlmVv0AZy_OkRaQ1rz2IMl8zH0eZmdEdKhjTBQXTvdZJrWF4pdDLiMlJvLkdXurnj6Z15ECMiqxX2de8uEPWmjemMbE6YoF00HrCgqaYymZPyiw-rtVdX0tZMrU0A9L4OQBWSWtBOge-KLTWLbH9xf_iKoojlRS8-q1vq6uXPR1HMgnfiWJWZrYp19ZBDWEnCHazq0v9xsQuLtGEo98QQ6We5Iod35AUBf7ptNjW0GbuZ2TPK3IBtK9THW8YSKJ_7EUM5FsTR0fU0BQYB1N6E7UxQ7Rw3Ldkn5rivV8K2sCu0WRjOhZGyPiy3xZSiFDQa_rv5mtStog0ZKi0_ruiiDtkxN0esBXCkZEwD8LLLRJDPbG76J_sX1FaJXJ7nFZvBdrURS7BsZmLKibywcJPn5cbKwk9FfQXJTBn5xDZ5WInS_Q9XC3AySX8KuCK_Rw2uBhoLXjlBR3IxHRWg9ao_7mXMrsBKxbB6jo7bmi_FTTWNieXo-1OmEVADxkXKEaScZTDCMUAqGO02m5MGbtvojAoJ5HapsWg_kMSemavVNicFispR-7YJmeJGDRm2TByeXvV1HJ4Wsg3eCMXPUQjmp4VWOuN5GNK1GxPqE-EzZj-Z=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Each dish was like $9&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt; After this we split up as they wanted to check out the arcades, which would have been a good time but I knew I was gonna spend all my time checking out The Gundam Base. The Gundam Base is ridiculous, it has every model ranging back from the 80s and the present. There were some nice exclusives that I got badged Gundam Base exclusive.
+
+&lt;p&gt;The Gundam culture in Japan is real as most celebrities know what it is and acknowledges it's influence. It's not surprising that Linkin Park was a huge fan and had a &lt;a href=&quot;https://hlj.com/1-144-scale-hguc-rx-78-gundam-gp01fb-linkin-park-edition-a-thousand-suns-cd-wpzr-30077&quot;&gt;1/144 GP-01FB&lt;/a&gt; made for them. 
+
+&lt;p&gt; There was a section that had every single Gundam from every franchise lined up but there was also a section where celebrities made or commissioned some Gunpla with their own custom additions&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/ywXYXGNa9VW9brEWLL4kyRdS7YMM4TKxhev3OYwO63C4HBmaPHS0BeB5D4-oD26BnLfKXc5rSn8NMnV-nBXYQPoj7vYcHZqqtc5XSiaUBEJ7HiRrqMla8kL2sXAXyw0ugGf12VWqtdE4RCNyfdhFikocyzcHTj_basZRL_3hY9q-27krNfzwR9Tt3dYTdysY-WbTRTXhFKCy4nDf9KdEiZn1_dy1lXMTFIXXbyPM6Uep6tEgy_mO9YWLYl-RMjKSv3rTyFJhedQbrUc7ptOwEDaI5v-JMTyPnFNMKxuATl0tPE5cS0kZjT5Bj960cleZq2-uhM7OpZFH4sP8TNClfoLwVgfZ_spnigQ7oozsgCCQ8FTosL3x2k9r2M1zZUfjuQ1wm0JJpKwi-lDZvWkyQPMzICTTEIc1MBch7fjiEOB0gf32jvAZC5sQcqM7ocwzNfnJOrxm1OtMOrnORXGf_E_YOWakV4KcNRecSVoIgg1cgWmj70G69mnRZaqE1icqFQ9cv6hL97ajLMlndwCW8itv8yTXLbStWR2S9pYyWpH4QTItJ1eBAdi51QM4g7Upmcy5T5CEJfY2y4s_PZrj8SlmqfcvqrJMAsx09eIJwD9igyZEzT5zx_P96CPB8GkcmjijgtAMATnIiEIO3axNKQswu4Lb_eSOr9v_TtMYlQ7-TgPFpfOc2Pi1u624_0oP7PVn2Bxk2jJc=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Dir En Grey's Hyaku Shiki&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;There was another section where you can see the Gundam World Builders Cup winners and other notable creations. Below is a commissioned set from the Gundam Base
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/bCGM1JUJjP9Nc-urofGUON-Twe_VhnUzZ9lOSqZ83w7vFM-v95qY-uNNsAXfQ3JKB1XoueF6O3sr_qmJIk1ChEclLGSwwTC7JijYF3dnhe1SSAxYuGWU6USBfIFA7Boyk2wTP-D2q_194RlhJKcrMa2UDt9NLU3gYfKS1z0MrBOdmutMa5zQVgfksLos5G7CNWIOL6QdlL2nZpH8Jfj6Jo-rYZjTCci-RiT1JT5-FDFr7hMXsxykJMpqNmb1WqqlTIzVtEpaoNrQf9WFlhYxacaecXBqZqON7AsuTRe6u9QrNHDLFKOOQoGONfljleCcWWDj2Dg4l8Ge7TJo4PD5H2yMOkl8mToOFjFzt4kdyWDzFA0tudQ4fX6L26Kb2RBpo2r3YOlvaFo_a2xRMKUF0uo-WUJaicie7jDo3KIVJ2-CduTz_YokWiu_-z1v5fDI-KmHWuTJWxFQ4kh2DmvrySeMKx_qyLoOlB4ebJIB_pyHoxQOORGy0KblkdCy2OYD3MDJR5DES6InsBKj3AqsWoumnw5VJK7D-XCmj78RjKdrE17RZKDROk0Jjk6yBobGJIhZ2ZcA4JMfr0aNbHcuv9NX9R_mXrKoogKqhbzGv2Frvrt7nwsrZcF6kyQrAtnHeEyKwS-lP8m3_3Je0pl7SR4ZdWFgevo-Nd9xvikBukQr6wd3AAhVqxB3yB9d8GmoVx12uYucVKbk=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;&quot;The Last Stand&quot;&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Later I regrouped with the friends and we went to Shibuya. Exiting Odaiba was crowded as the place closes at 9pm and &lt;strong&gt;everyone&lt;/strong&gt; is on the metro. It wasn't so terrible as those youtube videos with people getting shoved in the trains but I was pretty crammed&lt;p&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/2OClCLKjuQCpXge8fQfZXoPnj6950rsTC9hqUMeyj3-IcdCoWIIJPTzRdleFur7gSMEyp2ubPGBwsuLWyYWMNHuPNK_rQ_Au1qss2BSHO8HOjAo-n6XVbVDtGqhVF6q5eoUY6c_TcUskDg_XWInUqDclZFH-jhWPSNSr3tiUEKRlW8JeAt0BP_SXvwQ3bYxRwEnjaLUifiS1n36lQq4FmYPdrD7K3dXxXiSGcYY4--0R5Gs8dTxKgjeWIPtXcHpeHcyK1vasZDRlJLZxQJhGRQv8VNI7XKQyPKAgF_pcj3ALx_FI5JT2EzAoxkSsWAYHyFeIBO2poHerL1b3Azf59wrsw0N37hoWwymLHxxGy7lkioRMuSUpZ9ZJPLZD5LShxJC-eMmOuDLCAhokuYQWFy4ItqopHcW2gjoCc8o-286e6kalzt1N-2Kk2oFYhNfwppewQiVx94pw6JtaoUKkRrNOjIrMQaaW4YZoTcxeVTU55a5GKxI730b4Vs7slV2jSE2OFNqqsyiLK4Beec_GBSKK7WPdxJRviCAVDX6Of4ozKmz-VZ9bxT_rJeHkB1DxMYKeHm__BaWlAZh9JI1eOeUE3fOP472lPcba7zVHJu3RL0RYUUHbKMOlX8r5PnVY37kAeo9BNnr_5h_5DD2dwurFLbvOIK_6NtwNVg8zfTysV1-UiT0nCPduTTZif4C98E0x5GZ4cq60=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;The famous Shibuya Crossing&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;We went out and chilled out at a Starbucks rooftop terrace. Shibuya was lively as it was a Saturday night and tons of modded out muscle cars and bikes were along the streets. &lt;/p&gt;
+
+&lt;p&gt;Saw this amazingly red finished bike&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/BwOMYIVQuCw5oozPgPKjpZrwZsaKntTwcg6AhRAavS0MFzhdaRiDLnqjLXpAl6OkgfdrPKC6hqnEKj5sbFLuVgAhFMZO4LClPwNpOjwKlaR89CDIf26kFkWstcyKDWbuQjiK9l52OntKWgaj8IAnCfQ-sA0lR9oqhK2ZxaW76pavVaU9uUd80AuNIJghiN3Vz7eVxUo2DDjstfTNe1WK6PMaHg-kxFm79ww2-8pK681lAILknv-eGh_sl7SqOQd16qeeOhlCkH16T4yZ-r4Nk1jKXYxzWWg64sW3duK7530hvK79hL8eKC6PjZCYMnWz0D67jnagf6IUZPgzCnfkDhZcrC9I3-7hqygebgBbeknLLP4fZKD-E6R90sceAZQkhMO9TTJIi1jdG70vofMJFfl_Cat4kmXPNyUpCN4wkHiU2o6sriV_uRk9ZIMT61fTvUms-RhEf6iJZrZvcBlybLKM3XME3phNgl7bg653lqgakttu4yjPcGAMUVGSTHm2GnIEBJEQgnar47MipOYwQhBOYiWKVVKvCwIa_XMF3PawCXKmmlQmRgDn5hcTEnq52WMTipw9lmZ0goi0Wz7LHvsULm24YIpUrEc4lm0bfAtWRcdZKIofnvxXGZ21xxPMjOKIFX9lXa3EuMD-ctIkv29Qkf5lH9pUiFRojTX1H7omC3rOPcl7BkCUpIOOhdNWahUZh6wqjKrW=w1946-h1460-no
+&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;We finally parted ways and I was grateful I met them. I head on my way back to Ikebukuro and stumble upon a sushi spot. Mainly to charge my phone.. little did I know I stumbled upon one of the most unique things.&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/PXuOsFtqQNhQboBLXNes8Py97PT7iB2UGHtpxBrZcoKU1TpUl6DXclDxEIRrl4U2byBhqhhnyrAMZ4pMvVg9M-iySvQEMeLwhHrN7Rmw8b54m05rt0MAoouDOHkkv_-QXN-ge1PqYcViu-63tKUkqMuwrbWmZ47Lwt5GJNKplyTkgfYkxY9Cb50y6FK7yHLmIBxAbNSPRTyvstagf3JzbsYM84xnz1KvsZLOVbTp4AFsnF4AP8I2OPU1lioVZWhJLf9jdEYomFRPynIcBpbN1nc0Wyc-ST5z1yoYpKZVnrjY2-RunCi0XvImbe9xZzZA87AMXzsuJwqT0M-FVVKZxQBtZK1gf5J24ynIyd1W8f0d_hoI4f730Cma-dUDqmToXgZVyJ74Jv_-_BuiUXiQHl9jgzl78lQ4H5cBMPbR71MU07zumRICO35iCMaAR08LSqxJPfX71OhI4TT6NQ8RV6nsJslVepEJqCpbl8S0tQInhgrHZplvW5S5WZRELwBDvPnsXvN1ZkQ1QLtVRMuJUn591-zBMAXNmNMV0kSZYhyaZwhrsrl1qaHf-U5Le5ycDUmUEiQPv1Jiay8SDJhnouseRu2lEi-l5e3yYc0TTMoIVHI18FBfaKAVsfu2D9mXwxrwKoB0Ok9BTAKYlsKaFA5BADfVvNNl8H5sAiDfxyc_HhExX6tj9rfQzq1mr1TjYkiY8NeieUdF=w1946-h1460-no
+&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/iygPgxQDbHeHhxw_eo0vC0lkyj83a225kZiV0Itqvci6Gktnx_o6EiRkLhucsR6MEY1J4pp1_QFXRpWV_2kYoz3ZOnwNnYxLNMGeYB1cgetKE-FPJ1TZ44622iG_zyZhAVmtTzVwhxykARkNd_kceKdivlVujU9YtY3c_QmB969gEKt2I2JDtlEWE96M9YOjFD2I0x3uyTGAJAxuBB93yrPSZouYFJ9Z6QYKAkOC_V1wNpvdKStuOekfGJyooVjhJcX3XhP0Wu37DXPg_bTx3yKjRQlgAjUd1BZKPpm4-548LPWIjnM3Iqsavn1CjNGdtv0g2UX9v_v1zmdMgFt0SFP2DCuomQXWXkmZ3rwYU1Kb8MjzR7Z_mlwt9rUiqtJKQ9-OCQDhqJzmQgDOsU2nJFplGr6VFpXKEtKcDCthyjIyxELDh__gXMvoi4iWgr0NsfdHHUV4LWfo9zZHga9nSgOmc6_UtvgAI1wFyP0YkLp4pmGlaTy2m10aJcrbLk4edg_2CkdpB4wSJw6mrS0KlJwwmQ75s1oaYmlsyqzkjSyUj0Wuv09xOxRwEyU2ggocWPG7sYmrzJEoiWGxm1xcSIR-jXX7IjCUrymj2ZeMsBGlaMgCSgfJh9S_BciCUPtEAeRLOmkzRoL0f0Qk7yC82yhHYDOasxuStv93tVAdwtXECbzYvheJuKh9qxTotJqekESL3q4YgLNx=w1232-h1642-no
+&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;This was &lt;a href=&quot;https://gurunavi.com/en/gek2800/ph/all/rst/&quot;&gt;Niku Sushi Ikebukuro&lt;/a&gt;. After they presented this to me to read and disclaim, I was game to try something new&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/s__w2MfA_6Xqmpsa-dplqaVumE_52-_Ke6yObDEcdRQfl7FgHz1LT7GgQ0GICgA7md_uaG0nIQh4U5jEBxYvDSsk8NUUW5iqVxWgKmCabgswjvJHT0Zynp78i8ruY6oryBhgff42APwwyaFQ5baSj32lqlukCXd7u0xrzL_J7wRTc57a9xyr5vYFwECddxZWIde_l54h6ZVMqPSAnsIgv8lgNyWSKLKoksLY-oiQ4M-OPWSksT3M4PiLO48haZNb4W1jkQqam8FLa9tglzjaabNM27txUHfAy8PviUtYQ_ePgiqrMWBDBFKtU1_2ly9obBK0-u6aY7P5eDffUwkL3jeLEZI34yvi99PXwlGaVax1BUmrs3BNIy7MWfwIh4MIbwy0VPYkIaWcYSUnrFS0MkjTeS9qKslr6XQqbqZbaTYiKrv8NYDqWxpa4n-vLJPSaghvPyyTjtT3-jGcoD-3966Alyg77lo3CHPsidzyJuXXDjZTTSDpxXBzBD4ePg5uD3dZ7eB9YKo41Fih-Vg-NK1mv1T0iuiUbEjpXFJ0ADZxgu4Ep99zcGiode21P1XUUIBjRS_haNS_k0iwYAbOrQOE69uFMJuy34C3sgMfy5YZh15AVL0D6Ed_iR-KaGOyNzIAgm9IcktKh_st_3Euua7ZXPmPLAd8qbpEj4LTLpp2RelHSmU44uWBHlFdfNzhYMIbNdcg2LXL=w1232-h1642-no
+&quot; /&gt;&lt;/div&gt;
+&lt;p&gt; I tried a flamed thin sliced beef that was under some rice with a bit of soy sauce. It was delicious&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/lfZ9GcclV3xQylWPZrFSuvG8AxUtEhQgUBQx5G1mvGH0mwwxpBWkVDm1t7Dw_jW7ELOtdiViqEVz7cENkUsN7gIBndLnBVYHw9wS3jMbIvL9eRuhqQLBEkIJjtgU_blz9YHpt0gerQOH_QQ_4ZHXjlT1GhnuMJ7q7hCaa2eWOTBEsEnTpoq89qI5sjYTAZ68f4XSrSLYPA6_KdIIUARDlM_jb3kXytHGRFYq5jLashM1iV3tpys4sUxIGNIVAZmxSNPTe8lRWmKHSLVtPmgKFhRpDQraDi3nzNXawFXGJipAT4JWfE5C-8ge2qT5BCPpCZISAV9EtOvpTolTg2XMmXAPBYwfKFrBPMIVVEa4YoOw4SmkBPrd4Nd9ULpyJNckXQfaUtgWYNxTgNXUeh9_ypTJbCIEeF9EDWpAmbHPb6ptdWzJGQxG3s4lHpPQv7Wp9l4jUmPvfE7v4jLLsF6VqS-Hudd54fP9Yg4xZ7MzT2bHDkZ5W1jUUK7KDiJtmPmr8b0TKoQdybGInmXtfMVQadGmG1AouUyYZZ6AadJJp1_2pSzeh0-TQS2PXt9hb4pZR9QX8ixRqxYcCvDkO-ZodBGFrZqzuc5nxbKfRazrqhlvixiaynHXoqYK8ysdUQFwW6P5Of4wG7DsWNgQFiat0Py-bLKa_Ubg-qBG7Pagj1OP-FcbCHIx2BwnJH7X2PFrI376a1t8d5CY=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Raw meat assorted sushi, Sapporo beer, thin beef&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/KMwM3VJ3zdKMqh5QQfkq7ouhCnBz-dQArfJ0vP4Spfo9Ej3Bve0w1rKr3EsB7u2BkC4uk7jWKR1BN45xxCf-e8UuI9GSYqBPYkErKpGVrFRv9M3HD_oSY9ae5GCoVAyaclLbzswn_3RqkeriSrfQJRs13C3-aXQlHqA9nhgCXj_VraWxWARzrTXcqR4o3EvqhPLbEjMz79bkAVeHAkEzq9pwWmOY4N9vQUCSlHzgvHtXDUtARB0p_MuROxpTX4QV50smIitSQZOjEaXZWL0QHKYaQEGiEfcp6YrGrCLc9dHvI6huKV4R1KjzoGdA8Kp3sgVED659HmMmuc9Op3SymPXJpTFBQF2f_GbLeskt0TQuHXkUYLnvMRj6Nro_ilrYTW-poXOd399OM11OPJf8zHYKrlyMn0xxUkOi-4q8VxdoLBwNqqyvhF3bo5CbOaFCcwcJA3uIigGOEaViaLgcGo8vpgr22UI9_HDjVDRy27YbhtswrfgmCQxBmVKd3O_3mX59uyV02UnnoDq6CxVmr5JNVPB7nEYrRVbE34zY3CYZkB2QvLy3KFg4o_81d0SipNqXgWeIrNKRFrVfVPdCGBfJMzeNz1urBxaMzSbPwq3IEEtPAzskopQVvLXgvu0dKf0YlMEkUt_tPwSPON3cqq_uGNeCzIzqGGxfqinZxSR89vedYBGFUlWjzrmgZQik6BMYmEHxQ8rX=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Horse Meat sushi, this was particularly chewy&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Awesome food, great experience, relatively inexpensive too. Seriously I wish I could eat more but I was stuffed&lt;/p&gt;
+
+&lt;p&gt;The next day I wanted to explore Akihibara. I would describe it as a place where Anime, Video games and electronics are fully embraced.&lt;/p&gt;
+
+&lt;p&gt;On my way over, right off of the train, I actually got off a earlier than I should have. Which led me to see some pretty cool shops, dedicated boots/shoes and other nice trades. It must have been destiny because I stumbled upon the Gundam Cafe in Akihibara. This was just outside Akihibara. The line to wait wasn't too long so I definitely queued up.&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/vGHxiZLkwpfSdB_4h967hNVelstV40o8KkDp8NQbIz7i55ejxoR6fKgPcyAIv1bB_3lU_ayK1cRvp2W58MpttQXT-sOAkeLKeBOKn3LGTaW6s27vrPbO966onBRAz9HwYRCXYNn5IM4LFA9tGeZxbF--3WG1Y8VQdzphFF8Nwghcd5OD24e5M0mQCZcBxK71ZdXaqe3ZsagMfxpG30pFi2SKUzN7GjfE7bSf4a0xfukWSPDvtlA49FKd2hsmmbk3g2G-doh2C531Pn7oxxLDm_uDduiVcvxX-IdDjFbXW9FG-_UqIN3lLdRG8us8-P-kV3yXA9RPTxp7ulJjKzmHs-gHzqOPuEc9ceScVcdZLP1bi1kVfcHouwkJ5cBBbXH4-Jufrtzdd4ZSH--Dy4d7Js-AEGb_bxXxx9gk_HqqHi_wbCCvfCLe3GqPUf-1WFfGCkp4BPMP5QXMfSiL1vJelJ0iHUC3DHpRrjVXj_-2muWNLstKrYmAEFLbobaCo54-UEA49mo17hr7jSRsz0YfSyWxDdNG83adNPWZqNugLScxOUx49ohZ8uiKPJbBmU60dfAKEBdtYiIwhDvhZigcmCdSFU-HMG9GfItlq-jv7tKTR5qpl9sQ-wlg7YJD1ctdiMqi9HztSqOUWkbgBMkeIw1CnknR3ZmOgWQAV0OyOVMRWI-C0IxyC_EcHbz7w03WG8fA9LKRBFhx=w358-h268-no
+&quot; /&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/Ui0d95rij0ADfodDBPx7jCAmC9a4TLiBsUBJLK-6dQXlrQ2l1vixFFVrhjM-xl0OX3TrFoZ4xo75x963qobrRV58PC-Bc-WdOxiUK5Uv_th273UN_sK9bO8NzWePgVZq98UFR8U7hmUJEAOwCp57MhEz6VZT7ecrHR0BxmVJFNuO_7TuGAgXMCakYnsFI1UQbVfD4vnNlO-HdffjXewQdnpzjvDmhFmf5ZI_Xe043drjcpFzrnu9oRSU0OqvxSoP34nip6wNP48XmCnN6vKO5UNkwKpFnhy_cdpJe7YV9RAcITuPhL2SVgv6toW1J_038Qx2rVSQAe_asQ1BwuMv5A3A7c1KLzl82riBdKdJWCLjMsZDKrQYP0AGjfdcwvmkhFGZX0xja2ehliB5Drj_tDHKONePt-GWdC_W8i035-eA-o08fqNxMEjAX8wZto1LsX9i8fvM5e1GLsuqa_UpO4fYYEaIJWPP3jqZceJYQnR7rjqgS6ODlGQ8mIAyzhzqwpWGUO5ZrGNS0j5VUE4f93b9LGUeKFlq3f6OHLo0mx50dfRFet9UWdgEmI14W0-MJ6KPlO5FKt7jZANhTU02UNNKavvQFRRlfwSweIi7F1ic9XkLMJl3JYOESNuk4uMtnuyT1flIMXAffzNOJrZ7eKnTB4F7sOXf7oOWwpwypTOkP31pQc7KOZ0WQJvqmljxvYAAl_Qaicoo=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Total Gundam themed menu&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;p&gt;Once inside, it was quite awesome. They had a few TVs around with every Gundam opening playing. I forget to think about how many artists they had propped up and made famous with their openings. Best openings in my opinion are both the Zeta openings and 0083's The Winner. Honorable mention and strong nostalgia would definitely go to the Gundam Wing's Two Mix openings. &lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/PlgDrg1xuXTueZ-c3Bl3083vqMfxZSlmCUEWy-BWszOa9OUDmjXLkf6I1hpOJWPTE3AxuL96frXTh6cB8U8l4Dyah1rI2p69wfkAq5SE9mN30bG8em13qvIfeo5-8W7D4bpkWlmuq3SbKXCrUhtTMcuyDAx51YsI2ww4gTqlAN8pY5pFbL6C7uUw9pdYyvaIDJso2drkr0I1k2kPwuoyx5zf-Six_HMbNvkQvqykKcCxGCf2uAGDvY_CSy1RFpjTmYl6WWfuGnJY5HtptYYPAZsJSd1OomjFuE-BzuBb52kMZc2HfO7AHxdXcWhbxk9CuA_UtZhzGMnM1YKnxmZyp2pvcU9ie4LUXxcnvTK29ooriP4e6cW4SZgKZu35XlvZXmDQtIGo2BFZiFexNyFWou6AuJ72UUBtKteQTGSMP1N2Wb2YOkdgLGCoQEiZ2CwLTN6MdYTN54AZ_wxCOWvZ13DyN91FiBrb61TUB5dkyi880-X5aVRCl3MgZtsOA76Yo7_pix5S1b3QntSGAkvvPpTmS6KQNEuZuHvcfKjuPIalTBoD_qNXfdnkudomaqiVp0sylYi3mB_1DjQzFvO--St0CcCOqp2CO8QjxOTxl8oPySsCS2UWU_2PXyEfCv5cx87eBxtRVVT8qsD94N1k9j6yr1MkZTvuSSwCKFeJWwownzDNmo37xLXCaofxNr5Bd-vbdF0QwK1H=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;The Red Comet's Spicy Curry with a Hyaku Shiki glass&lt;/p&gt;&lt;/div&gt;
+&lt;p&gt;Needless to say I definitely bought the cup&lt;/p&gt;
+
+&lt;p&gt;After an unforgettable lunch, I walk down my way to Akihibara.
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/wRvE42Kn9xU1HSXtLRv6bJTZ9HfiHkDs10rjuXvrsFrpqtAThDmYfXHm8S1GXfTVtyPexGNG6ip_GJgC6SzE1GP8PDwlLB5KE7cU7AQ3aJdRqjKrEFsAgri5SnM_bV95FFh5UtFklLezGjYwQp5Dw-oJlpGKH6RR4Pnt3cWmPmwQQmUhe-omWR5qFwogGKtKIy_3dqyc-LzX4L5bxcA8BszSoN28FvbXaaxA77TloRNlaWlzrTRVK3DilVxKyFzM2gFpqMxa5S_nIYzVF4NbEMSW6WftKlA6LjZYM6PpI69NyX7e1Sv1L7gOJoPO7r0NGFd_lIH0GdCrJ03_CF2_1yGe5XwHQ8kd6hGI33SHtlWhKnnK1ZOxe0gYneeTSHsCJL7txH9iFNNMv_7nORnlOOdlH1EdPqwJ2VrQtn0S1CVnc0_kehwT89Y-JUUElJfbzFfP2c4CsYvWExrX3EKBzXzfuTNSSi4vNVEp0_vEtwd84C4XNUXpZ_z6E85RRiAAWVxnYAITIQp6e7jTdXiyTJlfLXR2ypYL6XmTdIpDn9dHQ2WCw8pIpSibwbFH9Lvd6z9zOf1NSXLMok1_MWtCwhHfjNaNQxE22EEoSh0vHDogcOyAU_t1R5nYBMs8i_74thWUzGv-yg73UcXNqO_pC5ppH3cOKw4BD7343chi67OIG2Yy38kpBlW3OoD-Fpi8RgNltug7mlSh=w1946-h1460-no
+&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/r64PfeXur3s26kzsOuS2limnN5othkkGDvv9s51XfhWpX5ePdGBJVkl_myY-WFDYWX1eWHdMqF93r3RFsTZHK3XFv71ECbMEWR-jPD02lsmOgE0-qW-8Zj7EE7wASHFP5AbQZGeej7xuKsImL1dzYivcVSw95Pa1IddCp8RxIocF8qsR9vt-FlgWUHLVC8tgPLIcuNdMBtBtr5asgucsHjIWibRfZNkgHk74yhnS2j3YXp5AfjGiiEszkFcoiK0mXqMwHmeZHPPwspRVGvjiAg8118kbrA5lGcwAg5PqKyNqExIwQfFSfkkrL5l5FXWaO4RSHzUbsgFiYrb_R0KK4xIusCe9FKH1ukHyatWs4rqPlHpecPypU7CXwPwy3hNIFWrnotq4LhMc9HwaFJgf1TxbKL9cgP0aqCyWaRLG1RFgyl9qWSEjVg1X8u08adjyyRGWWUlfg-M0o13SPshVgaD6HLfKqsjnlymGgU8erTcP2rFExN4OdLANV0Jj82DCCUws5K_9BbPSgVdaXmfhGoJ1X6ccI-t8sViCppkb63FFzEQGSmF1ujQuo4zJveGKG8k-7iSV_QbJpBs-_fQwDJXFDkUtOa9Rf7xgr0sFrrqIjJTR_Kw8OZ_i5hMFWxxXm8X2q_x72-cVMYRU055awOHlfyo6Zpwxzo8V9DXsSmjtTpXvH8ljLqrlybXXlZhC57DFzkX4J_lV=w1946-h1460-no
+&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt;There was so much to do here. Merchandise, gundam models, video games and collectibles were here to find and buying them was well priced. I knew most of my Gunpla haul was going to be from here. 
+
+&lt;p&gt;Stopped by for some Magikarp cake&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/P1V1SNXIjtqz06LrvBY-HFQq_tfv4K1l8hFax0y9r69LpIRzU7ghFxUxm0qfw1AjOEQysx5rHs_M_Rc8Z98eJsT7c9V3dT0nh4R27REPp9zciwytmAuTPtnY0lXh8TPHsfRm5nueyVK0_NolzHN4onMfGxGmsXjhlMeEcTMMizajpicHrn5S73i4MR_ycLRPo3vt6NKKIB8FcsUOj8T3q1XRCnyPVHb0c0Gf4_DX4oMKm9SdOc0XCH5NFhBb50jZ8pE7-BUhmJcU0qpKzfO2GQbsKnZpslN5zUGR9dmATOe0Rk8xYh9CmZA14JSbPAqxrhYQb1Zr5JSKGEtHqFMpgve3UrOhL9E0ooL5DBsiLmiaWyC59jK_hrTed7843tGYXi3vFWJBtGjRVEyK_mjydATvcjdc0x3stwLbIu66R7mRtuCxtO7-6d5R6SbBibraprLJmv0FFbj4dTkq1yXPijecxK0D3U9W_N_1NdyY0uMY7e5ZpuQttTqeCcHMGFUV8tdXb5_voArym0a2qeQlzCX9pboEdj2Qznttofacz1tVxTj3pgQTzQPobpTCuNejMmmQQ_i1Gh7yes-JpoPTcWChTz3miE7kxhckajYI5CB5A5Bn8ydam2s9y3o62POz9c4LTcm8sXja8BqwonIZLWgcGcKYT55B8-pNmgh0QdSevHndD-sM9XfK59kA4p7sdk9ZIDSuZY6y=w1946-h1460-no
+&quot; /&gt;&lt;/div&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/H4-OJku98cNtO2_VrTGRO5eCdW99tT9qIVKBLD911F81hffEjl0isRAZcoMKcimOP13y-LAEJYHHG-o1lGO0mqX8B0Q10rzNv55QZsPt5-vpyS9L0NIRX9hD10m8cb43HctPJM2tOMT-ZTDgeOgDgP4ltldxKEuy_QnlTiGEyg8nBx5A-W8mejBpVvuP2gV5m9oS2OV9cm9xarA6SzieLtPt9NK2tsuRRq8WXB04_CO6EegdCGRNrhX1VzlAvBzasbBh_001ZhuoeldnmJ7h76YyIqqYhh2s0UkACIN2Z0B922GFH9qKSUOry43Lh0p5iUNBZGNjjl7wonsWMimeUyZ4LgYMXCJr0RYO9bk3LoSErlIuQRam742ybl7gWNIjYq9Yf8tbZ-i_V-tprC9_aip6lfiSX8hQnZ1fMg4VSaeZSUSDJ5Oza30ZpHZtE7Baq2MMJa50H_hNXT_Ny7sfG6TGT5AWWx2A4R-MVl3xJHcwkDSYy-ovTjLpzv1JoPkaukQiFPBfQNvpgY55v9RC6JYj0JoLiBXz-a8kqdi5xIW_yiqviB8zo72VU-vAC-gczkm3Nj8zmKnA2p-205l73R26rgp8ZMRVepz32S5CuRWTdJWDWQpBTW-PhA2K2UKTljj73NB1BfmgE-VyP4cTI0kzksXe1bbxd6TnGCBXKTR1bgYbQucAYs3aOF4wmK9Y-kPaj3zjbm9q=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;splash&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/u3iVn_H1B4HC_JoF2ElF9NB2y8sxtM_Jd79tbaPj465arnzlJuuEvp-v3uiH2GGTp53KAum4xxHmTgWBM4EP7G-4aXBZD4IXtSxjg_3jAAY8y1X18mU247J8PCaUaZcYQ5hIEG0-g8UWwupP-h3JwFNAfgpKNbOJQFjNJU_hLleOO0YjFVxCt6LM_izmyrZ2_wAnWtdkmt6pAhossxozmfKYzyb5WhCiIs41r3ovztCMLHMpQNdq4okD3P-iQCVrMu6haYUwyabjoPqmDqzo-9s5Ddbz_WINngjNdYnOCgzW2CdtWO0KqbQr9gB7Egl5NKp3fn85KbZT0-QowjkudlmlIOrmkPu_7HErv9DEE6rRELPEjvTVSzUmi0m_zfhvAmsQBKkEjUOfftYyKFOgf5auYEdYCz3cCjgLcelf-vl623rxdjHZQRm5PSBZQC4pjyeqgkQqSL-8SLsXnfJ_7ZvOnwofir4HWdr89lu3ZQBm1ENoyqVCImaytyxbi-3qkX59HLbm2Ns9BLCyF7k26KpBZqZNiqoxAhqY5SRFnWWXpmFUXz330yFpc4UPpOF3kmsDnWOsqp7cFHpDdWBGh6q5gJmcY42q8YuQVMRlaDbGj-OgT4a9U_SvehUDOzXQrW448NQN9dsXAofsfHUtEkA09M6_XgaLUn9DHYq3hOSdx9daifnEHrKC4-rcP-6BIXmAiKUY830X=w1946-h1010-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Mario Kart in the Akihibara&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/-7UOjCcNmzy7wbAzMRgLm6xFzUlX6EgWswrAC5eVJgbfyPSy_0xlpX3pltq_zKOAPFNNOSORciUtLDTbfWBr8A4CTQvjOZ8Vs3Xjw8bxZz27ej-s21w2Y9PQg_wXeHkDoCsv1G_jIwKVPDpRS8ShdDLwCiLP9LgcvcPQvrCwKR5g-Ui_ISO51Y68FZCZyCYLtm_yfYE1B4iR0OBRn5EypCGrzwuO2wjmUE1RCQa7fG1e0MMvfolEOKazHYhX2733UBNNUxuT1zmwa-F7UbPQ7cResVNcn1zldSn-EY-d29pA4BzQNwFT4I7a97whJqjJi4heokngMYBDoKagsWX49ju5ofDetGHU2mw6vF3tBVC8IB4eZ4qjQh-iGvMKqgZQ8925qvPGZEV4TeMZScgwlAU0IEDy16dqmkLz4qpZCs1zclKQb93jY4yQkSx_k61DZg0V1LNUKXsRHWX4G2h6M2ww-kJX9hj-d8p2JUIuK_Fa5aKRtDSf2FrMIkeY_vWvN9qwt0xMwzIxHQrEmhDbM2AcAdYwAhw1pqNWQJM5qrBkBZutZFx8BHr-7ixVess0eChkErVuyoh3MqILW69Bf1x-qcAAZnW6_ZUSCxzi8Xso7UO7YM-AcxZXa7zNgr6SMMxK5SVRgQEXTo_WTd_LolBJ8LWj7R3hdU-nfzdYsw1M5fxnLyQLBMnauE9QBIoN3aVzdEjqeIDT=w1946-h1460-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Akihibara at night&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Stopped by a steak bar in Akihibara, these became one of my favorite things in Tokyo.
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/8z2vY_31uUIkMmTe26nsu_eGumrqgQVJb8UowH3pqPq-qxykUqtmFL1b4fbQq9k_9BijVW-ZIjU8Ckr3tWe5hiBSlaY6g8pquTFl-3qvxA31mmfYjKSncyb9Ns6brlVuvSzjcVOD7FVFo7Iiej4XqVZIk7nbsbnsaYB09wKN_Lb6PY86NYZfRj-q-1Yf-DCGbpOUaIHsiVdlpCCkyXejJhMYnPvreMHKsomR7qO3Kn4Mu5x4DSRXvB3KTUji3LSDFxWVg5IBUM-qOWdlE0vCTaC1O7qrLOQ2R32XBa84xf4ylkdjU2v61o4gTqdiB-MJI6clSMI3kLs8iva21WTCUPKT-L-im9KoslBEEgOx9fG6ICf_dqACeFwwqm73Plh42guR5YwZUQNI2tHG3iXsHkiIKc0SE6Nq5hLLlykWIO-WxK6ZJ13_bAICzrYUHtMy18mvpqo4eUrGw144Xh1z-ZzGZqYIGKE7m8CPksAl-VJ0xyQ0Bixhk2OxzF9r1GW6Qbq0Ew1S3IPD4qGCh3-IFLLsp2i95MKR65V_BuAXVdbefV441GLsesKvdhYwQXhl4hVehqjSAo6p4sUGMhA8MDoNY_ORWWdBeYJ2HT85Adu9LttM6Q_9ibzaWf055-_u6mitPL30q9VrKqcTYQVfmtyMQ2POPqD50v3oYYEGUi4kl89x6fex3YvWxqvj1HBd_o8NjVZyACAy=w1232-h1642-no
+&quot; /&gt;
+&lt;/div&gt;
+
+&lt;p&gt;The steak was just so fresh and tasty. Supposedly they import all their beef from Australia&lt;/p&gt;
+
+&lt;p&gt; The next day I had some Udon and Krokke for breakfast&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/DjXAOwlahsRUZTXXGWC2FzVNwdV3sK1xTqFg8aD0fR8nA8HM805vMMKe3_0NaIZPoatWZNMtlHg_N2ogbvrjT-qB4VPE3rM6_W4g4wVZz639eONumNzeEyY0H4ywW5MQ6JRYZstrz7g6AWrXS6a9MWrPqQB4bwq3f7tAGtJ0FcC0t8dYHQ_BVYyib-ij_oi5laFVNVasAWvfoo0BuXEGmJZgb2Ju7aSxfCld4rhefWJgUDNc-5coKU_HZAlhcFheSjW-xgqlPaWaeO2BxpGYKesyF67LscfmHm929_JE25xQIrmfWM66S-TVkXQcY1gM1nRrpITEHH1nfFni02M3lKkBBbzoQ1udAvUW1q6C5uqPxiTcG2ZT8XDsymysFYksydigeou-X4zAl54ENJ2pDem2fpm4bGQlSzAwxqwkmT_YZRhUvhfU_SRtbV0ctiIjLNNFqV25Z2A-wNdkcKMzmRbQpXnw3OYGXL8tZQGmmRYcv-9uabS_gcdSnyz5NQyHZXma0E4NgFBborqBhWIkCIuAflWtWnCdfb2tsxHvkhK6OBORJbqrQf8ZuiubqiMHg0qqL4nDgYixG1KkDdFeWCUPvd0rdSVRq77y56LIGnkrDX5z72IHtE9x5YAPKtoCL2s6d4IUG8zpIgQK4E_BBeXfDfPNkd-iEsX2U9UFWKTZeRHR_qOfbLhbG_c0qW_3AUDFllM-vlBi=w1946-h1460-no
+&quot; /&gt;
+&lt;/div&gt;
+&lt;p&gt;This was actually from a cafeteria somehwere in Ikebukuro, The size of the Udon was XL and the total of all this was like $12&lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/dwRyyOc6d9voIDgptglnjIQIA5qgB7Tl7nXQUqdR-HxUTD5Woh6NEuGFBUU1e9X1CINmHH_RLo6yUlqGD1vJT89pFV5RYu_cAygtJBSp7d2RVa8nAgPriBUL1iieORpCgLFIgHsdyUFcRhabDJ5UKtXPP-N4a7qbTQiOI0ELwPZufjKZFolpimYlmmDh4JSgvzHXB83hyl8SotG6EvNFG4-l2-9YImtXxKbnyTlHEohrr8hf-6xUAFWmVIiEcPBHZPJy__SEQxvxpmVltQvTG0A-2cV0W1tz6pYOSmQjrlDSBYtiEcxLA2EQVkva1DLVIg43cao4rTIfy59QJ7Fg8J5j7SJ8FcueV-LuDgv26kUxqvweMLLiVhOXTPEw0zmstk0rqjfHjq3C0_erxhIrkn-oqImV3N4bWYIq-0x2rcLEsXhiMg71ZeN5QLMjQJ9L6-KiRrbzBUJzOjvplZnrhaey_ru488IvTPP4kc6k9SH2tlhG-5OaQmCcVPpuCZub80R-i8UJljE9V6dpTZs8LftlTiVS_wmBLUTTR1wymd7Wdqjs_XzX6AoDwOL7KNiD9S0b92dJpqCOWxspzQiHHUr27s5aXoPc92YIQ7l9caKMWjI1fRzYBnkdOQVJyx1hOY_kQgNt986oT9JwosFZoPoJY156TNZwHO87aBGPTS9k_RlXtkKE5pwONcASHTSHM6ARjYQ0HUbU=w1232-h1642-no
+&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Did some Pachinko&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;The trains in Tokyo were really efficient. Everyone's main mode of transportation as Taxi's are crazy expensive. The last train is at midnight and then resumes at 6am. This means that if you are out partying past midnight, you are out there for the long haul&lt;/p&gt;
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/r3Pjw5A6IlxmyS16TQO4PnDOE_puApFTw8k-s_Qmjetq_-Sa-SrtN5Ump6E7KNI3bBt-QsLIwatPVkygWsipc8dn2200mm7j-kt2WO_1ijoGPE0bPzVnZANlPcnNHPfsr5cA1ouUUl79aWHE1AtoeGuLn1JNzDABzAZ-GB99F2dzvb-zo5-kf0-e-t4B8sfwZRbzfnf1o4UAQlXMS_2HUdODEm6siaEQeAlVISu9AmlUGpYFCc9ee-N6azf5sFgKL7GdO-zCUHTw-TJAiNhqV0YJDxCIwbR8OZD4xSqOpPlC5A0PAk3eyzSm2eWCLp8Ff3QFd10ctPP3x55jrck_g6bPvo28G4PQbSJHKmM4etpk9cUUhi4gisbJm5caLW-LOzdMQfg3XxoCsJ_c9XiAm-3CoDxI4TLemGLUTaSvNewJcYAxNwXBBXC2NqFAk2QbUqHGZqMbIVcMNgQA0mOwSDJkBzhgcO9f-oHo9ZzYTulz0Re7D3KoQqDNsCjSRn3toagmOmNx5FFCGTvetTcuMT1fzarSZtP0sfuvvzEIZgdeCh6HD6iKXa3TUfS4UAKvnNv1js2bgebGAJ-xV1ADQjoyxJjmN_IuCaCnaY03wEIZGRbLPX0-GjHO8ifrZqwFRrsrMHjYypdc2QEQMvFFj1AWY4w-rJENny0VY4zv23QyyCabyKg6tfGgxaZ_J1MYrJYzi99PVN3r=w1946-h1460-no
+&quot; /&gt;
+&lt;p&gt;Beautiful station in Tokyo&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/rYJjgZueYCGrRDUGreQDP00uUfSQaUadJyGNB5u34zzArSHIcdhCnK2hyBRjrmMODD4PbFm9mwS1EMZu2RCszjnlZbgmElxetUg8bp1AvUSMcyWow9Z9wXjrONa4J92jCTwWMxF8IY0xgofXOiEMchuN7IlK0CP19guON3EfNqKvLLhAoqPfDMr6o-JKFqmUp6N7nftnSvVv87HSiwxFxOTdDkup0ScJVDN9iRL3ZHELBvcFowVUlgFXHRUh0CoBXUsPx6Y5l2xn-pC9CI4U-tl0D3pK-kzq9Xu3AJClkTbN4ViQyDYJPSbVo7Vb3wK27Gm-nDP9ues5dQ-BueluP7_gHClrKWPrS1uOxvB0Hd-CiQMqgJ7EX0-I-98SSDqJfHDGOvjSZBUcLU3vnpR2YgGYwIbnqLmRF1_vOOc6LUpf8HeC90IXoN-65NEwqDPGb6ZN8afMpMsK5d6Ikc1cnNW0iIHBWWqDgvpjpzof3ojtXkts9A2Ye7lJa_hT203l3NF5t-0je-CJE7hw67awyGkoePIccl93EXgt7UQ2CX3FajzsNcgFHEvQd86Rmu8Ha5-SSgXYLpBOzbTpme_daoCV-ggi2dwBERzg6Ecsd70SFnwToGXcJljHwFF14SjWj_uzJ4quktjeqFf-u5O1P5piuyyo8SHIkgZRvzQ6N5wMKOhcxE98D7O4j-Ui6Yybpg0lv0LGuT8W=w1232-h1642-no
+&quot; /&gt;
+&lt;p&gt;What it looks like on an busier than average train ride&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;For my last night, I went out again in Shibuya. For dinner, I stumbled upon one of the greatest steak places. &lt;a href=&quot;https://www.tripadvisor.it/Restaurant_Review-g1066457-d8473328-Reviews-Ikinari_Steak_Shinjuku_Nichome-Shinjuku_Tokyo_Tokyo_Prefecture_Kanto.html&quot;&gt;Ikinari Steak Shinjuku Nichome&lt;/a&gt;
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/Gm3wQZtYv0M95mcULccyRHOrcXAktgzrpB_iCEvDQyHnQsadgOECLeSZw01j3pFgPhf5rJ7_sd_5r8_1u-H6PUtNk331j3VNk6xF1f9BcQxZagjKQoQ6-3Y1CeJ2vtegf5G-1HlPL4vleM5gM-jlyPNtVEvUhTSSOz2L76UnpCwR5e6CDhavEa6U33DHsWMPdZKCm8P-QDz7PfU2HmVtssg-zqfEOSRLx4OFzkRGqbpmLmGL78iWILlvWi0UYHBl8a0PrazMtujD9B5TsHNnwp2vfZHjbZMO_o4hbD7T8BN6iDiU5X4cLq9F2Y5x0TekZGR-i8K-A346fOMnEg1YV20qVEnG6gBJGHHAlcjPRUwju4f_CGMQ9lk72H91v7qUAC_vgTK1xzaJqyD6QU4x8YXTCdjn9fvfEFxmWhGgt7jv6To-vZy_lPy2NzwUArQXZ9Z3MPK08BjCBVoilxkkdcguoAkOUXNNUyIfCcRGGIFxKulwsc7MrFW7Qv3nrn92mmYm9wLqtMScqfEWSXqM-652KJfnU5seJxJdjeymWYG-MPgpWBKFII-EZZxmFogV0BPQlTRoVhkvCeRr1ytqJTfdlSqp42W6mDzVOaDmL6AzxCBy3A5qsHNLGq1Bk5KQ6XqczTN2Ep4iphsFwZObLcj8XF7Afti2slPiluomSGitLgnb6Ftb4nQnlbD8fEpAC3Vsqy3jVw36=w1232-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;You go in, select your meat, pay by the gram&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/t6oXyrIzegA3ENTAGT1pJ7WNWH9Cu2zfzguu6DWE7Mhug2E9JvZIKInlkWhrJf9fzDVZjfTpCiJlk84JAphFhkDN8AI5n8IHJqCXzoVMTHh6YuucAJ-MkkjQG4fPvm6Ht0-Pl8ty6b41LibagPQirPiMvsiHgO6cV9pijdQLLCIxEGKkFR9a0znudx4kEhtdWZ7-Zlhbd-7OPgxZeBYwTZvYchm10iXpCi6Qnrxyaj5mAFJUaR9gP8TQjGK_CWo27YGaI1MY_4YWErjNjhZM2zx-M-VYeMC6ewTEKoFH6V2m0iMTy4g2WNVo8ELE6pTxOHgA0B6wUKeVP6w74Mf51eVLFElj0J2Q1bss-hfEyKYFmzVXJef1XcAohJ7_ut8ZyrsCR1SdGUtopx92SFMW7DTg0VbXhFs7L5qolsGvThwdZLLdnxT_4RhvJVoB7Ao3N5A2zQ8CN9Uj4ta_6Kg6fslrb4rJAe7TzEAu3p493wGbLMXtdYCT0AUPFv5Vd5B6hTq1LTdv8T3qrh8MjBRECsdE6YDCaxkTLCCPjuEe10geCNpDi6KNpmdI4eXK_CXLenB3g5Y5FTlz6vrwOlXF6UesNiSOpqM0SB0gLSSAOXkHsORxDGJ37inrc53RQqcg4O4wN6MD1wr9VHCNqM_mZYkx4Ajdt74RJPUViezbSrjlpkcTnwAdlrPg6VlJOdnQXEshWT-lqow5=w1232-h1642-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;They grill it&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/bHhOdrKbz_V2kHw8d6vKQJewpyJ9Du8Grk5igchOfVOkNXgE1VIftNNDFLyzf26TMN7V7GiaEkriw5wfabspR-h_ckAh458o8XS3BUaV3xmxRb4wFuABIqXoO7vTW2wCCY-v8lWB0X1HjCdPOD-1L7Chulu35E378AuPdXE08zEivmGtMpz6i_mQJdCcKmjECqL6QA5ZoqZ9K--Q1h4dwK4Bnd3Y5yHocT7JnukqYMaDZMeb21o2ebGjNgQ9FXxwvbi9a6Ese7S6pXVZttOGeGRmWOFCKNlSC13-rxbyjagzNM_b2PH0qQm3OxjCI0zAgD7JVOaRUxL49wzgjX2Y-gMOwJIOXEEiQQ3KelZ-SpR0ARQjxYc129StYrDlJxDm0djuMgBpXiYTS22rl4ieeRGItBfJLbCfMFkbOSL00GRz6ek98eatiZEseTUA58R14scwlD6xS0UM2TD_gkwShnO3j-z0qvmnKIB9GHJZlXk7MNMtjLbUH8FbIZH36C4jUVCldNSQPbVgI_FPtO3IHopHg_2ZLWeMPwGDT7qK_c7oBcRhhVEL6DsBd9zyLNisbHxiIzvpa6aujcQ5sdER3uI6AZ-qxcuE-tiuFNP3skpCWnE7ko2spIaVC82wrAm28KARjIUAVN1viZiuWrXLg5z8YcTUmnCTgPbPalCZZe7abEkTPoc3l5-YT4t2T2t_6nGZgdqXBxNq=w1946-h1460-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Serve it to you with onions ontop of corn&lt;/p&gt;&lt;/div&gt;
+
+
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/bG0vYyfWYHDI1Ig7xP4DNYq0D5-EskaJK5ygfkeCLhwt91fA4IuUjX2UObQ8fBc0KSNeiw3A7xZt2eJePldHANnKob1JzQsTxXXY9ixvnZvfSfA7odP51Fs5OG-re1R3zxLPDubKWRgMFJbIKpGg-d7BNyTNo4EK6Xh3qambgZ_T3BB5HClK8plznX_x8DNktoLnYP3R4aTASnAEx0FJ1Xh5YvTojXYLvvGod5GCOys59XmWXMDKrZYB7GpZppU2rgvnAGLm--3xKE_vtOQ4cq4EtvoK0F4i3Nmd0CM86GMU3PXq19lk2FZCUjdkH1rgX3K9aGk3muOo5_UuPNksRGdqXPjlX1dguv0L-6Jgb663QH-SzOmMLIyILOArplSug58LNLuFXzVMkq8kWJKeClBxOjD-2zjGEeHOc5e1rBYr73QqRjXJGazincK6M2KE-YuR6mkn0g1BkuYGNxi5jkYcOCDzdWSa4hzPEKZDZBAkIzaHgMI8LzwB1iYbaNWAx3feeM1Sf_HMMyQM3ZQPYbE4mLr9yFYyJKBHFCBeFELotuBj0hc8yKToFAty4rOYAuZISQU1MtVaxkyKTmHSywi2MRPtOW5T-tLAIalwgCA7rzgWoZsqOTmpyo-GxGgE8lb9d1wRCBc8zZkjP0GeIERtPYcIamXru7UbXYHxgcBarXM90Ok1I23cwb5xivWGpBMEGfqKAmgv=w1946-h1460-no&quot; /&gt;
+&lt;p class=&quot;post-image-caption&quot;&gt;Had to go for a second&lt;/p&gt;&lt;/div&gt;
+
+&lt;p&gt;Whilst devouring my steaks, Met a fellow traveler from Las Vegas, his friend was sick and bed ridden at the hotel. He needed a wingman&lt;/p&gt;
+
+&lt;p&gt;It was a sunday night so it wasn't the best night to go out (notable places were not open) but we managed to find something. Went for the long haul and didn't get back until the morning trains at 5am &lt;/p&gt;
+
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;
+https://lh3.googleusercontent.com/kFHOfGtPsKaMz4pqgrdRDFu25pxIIBTCULkpUbQyi-f1AWAOP9kQX3wuN_5113UAFhmCozt1FSb-R9wYhIVy7TzRvnOkFzJ3L4ihsY0iSTtDEVm4sQBS-iamRJqwMQffbNirQpuHZqlt1QT9cz6eRQCL92Egf-EkclZW-S-PKGQoKFYFCA3Kp3t_82U_3vJrM0oFXZWU7elsXDkBLoMWBkrzsKQccLIcxMH4PwxD6O4iiZPgyBO5yGwPKTCdslP7ApF55fgd_IbhEgla-ILTWZka-hGOIlgSstO2OlBn6ERGk7aGx6B_v6NCziiCSl9oMJLdTB4z8IOTn5eAkI0sF9caoL09KvB0FZ16li9kw43vqQW8hWz261aNqOV1nAuDvpktpqYE2U7zm4AJRFJTZ2vmNkgfgdfXiSM6pUQYXvH6-7dBuhlK44FD2MUqHiWXU9miEcsnt1249FJOEsHGNZVMVw7661RndXwPe5eDuBYVLObhwpKRYfNzt0YyeTQ-A03VldRGaxxTv61tkg1XTfZ1VVWuAfrOTWsAoPs_RgqeHKQkBlW-yDjWQyxK-VqKCBos9Ybllp6yx2-ZYhMAfaio72hxhVyOXSJYZaDaYKAN0BYod8Y_JMX43nzK_D3wdXA_ViXGyhvfsriOK6EIXZOs4O54a-bTpj7QVvPCvbC9nwofsImnKjMlwnEQCruTVLd2Awkq1XMb=w454-h309-no&quot; /&gt;
+&lt;/div&gt;
+
+
+
+&lt;p&gt;I ended up having to buy a suit case for all the stuff I bought. This was actually apart of the plan.
+&lt;div class=&quot;post-image&quot;&gt;
+&lt;img src=&quot;https://lh3.googleusercontent.com/-CsBr4-HhQz1pvek5QosBzIKBTmVQOWjpxjfgj2z-rMVlI50iqcdvHLO4bedwpdAzwWAARtBZNBMVXH2yb3J2oGXVMS9lSh2BX6D5f2B1ENLEftPs99_JD5V0DYgYTll0F-nyVR1fU-h3Aj16H8CVhabQRlM0qfRoB9jvcxEPPAxtgjEP-HmQvb1PFfkgmgiOvW8DDC77QMTzx6zhC2r55_IwtWkRdWlc6AlQd8uCQJp2IAZKB9VD94XAnyTKFpUbnK4B9DpCCYnX1DR6EIfLblrNTWk5_b4WoBG3VcFGSkVYILizZiGNdFEG0pfNZIkGDKlvuGqLARSAMnmWmvIz5gHRH70z6drbjBZ_-1x_rpOqzum1lxEVoMrm_wlDYfXrN0ijLabbVEC1iaY75hrEQWIKWoP2vrGdNRoD2zcIizPwFfP-eGWrT0tZ02iKIBqKrAkFpyHmNoRT7HH6e9lcPK7DKUYxa4X9JvxWpsJSgOSE9jbiZLdhPeDAnKdMzck5LB-z3_K39p6RGH6nBpbsoy4O98gbpr2VprEc2qywm6HiIPEgq6ZBDijYx3n4XeENZdxritE4PbbywiPQcWk4UmdulrQIlWEGixJEfudUgl7ogXYJHJoBxZsWXGqbOEujqiRgOy0GPbvGaHwHzUf4wSIlZ4W0sqldVKzsoBFbZD6VfW0OEKhPPuKQyBb_JoBeWq0ykhfp3bH=w1232-h1642-no
+&quot; /&gt;&lt;/div&gt;
+
+&lt;p&gt; Next day I woke up a little bit later and make my way to Kyoto&lt;/p&gt;
+
+&lt;p&gt;I definitely gained some weight here. I had to furiously bike it off when I got back home but it was well worth it. I would definitely be back to explore more of Tokyo.
+
+
+&lt;p&gt;I cheaped out on this stay as I only needed a place to sleep, shower and release my bodily fluids and solids. I am pretty sure this was a love hotel but it had a huge shower room and the bed was not so bad. This was not a far walk from the train and there were some cool stores that were nearby (Evangelion store, pretty cool mall for clothing too). It's about 15min from Akihibara and pretty close to Shibuya. 
+&lt;a href=&quot;https://hotel-aurora-tokyo.hotelmix.it/&quot;&gt;Hotel Aurora&lt;/a&gt; in Ikebukuro Tokyo, Japan.
+&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 06 Jul 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/japan/2018/07/06/Tokyo,-Japan/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/japan/2018/07/06/Tokyo,-Japan/</guid>
+        
+        
+        <category>Japan</category>
+        
+      </item>
+    
+      <item>
+        <title>Jakarta, Indonesia</title>
+        <description>&lt;p&gt;Hello&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Jan 2018 00:00:00 +0700</pubDate>
+        <link>http://localhost:4000/travels/indonesia/2018/01/06/Jakarta,-Indonesia/</link>
+        <guid isPermaLink="true">http://localhost:4000/travels/indonesia/2018/01/06/Jakarta,-Indonesia/</guid>
+        
+        
+        <category>Indonesia</category>
         
       </item>
     
