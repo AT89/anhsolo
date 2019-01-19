@@ -6,7 +6,7 @@ categories: Indonesia
 location:  Jakarta, Indonesia
 ---
 
-I was super excited to visit Jakarta for work. It is a majority Muslim country but it has a bit of Christianity, Buddhism and some Hinduism. It was a English and Dutch colony. It has many numerous islands. The currency exchange rate is very favorable to the USD. Around 40,000 Indonesian is 2.83 USD. The nightlife is exciting and the country is pretty developed, so there's a lot to do.
+I was super excited to visit Jakarta for work. It is a majority Muslim country but it has a bit of Christianity, Buddhism and some Hinduism. It was a English and Dutch colony. It has many numerous islands. The currency exchange rate is very favorable to the USD. Around 40,000 Indonesian is 2.83 USD. The nightlife (see <a href="https://colosseum.id/">Colosseum</a>) is exciting and the country is pretty awesome, so there's a lot to do.
 
 <div class="center">
 <h4>Soundtrack</h4>
@@ -415,5 +415,6 @@ https://lh3.googleusercontent.com/3ycjTpCu4nEy7N3dvF6yhEdx0ywN1Q3lCSCfhJtEGUoU7O
     <img src="
 https://lh3.googleusercontent.com/A-_NEsNs4eto472NqyWZ8d3zzaHWzevQgIF7if8XKuGxVpVUlG8w30ZDnCe0-I01xAt_oKkyymH0l2BzoNm76CISVCLUA-WJjc7WSCCyDGlp2Lm2-2dnWmnm_FNU7LeCHXz47NU-fQiN9ZvMd04Y17IhiPE8pqK1DXX_NHWqZtzxNMsRk4Pja4ARPlpHpPJfyNZQeRjHh5MYwvYPVOR_tBXG0CysNdNXiJDQcIuxP0TFm_8UADd9IupUj9hNE255B3ASDpHhyGstw-RdN3Ug_ZJj5qC4jDojcjQ6AvFvt8eUMrWMl51s9hAfeLovg34H0m_VX1DUQCtOP0cDd3AZlcmv77vctw-vSkBNPVAXZDCWOA1M62rMldP0LWOVukYskYw1kqqMmAlvHXqx_Hn5RuxwVHG6vnThmm8Ozw2hTyZJ0QIgZa7kITTOFXUmdjpdgs8l4PcJ486d1_uIPMH4zUURjOBQGM71Gw7VEU6tD4taj4iw_-fOPAKCCdW0-RrRN4kth7yv6W8frvep8EDQy3aRb897SedStHszijrNMbv_O7xHaIqSTFDSIPlkdKYqVdZUWHMOZ9GPXBbRGAl_Hz69MQsqDNdpQA2SgL9zGzNuR_6sbAlhu2qob9E4auQ0z9P1ySFnKwpYPml6kuE=w2060-h1544-no
     "/>
-
 </div>
+
+<p>Overall Jakarta was fun, I wish I had the energy/time to check out Colosseum but alas I was too exhausted from work to really enjoy those. But Jakarta is a city where you definitely need to know someone to be at the best spots. <p>
