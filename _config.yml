@@ -13,12 +13,12 @@ author_description: Time for Adventure
 email: anhtice@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Traveling the world, exploring culture, being and giving inspiration.
-baseurl: "anhsolo.com/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://anholo.com" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
-picturefill: false
+picturefill: true
 
 # Typography
 # To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
