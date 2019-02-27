@@ -36,9 +36,22 @@ permalink: /gear/
     <div class="post-image"><img src="https://lh3.googleusercontent.com/HNQL_DZRfFEaqdHnCfJ1jpqQ2JmdrTGWkSXOMJLwJHtR9SxJVUuN3xtDmg4L6mBWEdJ__fkivgoxI8l0PJGCtrJoHx3EX5kkj4hXDq-zQ5IzULxyv_cerb9oBF_L-YS5JRIQJb-BLkjkz-tQizTVUT5DFs3O8oPaGGy-RGXnQ_AvSaIW4okwJRsSOy3QrAS1_mrk6qUDSEQU89S_g0mFuDJI-SuPBBT4oKA3IJfKZgupp4JIXuKrLrsah6P8Bid33IeJsSW2BE3wcXagB1CuZ-_uSMWSAe92OwhqnGLD7-09KEZWbB66wcilt2gdvKT_sLBe0itmgPO_QpDAZG1VNPqNXOmUlIdMWzGDsrc4isgX42VaUq1rYW2JPVwcI8YEWHw2e_0nY294TDkP-1aZnX7nJuD-D2tpJ-T_EO-znl5HqEjHVYVfW0drO27FyQp-QTIgU57lpEObqChkjbZXlp_EYvPZI4y_bgRRdrUwxmW03wutV8i_TVTlMuEcRq8-y7Npd6WiFVWoYU7qXBzJ1fwoYZ7jVunFrqZqbApKFyx9WPjzFFZfiRf0ttmsH5OvCMM7pUPQsaOQNBJDssjznQna2E8g0Mw8dRgT7TEoWMv0gPlL9ARxZCQrPbVvqrj08Sx7tt4sxfXWOp_u_ZyZH_1oy2c2nSbGnRKaeybMMdj-cuap2lceY0CnLIahHVyWdBYonNaniWsF=w1356-h1076-no" class="gear"/></div>
   <p> I really like the <a href="https://wolfandshepherd.com/collections/best-sellers-1/products/senna-wingtip?variant=6269869850663">Sienna Wingtips</a> and the <a href="https://wolfandshepherd.com/collections/boots/products/breakaway-boot?variant=6270714478631">Onyx Breakaway boots</a>. These actually feel like sneakers and the quality is very high.</p>
 
-  <li class="gear_li"><a href="https://www.adidas.com/us/ultraboost?cm_mmc=AdieSEM_Google-_-boost-Shoes-B-Exact-2B-_-UB_General-adidas-default-exact-_-43700035847623441&cm_mmca1=US&cm_mmca2=&ds_agid=58700004302066472&gclid=EAIaIQobChMI_-Kt34uq3wIV2FqGCh1ZDAMuEAAYASAAEgI8dPD_BwE&gclsrc=aw.ds">Addidas Ultraboosts</a><li>
+  <li class="gear_li"><a href="https://www.adidas.com/us/ultraboost?cm_mmc=AdieSEM_Google-_-boost-Shoes-B-Exact-2B-_-UB_General-adidas-default-exact-_-43700035847623441&cm_mmca1=US&cm_mmca2=&ds_agid=58700004302066472&gclid=EAIaIQobChMI_-Kt34uq3wIV2FqGCh1ZDAMuEAAYASAAEgI8dPD_BwE&gclsrc=aw.ds">Adidas Ultraboosts</a>
+
+  <div class="post-image"><img src="https://cdn5.kicksonfire.com/wp-content/uploads/2017/06/adidas-Ultra-Boost-3.0-.jpg?x65229" class="gear"/></div>
+
+  <li>
   <p> I used to be a sneakerhead and have a pretty solid collection but it all ended once I tried on the Ultraboosts. There's really no sneaker as comfortable as these. 
-  <p> Not a fan of the new 19s, I rock the 3.0 and 4.0's in Triple Black.
+  <p> Not a fan of the new 19s, I rock the 3.0 and 4.0's in Triple Black.</p>
+
+
+<li class="gear_header">Sunglasses</li>
+<li class="gear_li"><a href="https://roaveyewear.com/"> Roav Virgil</a>
+<div class="post-image"><img src="https://cdn.shopify.com/s/files/1/1832/8023/products/Black_Moonrise_Layout_View_820b1848-a977-4971-948e-75aa97e0d085_345x@2x.progressive.jpg?v=1544556221" class="gear"/></div>
+
+<li><p>
+These are sturdy and super compact. Able to keep them in my pocket. I used to use the Ray Bans forever but these compactness just beat it. The nosemarks don't appear because these are so light.
+<li>
 
   <li class="gear_header">Electronics</li>
 
