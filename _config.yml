@@ -8,12 +8,12 @@
 # Site settings
 title: Travels
 author: Anh Truong
-author_link: http://anhtice.com
+author_link: https://anhtice.com
 author_description: Time for Adventure
 email: anhtice@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Traveling the world, exploring culture, being and giving inspiration.
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "anhsolo.com/" # the subpath of your site, e.g. /blog
 url: "https://anholo.com" # the base hostname & protocol for your site
 
 # Picturefill
