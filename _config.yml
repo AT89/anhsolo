@@ -14,7 +14,7 @@ email: anhtice@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Traveling the world, exploring culture, being and giving inspiration.
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "http://anholo.com" # the base hostname & protocol for your site
+url: "https://anholo.com" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
