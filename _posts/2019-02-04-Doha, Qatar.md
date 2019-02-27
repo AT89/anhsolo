@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Qatar"
+title:  "Doha, Qatar"
 date:   2019-02-04
 categories: Qatar
 location:  Doha, Qatar
