@@ -2,7 +2,7 @@
 layout: post
 title:  "Kyoto, Japan"
 date:   2018-07-10
-categories: Japan
+categories: Asia
 location:  Kyoto, Japan
 ---
 

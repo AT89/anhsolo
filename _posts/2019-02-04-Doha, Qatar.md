@@ -2,7 +2,7 @@
 layout: post
 title:  "Doha, Qatar"
 date:   2019-02-04
-categories: Qatar
+categories: Middle-east
 location:  Doha, Qatar
 ---
 

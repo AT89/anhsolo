@@ -2,7 +2,7 @@
 layout: post
 title:  "Mumbai, India"
 date:   2018-09-19
-categories: India
+categories: Asia
 location:  Mumbai, India
 ---
 Got a chance to go visit Mumbai, India for work. It was pretty cool. I thought driving in Vietnam was crazy but India is even crazier. In the cab, I was literally inches away from another car, car horns would be going off in seconds. Mix this with the intense saturation. It was quite an experience!

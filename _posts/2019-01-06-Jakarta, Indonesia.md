@@ -2,7 +2,7 @@
 layout: post
 title:  "Jakarta, Indonesia"
 date:   2019-01-06
-categories: Indonesia
+categories: Asia
 location:  Jakarta, Indonesia
 ---
 

@@ -34,7 +34,7 @@ window.addEventListener('beforeunload', function () {
 
 })
 
-  $('.post-image img').click(function () {
-    var imgSrc = $(this).attr('src');
-    window.open(imgSrc);
-  });
+$('.post-image img').click(function () {
+  var imgSrc = $(this).attr('src');
+  window.open(imgSrc);
+});

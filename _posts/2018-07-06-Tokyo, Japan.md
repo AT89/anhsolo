@@ -2,7 +2,7 @@
 layout: post
 title:  "Tokyo, Japan"
 date:   2018-07-06
-categories: Japan
+categories: Asia
 location:  Tokyo, Japan
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title:  "Johannesburg, South Africa"
 date:   2018-11-12
-categories: South-Africa
+categories: Africa
 location:  Johannesburg, South Africa
 ---
 
