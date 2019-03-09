@@ -41,4 +41,4 @@ Hey folks, this the first stop of a long journey. It was pretty great to escape 
 <p>So long and off to Italy and then Belgium!</p>
 
 
-<p>I stayed at the <a href="https://www.expedia.com/Doha-Hotels-InterContinental-Doha-The-City.h4547858.Hotel-Information?langid=1033">Interconintenental</a> in Doha. Very nice hotel. It was about $100/night which is pretty darn good rate right in the heart of the city<p>
+<p>I stayed at the <a href="https://www.expedia.com/Doha-Hotels-InterContinental-Doha-The-City.h4547858.Hotel-Information?langid=1033">Intercontinental</a> in Doha. Very nice hotel. It was about $100/night which is pretty darn good rate right in the heart of the city<p>

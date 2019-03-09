@@ -1,21 +1,23 @@
 <header role="banner">
 
 <div class="navbar">
-<a href="{{site.url}}/">Latest</a>
-  <div class="dropdown">
-    <button class="dropbtn">Posts
-      <i class="fa fa-caret-down"></i>
-    </button>
-    <div class="dropdown-content">
-      {% for post in site.posts %}
-      <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      {% endfor %}
+  <a href="{{site.url}}/">Latest</a>
+    <div class="dropdown">
+      <button class="dropbtn">Posts
+        <i class="fa fa-caret-down"></i>
+      </button>
+      <div class="dropdown-content">
+        {% for post in site.posts %}
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+        {% endfor %}
+      </div>
     </div>
-  </div>
-<a href="{{site.url}}/gear/" class="subnav">Gear</a>
+  <a href="{{site.url}}/gear/" class="subnav">Gear</a>
+  <a href="{{site.url}}/tips/" class="subnav">Tips</a>
 </div>
+
 <div id="headerspace"></div>
-<a href="{{site.url}}/" id="" title="{{ site.title }}">
+  <a href="{{site.url}}/" id="" title="{{ site.title }}">
   <h1 id="spacey">Anh Truong</h1>
 </a>
 </div>
