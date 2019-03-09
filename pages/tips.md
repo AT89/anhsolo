@@ -15,7 +15,7 @@ I discovered a company that will let you rent a car through an app and bluetooth
 <li>This means lower cost on overhead (no staff, no key handover, all forms are digital), 
 <li>Faster check-in and check-out
 <li>24/7 customer support (they replied within 5min)
-<li>The fleet of vehicles they have are luxury plus cars I rented a Mercedes A180 for about 68euros a day. For me it was great because the other automatic option from Hertz was 69euros for a Ford Focus..
+<li>The fleet of vehicles they have are luxury plus cars I rented a Mercedes A180 for about 48-58euros a day. For me it was great because the other automatic option from Hertz was 69euros for a Ford Focus..
 <li>Using the phone camera and app, you can do the damage report on check-in and check-out
 <li>Super painless to change booking
 <br><br>
