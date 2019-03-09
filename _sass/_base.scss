@@ -85,6 +85,15 @@ a {
   font-family: Arial;
 }
 
+a {
+  cursor: pointer;
+}
+.post-image img {
+  cursor: pointer;
+}
+
+
+/* NAVBAR THINGS */
 /* Links inside the navbar */
 .navbar a {
   float: left;
