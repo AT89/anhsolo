@@ -12,7 +12,7 @@ Hey folks, this the first stop of a long journey. It was pretty great to escape 
 <iframe width="400vw" height="auto" src="https://www.youtube.com/embed/OuPRPEZTp5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p>Unfortunately I was working too much so I didn't really have a chance to explore the city. Prety nice cityscapes but what I did get to explore was the main market place Souq Waqif. My main mission was to find some Turkish coffee.</p>
+<p>Unfortunately I was working too much so I didn't really have a chance to explore the city. Pretty nice cityscapes but what I did get to explore was the main market place Souq Waqif. My main mission was to find some Turkish coffee.</p>
 
 <div class="post-image">
     <img src="https://lh3.googleusercontent.com/-R1eUzxiq2MQ4u_fXjCID8SX4PVq0cFCsuCZewmM6BOQ-qXhJM8ks0as6d1JeTNjHwDZ5YqNoMJ-hYJWakI8w0Vd2RIRQsNRbuvJ2kRdmzLP3X7trHhxr0y9lZAKzUv_K5Y2hcLIs4ZjbWiHjobHj4v3GddgVUJOFR74K3CzOUnEaU4PiXatXciPWyHWNlYbN-Gow-gr_2Vjh28f_hE7uaG2HrrrYw-3PrwnEILLEU8rKBtuaaQt6t-jCTqLTS_A5AiauiY1Vo8kE559ag4sp8J4rOQjljyIhu5lFr9z-D2PkDaGDjjd72u9VV8w1KNxAfQC_0ytUegKJucmyOfs8glWXDSRfd653wO71tk9tSu06ngh365kIek391GwkP_gB20ZP9ATm1HqyzTozmd-4ScBs1Qym4u7Y7CRCt7T3iZGBfc_bEDMgrUxe2AIgVF9LQ_PcdXsUj_0g5gsdw-Lp9ZWXT26nIo-9ZJ89kHQaG-9yZ98r208BFTUaCdjgWAdMAx9Db-Cp8Md4PJznEIbr5xPqQqaNuoKAC4AirvoLSpuOZLMuY4XbIAdkVjGe4Z5bit8fWDy1OjlvajAZcTOZVYxvJ8o6Auo4wkRYkNXwmHSSlZBenmKOQMFvWO8ldmPofe8JNNik3Pf8QbMKEsDJ25TkjTUWrS2QiLiImRoQrh7m_gQtQiFm77gv820oemiIkQ469YmGrZD_L_rJWc=w1952-h1464-no
