@@ -229,3 +229,5 @@ https://lh3.googleusercontent.com/Jf7FABCuFFpLwpDm4KfNyoTl7NpygcqXXH1iWkciQoxQgq
 <p class="post-image-caption">ka'chink</p></div>
 
 <p>Yea Russia is pretty fun. Definitely jaded me for a lot of night life but it was really interesting to see what else is out there and where inspires where..</p>
+
+<p>I stayed at <a href="https://www.booking.com/hotel/ru/peter-the-1st.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaGqIAQGYAQm4AQfIAQzYAQHoAQH4AQuIAgGoAgO4Avj3j-QFwAIB;sid=eb5df03882fc1776c5e9db8f3377281c">Peter 1</a>. Gorgeous hotel, walk away to the red square and pretty accessible anywhere.</p>
