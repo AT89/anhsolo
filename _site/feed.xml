@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2019 17:23:08 +0200</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2019 17:23:08 +0200</lastBuildDate>
+    <pubDate>Sat, 09 Mar 2019 17:24:06 +0200</pubDate>
+    <lastBuildDate>Sat, 09 Mar 2019 17:24:06 +0200</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -342,7 +342,7 @@ My dad really liked Adventures of TinTin and The Smurfs growing up and I learned
 
 &lt;div class=&quot;post-image&quot;&gt;
     &lt;img src=&quot;https://lh3.googleusercontent.com/HgjLudRrRD44gmBXuS3vuAkizDmOXg4e-xw4p2XzwgBskdj08HpIjVOe4Bl5FJ7qz1EfLiWMxE21006O3Om0uJl31Cs35McCfNWsGszq9VNzwhucjIPhLdzK77PJ_Hwgpo8ULUIXncKm-6VjCmE0OpfeVkjTwQvQTIa3ZBdDcv2i25sTgzkZ4-j_xmGgg7ihBq_b4GSVybg7a2pjPLsY4xvwA1aXN4kNlg1nGXcRO93p0AMxqnmpqY02SSbXNDj07egDCKMicO7CDaxGR4sRHH-dBWWHZF38siMCDXZvdS_zAB9gkn4Cm6CcZuzFsfkOrpv3h_qhxjBF2NTPfYI91MRKAhfB6L0eRLfh8uV529yZji69CXUBJCwAfJ6TLU7dxBiq1cAU3kglV3extGAz6LOGXPk3CyC29IkcmufjDkdSVerS8a_xlSWLF-zpNWMYvpwQVXRK6-OQdndkkhenzaNEY6_Ez6F38ZoHxAvP5679XNvCMHHxx_6qNu8RPWNe6PFnyyMUmxv5KWAhhuzHV-bBSPOVmmhsg1K-tZ9ku5VQur-k6uBtavVOJl_A7UtoJ1FSm_hf-wmRRijowp5MUqDVVxaV3lBtZWtf_cJz34s-BKpCEbMj3VAZ5C3eTEJRmLAoPioUmXWPRlOqhIQVftvsyvm5-2g5NxH5YcECO0bKgBncOzzVjNgiC_I5lIU_6eGE9hWbsmgKohlAnh4=w2182-h1638-no
-    &quot; /&gt;   &lt;p class=&quot;post-image-caption&quot;&gt;Markt of Bruges, in the heart of the city. The building in the center is the &lt;a href=&quot;http://www.holyblood.com/&quot;&gt;Basilica of the Holy Blood&lt;/a&gt;&lt;/p&gt;
+    &quot; /&gt;   &lt;p class=&quot;post-image-caption&quot;&gt;Markt of Bruges, in the heart of the city. The building in the center is the&lt;br /&gt; &lt;a href=&quot;http://www.holyblood.com/&quot;&gt;Basilica of the Holy Blood&lt;/a&gt;&lt;/p&gt;
 &lt;/div&gt;
 
 &lt;div class=&quot;post-image&quot;&gt;
