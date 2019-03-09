@@ -31,4 +31,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
 window.addEventListener('beforeunload', function () {
   resetSecretReveal()
+
 })
+
+  $('.post-image img').click(function () {
+    var imgSrc = $(this).attr('src');
+    window.open(imgSrc);
+  });
