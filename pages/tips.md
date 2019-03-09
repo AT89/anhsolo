@@ -7,7 +7,9 @@ permalink: /tips/
 This is mostly a page for things that I have found to supremely help out traveling.
 
 <ul>
-  <li class="gear_header"><a href="http://bit.ly/VirtuoApp">Virtuo for Car Rental</a> </li>
+  <li class="gear_header">Car Rental
+ <li class="gear_li"><a href="http://bit.ly/VirtuoApp">Virtuo</a> </li>
+
 <div class="post-image"><img src="https://www.govirtuo.com/_next/static/images/virtuo-wide-1200-1954c542849699d14fff08f860cf6934.jpg" class="gear"/></div>
 
 I discovered a company that will let you rent a car through an app and bluetooth and without personally talking to anyone. As of 2019 Feb, <strong>it's only available in UK, France and Belgium.</strong>
@@ -24,7 +26,9 @@ I discovered a company that will let you rent a car through an app and bluetooth
 
 <p>Also you can drive as fast as you want in Belgium on the left lane in the highway :)
 
-<li class="gear_header">Chase Sapphire Reserve </li>
+
+  <li class="gear_header">CC
+<li class="gear_li"><a href="https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve?CELL=6290">Chase Sapphire Reserve </a></li>
 
 <div class="post-image"><img src="https://i2.wp.com/arichjourney.com/wp-content/uploads/2017/12/chase-sapphire-reserve-card-mst4.jpeg" class="gear"/></div>
 <li>Man this card is so amazing. 
