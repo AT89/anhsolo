@@ -1,135 +1,33 @@
-<!DOCTYPE html>
-<html>
-    <head>
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+---
+layout: post
+title:  "Tel Aviv, Israel"
+date:   2019-03-10
+categories: Middle-East
+location:  Tel Aviv, Israel
+---
 
-  <title>Travels</title>
-  <meta name="description" content="Traveling the world, exploring culture, being and giving inspiration.
-">
-  
-  
-      <script>
-      (function(d) {
-         var config = {
-            kitId: 'kwf5dox',
-            scriptTimeout: 3000,
-            async: true
-        },
-        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
-        })(document);
-      </script>
-  
-  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Libre+Baskerville:700|Sanchez" type="text/css">
-  <link rel="stylesheet" href="/css/screen.css">
-  <link rel="canonical" href="http://localhost:4000/">
-  <link rel="alternate" type="application/rss+xml" title="Travels" href="http://localhost:4000/feed.xml">
-  <link rel="shortcut icon" type="image/x-icon" href="/img/favicon.ico">
-
-
-
-<link rel="stylesheet" type="text/css" href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-<script src="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.js"></script>
-<script>
-  window.addEventListener("load", function () {
-    window.cookieconsent.initialise({
-      "palette": {
-        "popup": {
-          "background": "#237afc"
-        },
-        "button": {
-          "background": "#fff",
-          "text": "#237afc"
-        }
-      }
-    })
-  });
-</script>
-</head>
-
-    <body class="is-offset ">
-        <header role="banner">
-
-<div class="navbar">
-  <a href="http://localhost:4000/">Latest</a>
-    <div class="dropdown">
-      <button class="dropbtn">Posts
-        <i class="fa fa-caret-down"></i>
-      </button>
-      <div class="dropdown-content">
-        
-        <a href="/middle-east/2019/03/10/Tel-Aviv,-Israel/">Tel Aviv, Israel</a>
-        
-        <a href="/eu/2019/03/01/Amsterdam/">Amsterdam, Netherlands</a>
-        
-        <a href="/eu/2019/02/21/Belgium/">Belgium</a>
-        
-        <a href="/middle-east/2019/02/04/Doha,-Qatar/">Doha, Qatar</a>
-        
-        <a href="/asia/2019/01/06/Jakarta,-Indonesia/">Jakarta, Indonesia</a>
-        
-        <a href="/middle-east/2018/12/10/Riyadh/">Riyadh, Saudi Arabia</a>
-        
-        <a href="/asia/2018/12/08/Vietnam/">Ho Chi Minh City, Vietnam</a>
-        
-        <a href="/africa/2018/11/12/Johannesburg/">Johannesburg, South Africa</a>
-        
-        <a href="/asia/2018/09/19/Mumbai,-India/">Mumbai, India</a>
-        
-        <a href="/usa/2018/08/29/Kalispell,-Montana/">Kalispell, Montana</a>
-        
-        <a href="/asia/2018/07/10/Kyoto,-Japan/">Kyoto, Japan</a>
-        
-        <a href="/asia/2018/07/06/Tokyo,-Japan/">Tokyo, Japan</a>
-        
-        <a href="/eurasia/2017/11/03/Moscow,-Russia/">Moscow, Russia</a>
-        
-        <a href="/asia/2017/08/08/Singapore/">Singapore</a>
-        
-      </div>
-    </div>
-  <a href="http://localhost:4000/gear/" class="subnav">Gear</a>
-  <a href="http://localhost:4000/tips/" class="subnav">Tips</a>
-<div class="subnav"><a href="https://www.instagram.com/anhtice/">IG</a>
-</div>
-</div>
-
-
-<div id="headerspace"></div>
-  <a href="http://localhost:4000/" id="" title="Travels">
-  <h1 id="spacey">Anh Truong</h1>
-</a>
-</div>
-</header>
-        <section role="main">
-            <!-- This loops through the paginated posts -->
-
-  <article class="post">
-    <header>
-        <a href="/middle-east/2019/03/10/Tel-Aviv,-Israel/">
-            <h1 class="post-title">Tel Aviv, Israel</h1>
-        </a>
-        <time datetime="2019-03-10T00:00:00-05:00" class="post-date">Sunday, March 10, 2019</time>
-    </header>
-    <div class="post-body">
-        <a href="https://www.google.com/maps/search/Tel Aviv, Israel" target="_blank" class="post-body-location">Tel Aviv, Israel</a><span class="post-body-location-divider">—</span><p>Ah the promised land of US funding. Tel Aviv was pretty cool and my hotel was pretty close to the beach. It was a little chilly (still early spring) and it was a little too cold to swim so I just had to admire it from a distance. The water was very blue and it was pretty awesome to see an endless Medditerranean sea.</p>
+Ah the promised land of US funding. Tel Aviv was pretty cool and my hotel was pretty close to the beach. It was a little chilly (still early spring) and it was a little too cold to swim so I just had to admire it from a distance. The water was very blue and it was pretty awesome to see an endless Medditerranean sea.
 
 <div class="center">
 <h4>Soundtrack</h4>
-<iframe width="400vw" height="115" src="https://www.youtube.com/embed/C_GUj12tdtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+<iframe width="400vw" height="115" src="https://www.youtube.com/embed/C_GUj12tdtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/J3A4cXaVlVcvpMQjJ2SularqT4IZfLZ19_hSbQtbWQSyY8kmouqDDUEtAsyguw-zyHho0Ja2qf2AyDwj4LwWf-IF98zlmVzMV13Ct7dlfXKftX_LTKBMAksEFAK-gSHuedzm6SKlaZYJzGMT2cHtWUSK88Nx8O7VPNinRhXYp5rrIPYYKkoiNVASbTf-vtrvJ0dD11et5rfRCZq3_Pz00JU5UiDz8dHrV9OBq2lhgyOQAqWq_kq8i4mDHsYFyb0uOg5JVdwqtS9adIdTMAkBJadF7I5HTtzSgpFBUuRPW4II2wiUUiusCbfUlQ00uJo7NHdsm9VrOnxAK9Tha0jF70aIOOfLcr31oHJyMxd06W6aPPExOwU_JIalo1cOM8YzMdTybPF6QdRmXLJfyDRf6lcRt7KQLIvcNPbUQMWvB1bSH9PYAfl3SzFgR3kJllgPXNKjh2KHBBPRpHlA4ya5g4fqwpmsQeoqnKi9c1JwUVjFlV_0xgmONrwj-k-BC8i62rg3kwLhQaW7pjqT69wpoPiPMCRDxdsIxYzDyHKSickIREOx00ovD44WPVPY_OU9ryFUYR1dYPh_CN5b6FWImoTfNkX65Wq7uhvlIKz50K2qp78GbIfKcibbQZ76c0KLehOJmMNIns9-tkkgDhk6f5fOcUgrU--jOGbwcI1EgStz0oPyT-Yei6CVj52NDs44312Vptl8lXqbkBxjaaE=w1544-h1158-no
-" /></div>
+"></div>
+
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/sJINuu4APcnxUrraqeCvRyM3EZjRyk-wf3ElxtJsEGGSIaP8ytsavwbdCSKzOalDDFFWFzNL3CdRkvwKfDVRAE5Ahy_c1cX4HodllKP3j7_J0LWQ-VJhXovvlpIcZVVR4MjWG9N4fA7ImFdHt_iBa2QdK0CpF_q2A5g4pRisHJIoipfsGJEm2rDx-cVQjBsDHL5wV-x2cd5X1qB9Ct8wqDlwHJeV8ALsTqYhG8ShwSPewzFovCQh6j6NeZrHS7s9lDzYceIscI486Pp9omn2RdiB-XF6riN_o9E9WzqJXx765HjmjW_ZVzsojNtme0sMSUBVZpICXKRGqv2EQOTO3MRNK8cEhfEXUxxEmiOKQ3xI_A_633gDAyD3zaqzSjTB_HNG9MjWsY3GADGDW2rO_0UDn9IA4Q7ih-sFaP8eC5-gr55uLaoDEI8yWqEotMfwrnt98P23pjh6b_aPYA7XaffuWMBDR56nzoPH6yS-Qk1K8RyAxYUSSrMLxG6IudJ7iS5HDXo4UVI7lQGSd8MWVBc0oqv7E9dFunYpSqwXnzSKPBI9K9B2oDhRCeog0Lm-oZf4kMrn_qhRM2BXRtD5spNpKfzV6LbO8hjtlQFg1yonoDH32gz7hsLNXEzc7CQb46Mah_D3gyfmj01i-k9V9UrlkgtrnYOe2JK-5mX1IwXkUPG_5qIfNYOPhx_Eab04ZadrkS5LiUahbWbxuJM=w1544-h1158-no
-" /></div>
+"></div>
+
+
+
+
 
 <div class="post-image">
-<img src="https://lh3.googleusercontent.com/ydvOAwIsRo5fW_TIO01CAx0seULHm3umZGbTzcw34pJb7bN0v-0Iw1PEQQ4sAXLmx5CTjn1c5hyDd3bkDGK3m29eDP4SSxqkYjhZ9xcTxv6e5-xxWNq66WZwG89an05i9Cg55DJAR8gM5sof-K9MIDNyd-W-ZVR--DQyzDFQHO_m_71Ic1sdh5FX7wQsR9Gqc_Q0tWkh0Lbh1l2RvOZwxbnh1lseTWvR6e3ewuiCGV6tFhgHaK81MhihVw84SCDdeoxRRhdCpdV25FvM7KSkymoontl_QQNBSlqOpFNbcsSoOsh0BL2letwr7U7LCqfAXjP1gEbIBXUt1XSbkgc1F48N4ItDiGGz3649fpEFdo5SGSjewjIujUL2PgGU4jXy0Yh_EkTsRNG7z5u7o31ODoRitambfA3kNLn-oELbps2FxehAPilwqixL1kFuJwFyx96gRruQXtjBUa7RhYsgmkbDJM-ZK4_vPD_tHKMp7BCRwXFuRKMlE56QC2uwgjv2uSoxBFlB1bVMausrth2tYtdklhV0t1DiDkSKq6yPfzMu0bcXSHXyU3Ir42d5uk4d18uwTKbv0pHNWkySOXAmh0jT_GHUo1KDaPWLewDzWKfdMVmbAAV5YggRzF2Q-VkOMF1oCDFXixeaJoUZYeIochrkDiFhsEuW81OH-200XbgTIv9LmpMk1CYq27336U_Qe58dnBNsVpFEmLnuH-o=w1544-h1158-no" />
+<img src="https://lh3.googleusercontent.com/ydvOAwIsRo5fW_TIO01CAx0seULHm3umZGbTzcw34pJb7bN0v-0Iw1PEQQ4sAXLmx5CTjn1c5hyDd3bkDGK3m29eDP4SSxqkYjhZ9xcTxv6e5-xxWNq66WZwG89an05i9Cg55DJAR8gM5sof-K9MIDNyd-W-ZVR--DQyzDFQHO_m_71Ic1sdh5FX7wQsR9Gqc_Q0tWkh0Lbh1l2RvOZwxbnh1lseTWvR6e3ewuiCGV6tFhgHaK81MhihVw84SCDdeoxRRhdCpdV25FvM7KSkymoontl_QQNBSlqOpFNbcsSoOsh0BL2letwr7U7LCqfAXjP1gEbIBXUt1XSbkgc1F48N4ItDiGGz3649fpEFdo5SGSjewjIujUL2PgGU4jXy0Yh_EkTsRNG7z5u7o31ODoRitambfA3kNLn-oELbps2FxehAPilwqixL1kFuJwFyx96gRruQXtjBUa7RhYsgmkbDJM-ZK4_vPD_tHKMp7BCRwXFuRKMlE56QC2uwgjv2uSoxBFlB1bVMausrth2tYtdklhV0t1DiDkSKq6yPfzMu0bcXSHXyU3Ir42d5uk4d18uwTKbv0pHNWkySOXAmh0jT_GHUo1KDaPWLewDzWKfdMVmbAAV5YggRzF2Q-VkOMF1oCDFXixeaJoUZYeIochrkDiFhsEuW81OH-200XbgTIv9LmpMk1CYq27336U_Qe58dnBNsVpFEmLnuH-o=w1544-h1158-no"/>
 <p class="post-image-caption">
 A lot of fun activities on the beach, I didn't bring sandles and shorts :(
   </p>
@@ -137,28 +35,36 @@ A lot of fun activities on the beach, I didn't bring sandles and shorts :(
 
 <p> The food here was very good, a lot of different foods from Italy, Mexico, Asia etc</p>
 <div class="post-image">
-<img src="https://lh3.googleusercontent.com/9EEhtO05wbPPI4k0khd8SckJj0RoGampVDm4Wp83ileJ4_5sm_LcnqxCgBTQfkb9eW5YY0ZbEAyNOwVYvlxetQB1pEXwk74SfBCE4jcjoYJFD0P-igejOe4UzbqypYQhNSEfp6V-bhiAHCQ78htFNWhu7zCVvDc-IL_KlKZ3LsDB3BQsNBF5yp4cobn13WpsgBZocGR7nOIkm12biPLsmZiDCNavkagEQEJvdOuA7uQJ7VMsZHKuv5EMV8sE_E_3yYbmOXGbqw5289Sr4KgKwHevGTvpFH39QZKBn8QcR2iMihLKhXcrhaegxyvZaRE5ewwYL8vox-mHKtRmck-zghYExz-H7X3ikDSaRQM4d8XqSyIk93vVuffcgS2K2Q4a3eYH4WI_TK61d4WuQn6EIppiyMrhKOmZWhgImUQZwh2pasN0McCvT3EHYilzX0e3P_CtTGbgDqTwfKVPIYu82jB6eWRe-SPX-OegNUZFMmMYoLKgMitAWk6TuBrgNks3Vn37a3NdJ6g9UXG56QwEtET9D4s6rW_lgvb4gsrPMs5iu8JdMb9cJIbBjmcgRghjSYt_uE_RzmQk-MDMdtmdpHqKN4OH8IRRWosj9Iw4VOLRU_S6NcPsNwKjaAnaToFKDhLiYD4U1gevZmCCCICoZWDcxI34SP0m0_WxglEXLFCXiNRt3rWTQLfH3ycxN57R66qZj7hYuF0ypTImHu8=w1544-h1158-no" />
+<img src="https://lh3.googleusercontent.com/9EEhtO05wbPPI4k0khd8SckJj0RoGampVDm4Wp83ileJ4_5sm_LcnqxCgBTQfkb9eW5YY0ZbEAyNOwVYvlxetQB1pEXwk74SfBCE4jcjoYJFD0P-igejOe4UzbqypYQhNSEfp6V-bhiAHCQ78htFNWhu7zCVvDc-IL_KlKZ3LsDB3BQsNBF5yp4cobn13WpsgBZocGR7nOIkm12biPLsmZiDCNavkagEQEJvdOuA7uQJ7VMsZHKuv5EMV8sE_E_3yYbmOXGbqw5289Sr4KgKwHevGTvpFH39QZKBn8QcR2iMihLKhXcrhaegxyvZaRE5ewwYL8vox-mHKtRmck-zghYExz-H7X3ikDSaRQM4d8XqSyIk93vVuffcgS2K2Q4a3eYH4WI_TK61d4WuQn6EIppiyMrhKOmZWhgImUQZwh2pasN0McCvT3EHYilzX0e3P_CtTGbgDqTwfKVPIYu82jB6eWRe-SPX-OegNUZFMmMYoLKgMitAWk6TuBrgNks3Vn37a3NdJ6g9UXG56QwEtET9D4s6rW_lgvb4gsrPMs5iu8JdMb9cJIbBjmcgRghjSYt_uE_RzmQk-MDMdtmdpHqKN4OH8IRRWosj9Iw4VOLRU_S6NcPsNwKjaAnaToFKDhLiYD4U1gevZmCCCICoZWDcxI34SP0m0_WxglEXLFCXiNRt3rWTQLfH3ycxN57R66qZj7hYuF0ypTImHu8=w1544-h1158-no"/>
 <p class="post-image-caption">
 Lentil soup for breakfast at the beach</p>
-"&gt;</div>
+"></div>
+
+
+
 
 <div class="post-image">
-<img src="https://lh3.googleusercontent.com/gL9WPRrfmgvMcKInmY4B6EEqe7Rf4QHYmEDVoXQ5jgqw-fcrEZB7bnAXuGKp47VE25ZOEBfJ3_R7TxOKPRZdcGrLaVWh9jJmVD1f4DKXDiOiyCizR0xBM-f3KOCBDeoaiOtROlsGdP07Xtv20KT_CqPZDvCZOXEyLIZxiKufbxAWbDRbNudinWAFijrxPfQBpfWt4OqIu0l_y81PM1LCMxOTyh2kbCVoK5YXP5HnkUzschYdgEZ7OYfoZaV1TqXXQIHnGr10kXuXginkaZNDN-_k5o08OuH0IweolCONvBHdRivZ8oVQ8CgKFfiSNqnZ899qkgnyQuMlS4wX25E1DAv3mN-qObiXeKBQZdTaJYA3b8mLHiJ3yi6yI7KCzxvjP_q2CS7tXvQsMuIo6jK22m2i-D0xxp75Q-esZFAQcjLaY8Xp9cF9SltZpjjaxZt_xmUvnDfwM4eZhzxx7SHiTSlXlEt4OOMM8DOW5t5YYFOsesMR8x5P8nCBpQPpmd0b9jeVyrNI8YktAgicjVo09LSLgkCQGV2qdKbvtwpPL2WoaQvij9x6GhDbic89coRtA2K3IX47KmlCZN08E7nBi6jjjdyQDz9-kEuFJvMFunUp3kARglVy3Y3iYr3xDNnrgjfuayTwpwNpujRyFshXXCHl4pQWuumIUy3w6Bw4SsQh5WBFaFkMWBQxGzIoR0JlbUIdynKd7dO4t4EA14o=w1544-h1158-no" />
-"&gt;</div>
+<img src="https://lh3.googleusercontent.com/gL9WPRrfmgvMcKInmY4B6EEqe7Rf4QHYmEDVoXQ5jgqw-fcrEZB7bnAXuGKp47VE25ZOEBfJ3_R7TxOKPRZdcGrLaVWh9jJmVD1f4DKXDiOiyCizR0xBM-f3KOCBDeoaiOtROlsGdP07Xtv20KT_CqPZDvCZOXEyLIZxiKufbxAWbDRbNudinWAFijrxPfQBpfWt4OqIu0l_y81PM1LCMxOTyh2kbCVoK5YXP5HnkUzschYdgEZ7OYfoZaV1TqXXQIHnGr10kXuXginkaZNDN-_k5o08OuH0IweolCONvBHdRivZ8oVQ8CgKFfiSNqnZ899qkgnyQuMlS4wX25E1DAv3mN-qObiXeKBQZdTaJYA3b8mLHiJ3yi6yI7KCzxvjP_q2CS7tXvQsMuIo6jK22m2i-D0xxp75Q-esZFAQcjLaY8Xp9cF9SltZpjjaxZt_xmUvnDfwM4eZhzxx7SHiTSlXlEt4OOMM8DOW5t5YYFOsesMR8x5P8nCBpQPpmd0b9jeVyrNI8YktAgicjVo09LSLgkCQGV2qdKbvtwpPL2WoaQvij9x6GhDbic89coRtA2K3IX47KmlCZN08E7nBi6jjjdyQDz9-kEuFJvMFunUp3kARglVy3Y3iYr3xDNnrgjfuayTwpwNpujRyFshXXCHl4pQWuumIUy3w6Bw4SsQh5WBFaFkMWBQxGzIoR0JlbUIdynKd7dO4t4EA14o=w1544-h1158-no"/>
+"></div>
+
+
 
 <p>Work partners took me to the <a href="http://www.meatbar.co.il/english/">Meat Bar</a>. It was fantastic, they kept their steaks aged and well. It was probably one of the better steaks I've had.</p>
 
+
 <div class="post-image">
-<img src="https://lh3.googleusercontent.com/OVMp8nhKAOhHWaIzEuujfjFwUxmjRLDKUwg1gvUpJjvbs1ZRwpyASwqdk_Y1cjrwsYBEkJT5Z8NEiIOh6IsuvH6TXJHaHkUrWzOZW2U16t5YY8DYCPa8Qw_-tEt7dlTwAYgXLI5f0l98ZhU_Cqypv49sQzoQGzvFERznlgv84MsloW6vl5tN9VaTCQXhW8oMjZ_LK9dSXdBN1p9rqe4DagmIdTpLx17PQapbioVeseujHMyE_nLZRbo4FlkbBoKaxUmn7oFUFDw_UczNrkbK0pqSBGr5s_-n3iWGdIBVyhP4wlpNiYPkP7noeNBXMOhb1m-it5Aegz7hLg70syMFPfNRxXKspORq6AW-AFcfV7Xerq7Uahgwy-RE7zeeyuArHDXAocAzcJZlWY9m7I--yadZn1Nnq9eixQKvokWabbsQhrH76EwI-I9PDtWZFZo1ihH9Oarm1lLw-Dirrv3BHSB-ahLbR-ba4Pi_q6DZ0yAS6odMAdybeg85x2JTkjdcHq5wIriXpl3Yp4Al5pWw-TWZx0zOuk7IwUSlkw7KvQ2GZw0FsNn5GOjnJ_RC4y7doreyPkvzJabm8W76BIgV1sSdxn_f60T5Pp_VTheb62V-Ow5mREcZVlCcID9-WxSZ7OzVdZItuFXNAzAHfIbZeF2PJG9AyBMjN-JKXlE-540f1s1vvX0ch6jNFkQ-HU9eOpfJQu0lZXFXgc5scEE=w1232-h1642-no" />
+<img src="https://lh3.googleusercontent.com/OVMp8nhKAOhHWaIzEuujfjFwUxmjRLDKUwg1gvUpJjvbs1ZRwpyASwqdk_Y1cjrwsYBEkJT5Z8NEiIOh6IsuvH6TXJHaHkUrWzOZW2U16t5YY8DYCPa8Qw_-tEt7dlTwAYgXLI5f0l98ZhU_Cqypv49sQzoQGzvFERznlgv84MsloW6vl5tN9VaTCQXhW8oMjZ_LK9dSXdBN1p9rqe4DagmIdTpLx17PQapbioVeseujHMyE_nLZRbo4FlkbBoKaxUmn7oFUFDw_UczNrkbK0pqSBGr5s_-n3iWGdIBVyhP4wlpNiYPkP7noeNBXMOhb1m-it5Aegz7hLg70syMFPfNRxXKspORq6AW-AFcfV7Xerq7Uahgwy-RE7zeeyuArHDXAocAzcJZlWY9m7I--yadZn1Nnq9eixQKvokWabbsQhrH76EwI-I9PDtWZFZo1ihH9Oarm1lLw-Dirrv3BHSB-ahLbR-ba4Pi_q6DZ0yAS6odMAdybeg85x2JTkjdcHq5wIriXpl3Yp4Al5pWw-TWZx0zOuk7IwUSlkw7KvQ2GZw0FsNn5GOjnJ_RC4y7doreyPkvzJabm8W76BIgV1sSdxn_f60T5Pp_VTheb62V-Ow5mREcZVlCcID9-WxSZ7OzVdZItuFXNAzAHfIbZeF2PJG9AyBMjN-JKXlE-540f1s1vvX0ch6jNFkQ-HU9eOpfJQu0lZXFXgc5scEE=w1232-h1642-no"/>
 <p class="post-image-caption">
 Always bloody rare</p>
-"&gt;</div>
+"></div>
+
 
 <p>After work, visited Jaffa. A work partner was kind enough to show me around here</p>
 
+
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/1lUef1fp4upa88wOfaJfMYvAwilScOa0CzjPKC8B06M2zNYMqJKead-743VlfrwU6sQN_kRubA8Hd2A-yisxiHMOgM1OGiETZmMSFVv_m6hJPrFmmbLHTX3Et7wGy7o4YU5nfRcTlhv3fej6i5wGqKApQicyTTe5MFTqWK3UMXL3bK0g_uCzGEXpDmC1avRWbHnEGeZ1hmXLbgZloXHyPClDMbDBYOVByny2FqOfyf1SiKesVZK7zAsF2m2HhM_cavulIp6tdZAKND39CRpcNKH8nAP6SkDKTssxaWR5_YT9NDdWYz723Kn5NK8VYixptaHaQjoUVHCZnajprIdsu25Wi28TJO8ahH2VtO4h68iM98GjnWGF3CYwu4hIcne8mpB_7ifSaLdAJPm27T9JjPKTeqyvWRQUCfIZUxJTUSf-O18ZRM2lWScI4GNcDzvtKz8eYFJW5Own3tdYCoriqPN3eD0s3kSAmEt2rh6dQHOtdIjetYla98bL_WTvNmiqb9X7ItkRYQo5Ak835pbrvWlvqo4m4j6VkmtH8h9dM4g0Mhdm7JMSECNVQTLslUb45vR60DeiIv84ulYg9ZIrd7_AZmzkd3lljqShONTnuYoeXANLGD2PeMO3F71qYtpveWATlyez6-HKlX2LlOCDwGZgnVIMsLe06neDJwFGEZJCNpF-fqktudKtIvncO1euKkrTgc6YsO6Z4OvDoFY=w2190-h1642-no
-" />
+"/>
 <p class="post-image-caption">
 Great Clocktower of Jaffa
 </p>
@@ -168,32 +74,33 @@ Great Clocktower of Jaffa
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/hz38vlbIz6R8yGQb1kTPoWKtsVVDxAYmIKC8ZpXk7UqGNX_yFWyvIoVlhR5Y-sHCocE-BihCT_OaL72qSDoUS8nqbbbUtw5G8Z7iwgBMZeQSJXshH-d1EtSjCjx2BZB9pCAdfX1brxVWFsrgCINR4a7ZZNiIOv86MTVto6BcXCHrMQ13IttbrGrqiRd49zWnS0XIBK-HqOU4tIRzBTFSlDgt0q6NlNi-qYBDvkow5BKB9xcvOcfCNgg1VZIKsy6ik-fBRm_IvI8fugEXxABChPWfyrz2xY2SuPIr0zHlTdXDPeaxj6a4sB-FW4q--E4nsjQ22RNwh9ntPJsj0FJwqxz-pYfuXBe_oG0wq0fuBg7Th8OKA4s6eP79UsLwK5H56-zkIigZfbXuHujeEzFVBAoJd1KoivUu02EBXM2ppo0k9JasSn8yhU-BVe1fvjJ2pl16-oGh79t0nxriYsq1457E6998YbSScK5NpzRxrMm0P60b8WRvvHIRDlD3n9WLEGG4-2tela16qvUlMPTUSlYvoLG07LOrHV2wFrPuxqqfF8xNQJ1nz-N7jkQfSB6cxpypTTViJeUA9DsC-qRATXmL3WWtWkM6SHq286FGLYY5KY36I8GUFRBoJs442ZchuMsZxOYzpaJba1DqIzOJk5eJgk_tv0IMtQkM_Puer0n04xe53Z4wku34Re_wMlcYRwE-k75YjGTDLA3paW8=w2190-h1642-no
-" />
+">
 <p class="post-image-caption">
 Supoosedly the best bread/pizza spot in Jaffa 24/7
 </p></div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/2uYIkGjViBjwamiFjNVrH34fvjSU8Z3eT0EBGSzQl_ULkp017YVKqnJwRu5i2DdbZl0aNpY8OgQECnbNNhfhzxALF8mgCVWLOpNFRFS_rO5m3_jlLc9Cp9MkFi1EN8ojCO1rjGbX8vY_bL4ALZ0C0WmrDOJkIWCf2-8ADxowQM4eKIsUmjFi597zWoIu-TbLKoow3rS7Eo_ZDYIm1Ca7uLtsSnNQp7X4t-k0x9h69OFUbuwXXIg4xTqQOjzTa2k93-cE-bTnj5M6AVaHQF-RsbUbdjYn1xdbILWgUGKpIZFAu0RtksqR3MclhWnaW0O2IoQHsQiRgC4pnKjHgT0vE6xeOv_KLdDClTQPH-wB0ZFZsvW-0WPq1Dt40Uh4m7in1L0aEc6WVAjvKrdr6S5hSzT-Q4eExEIiEAsqmNce9SlLFaiaYE9XDl66Ffxz3aDFNPE9iACTlW0BjQpR5lOQLFmFFHwvhywE8JYZtkhDLGD4UkE9QIs3raCouwzt1U0CDkalVCyX_BWbwiVgK9o5VVMDeXDqp6nktPkfcsy1zFp8FBPyXDe9oiWe6plIwEPozEaaRqr5vWWfjtoGQbFGWlBrKAHe48u5irx-pmwx40Bo8OhxdCN8-QEkDrHJcXJtPLdRQthnW50q79IMT6Fx58qx-BCcxxeeX5aY8HeCtBlZxoCHjynmdYhEdG6QRNOjSE3vI7n3LZRv8zuEDNc=w2190-h1642-no
-" /></div>
+"></div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/mP_62btExdPA-P9Fm9u5Ry-wBrfUMEhSnMltRaptTnXR4IWYmHqFhbkiPsGy-sps2DQN_QOxMcPZEVlNwvGi7l1o1M9UD-aeH7GfzdnB31RQyd4XLk3NdEvijDjJ0Fxp0IePpvZXNeti31GvFaDA5F6fxCF8Tqp96_25mxmZn2Q6uQVyBIZzhogJZfqEuVWkM6rN7JFLKJxb6IjPcsS4X1-QdkLkQ1d975dmEhMNp8ZgusXgO-Pn1UGEBr9JnFUzhqIvEqtTV8HJ5qIMgNkTEv5o6RgU3_nZ5HoZT-7ABavbn0N_hEBihdhySF2l2QxNFSfb_OMR6AIXP8ALmxynnOXOr-u-HveyctwChT0w_nepLGNzs_ZZfPWVaPoPk3FijYY4SKh8RgBk03og9tm91-9pParaviEFdflfsrvXoKZ-Si-z0xEaTLoHrbPVI7gS4kzj9ZvpuKV8eYDD3kdwF2zlS24ELtaFv3fv5tGfEiKAy53jxg2GIZ4_ihlGBSKdOiHCHBsrMnvw-n4Q018CwDlC1PaCDLfuZJPPEDkYF-6rpbzMxPvwiNai5ElgSrGSzccj5a_2IuJK50A_7imxrDC3iQgv9YMMR6z7cOyo7WEpUEJpE5LiWIuADruMY8m8fX9XSzJ9i3FMIgvNpNNmT8mHWUowDi2zjYo4o63foMW1DVZonepxeZcIynETInxMkqyuaYbPfNJ8rtS9RMw=w2190-h1642-no
-" /></div>
+"></div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/ObuSV9H28e5g0qcvP4w2n4ffHWq1rCtfrDOEsv0bbZ21peKo8Apz1jZbY8qcD2QnKRq1_H36tzKzTQpK3kIw-uQvZh2b1LoQtDxKIKPm7NypYfH4dCULs3w4CP64iVfx7XwB1JKylHXtSSeokAJXG3LIrrC2grJ6YiYVv112QKUnzJeW14kcJIm6FjHwSR9HODlF5lRbYhGa04nuGhqCtiq7gB045bVJsTSrHoWwiXweroYB3m857E65UJp9npwLzoSdDpcg3McAtK6lpv1tI2D3rWRbeoZ31RO7nYed7Dj61iILiO7oDpGT2xsMua_3dd5o4L_RxIM60lZgI2rvdZQaZvL4FLOR-AmB41ani9lRHjDuQ7u54qU80X-k6FbdHVMk_O1R2RLOk1qhv7bsmaefzP4GyEV7q7ScHYWgtXc8TPoDrxwfRTB_ozRT9rHKU-PmlxucLYVRfgpX6TJ86KSYXkMbneog3R06BLFcHqrrrIShrF01Rgyp34ClFVeHnjUgSF5fgC7PiHG60-PDtjCGhBuvjCmb4hQJQivxzwysxGEQGlNaUKBEsdN1ApVkYIoJU16eTa4PWFsHvXVPlJua3SWRaNyzYaMfkTer-FH_36fag2lKIrywYmBtrvbeQl6jVUoDu1qryO27EIL_Z6-MwpHA7EV5bFkIfBxlDAeekKfwtag-HfK3AH-CEQZrcdjj2n8-us3Lyo5K7Dw=w2190-h1642-no
-" /></div>
+"></div>
+
 
 <p>Another day went to <a href="">Miznon</a>. Amazing falafels. The beer of Israel is a lager called Goldstar. Pretty good, lighter than Yuengling, kind of tastes like Leffe.
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/C_dzvnQJfJeub_HKPlSAs3z8Et9g8B7xyXanFeMtNxjVvCf9SMIQxmI2SNXwkYvBebumNkHxKJ5ca-2XcoVIccOAxvMsd48-0O2EGgoiKC_wEezMc6MNHROWUYr9i04dqtV6zU4vT0ktfRc3eqMZWIDHWYjVaVputCf_xOKnDdziBK0NWDEkBzjtmtoTQvnegdsTL5bXaRoewj49qksxvz1GyqSxliToWrJ-k9hCUKOPbhwHLsbKnsNZjFbR91cCrJCiv7G5t2WBE0ufv5O3xzEgfqSyQp8WmQ61k3PkOGpf3Q0vGp8RFzz5QS9CXEr25Yl20bO7SIxrF3ItG8q9b-Rc4vEgA9wvx3-v-RsQyoZkP1avoh5aGHTcF8IL0lpONA3oFF3RrnxI3FJEBsdISOI3lI2ZInuC6BIOTaSoVs6otBeanXtfkkK4xeE6Id9xFCTCIK9QVRTpxY3HXOe-1lFvSFxCELoyLMJx5gki8K3z-LD_P_joTb8q_wqs2SCCC6ymw6kkxxfc6oifBhK1A1OqCG0Rfx8_1988jVQor1YoD8YxAUcuLmubAgahjFtzoG_-X5BRWPDBb5WQF_4_9354PErmZBQ6jLt8fpY-LKk1rYlCNCwJuXb2fPw7ij8OxqaTCw2WsuamSrpAselDxRNax7aXIUY84rXhDVp3sRsm_aykMbS0TlNhmxHklYuTKzuCbTjl7vAdSgvqgg8=w2190-h1642-no
-" /></div>
+"></div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/Ug9jRM4QQ6yWLMbim_kBl6OULa3bWT13pj77i6wku97F0ji5slCZA7pXgJ4n1QoY6KC7UgS_Jw5wgt3HijZvruwCIh6MuxQ_A20sCu3yPSmnfw6RK3zmCqGzrlLA37hujVOd3tDus6g9r-jieXliD4hfhNvcEAXQbgNEE-CY10z5gfq8GLoyKiWLuhKaulqfYNxhuTdgj0mP3z56VFklm-dXOTNarKiXqX8PnzM6RCq_TVvdjjDfTCDjH9wBhfl77tyha9DvWRisURodKdjS-xETparBjKNaJdLevKHQKBuFGZssLaNKD5vOctQcPfjYNuKkJdt7n38zavwJa_ibCgMWDeGX6wEnk2etmAsDGQugN7pMehtpicye9ejED9tbKrL1dn2SAR-7tqPn7IsJwcf4tPx6LaXG3vD7poIb_4R3C33PwnSaqQQ9QnwgwqCUHyCi-VdPPAXGpvCka-MsnYwXJx_k2eFxAWAvW9fulRLrw_iZ04m0DpxiK2LjAJW4M9o0fz93Z9aK39AwQuMigyuVSDWLDFfhDY9QDrRZsRDYnu9YXJTSJ1AOCNuzgp5AZMgD_Vx2W6uJujc4vZwS0hrnpYWw6bhL2ASf-q4xCumeEK7s25yaxTNFqbD8rxNPm-lWiQ2-2QfznGxwUIo4fax9auUkW34eRG12ldb3AlIzFEWnIKrBWWY11ciYYzVoyxUGBJn6_QFHUZaNsfk=w2190-h1642-no
-" />
+">
 <p class="post-image-caption">
 Grilled Cauliflower and Lamb kabob falafel with Goldstar beer</p>
 </div>
@@ -204,29 +111,29 @@ Grilled Cauliflower and Lamb kabob falafel with Goldstar beer</p>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/cGreyjIjooNPZ2M675J9K8TdivaRTlblWl6PY2zCROLUauoDfyLjVAMpF2xfHF351AF-GoYAeDhkQGWJdJY6d4H3wD5GfC---6-Xj7W6ei3vlOJz5TxEyA1ZjX1bMphQ3G_IdjqIZhdNCInn7VOpqR13KukAKn8K568oP7ifx8DU_lsq7G-YI4u1ositVK3SWQhsdzBHkKIDJDUmvdm_Crs9FqNtjqO0kihD7hSEeoE2kqQFRO0swXqd-Evxv88RI-FGcLLuldSYG0IpQCp9g2ESGqDqe92qeHWEIDZKAYaHXt7xllYB5Wr8pLD_bll5vVMCtDorXuxE4NH1piANam8cwY-gu_kemtRex3_6lXqlPMy5tz9bpSNCIgSGoLb5yCbZX-LCOMIVz55VRLaCFHBhemUKr40mH9qLcKYh46E3j2NtxGnekWw5UmE6NH3MH3Zk2jQyrehv12jb8vWa8GrVVN3sGDEuwCc8CHxr1AtutSPvAUl3gEhz9dPoFEf7TbEM1du9Ze7VgMm5h0EQeczkp4CePLx2YawqittyWwuT1PKIfyECCMgOKDTurHkDDVo8eKvQsMdvOny66bfvi0d3_GP2C20RJQ8y5SogCowOO6vkJZdD_99iF3HAnmzMFonjvey-XYVTNbIRH_ztRFzQOrfUVgLfMH2HWxZEg9oGCi1ujnJ4-r31okp9vpbADNiARBb9_d2VnMp1y9s=w2190-h1642-no
-" /></div>
+"></div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/TeKyK6KMP9MEYC1qo4xqmzBkgHXE5Ac28TPfHL20CTUhYDPIEdytWuI2IUmail-zo5jgSJ8JnV9kYltKhcBK-TUa-rgusFqzo4xD5c5zlkoWRsDIk6ORGeJoa1eUD6M00V9e_7d-0-Fgh2sSu_kseLI7o-t4f241OJnXXWKVznGkRhThrr9-mZVlAzdHLxBA1NU-HGrkyXAa4Gc9w6ZPYD-h2fmnuWl2JMDCNmyvOnnhzrn8CFDUVvuCF-_YEMLU4vZdznpPi_SotHFgMfDoI1RaAfBk2jZgfB7fI57bwad-z91Z40AgmWvYSW7vciDNMjDIy8ThphDGBa1VdD-AsTU6zAPB6tjPh4SPHGb_aloB8-hUfNXhzVAB9J6OXx1w9GKtebHp93HpGcpdMeUs2UuvMGziEzj7GBDfVvz6wdZ-e87yZzcbm4X1jefsMuoS9528JZgCwupTahuHQtZ3BkGibHRO_74uHzJYkRF67uVA46woz6dJTTZEKvDWrCaA-k99_hiJVq_e0KsT3-drboCloHrdNgtbpJ3ZSG0-bbbNEFFtYf8arDB56lTi3PN1p-xp5mf6A5JVSpKMEULBJa-YIeRrmlwyrKc5sG7hEMDbvj9CTkCdlMupXRfmmhhdgtyp8_43fx845_rJs3FrQt5cf7ZTVNkh6zNcOWZPZVGP7mj0uf3Klgo9M_-TA49yMNEmVpkYYtK1zp31TbU=w2190-h1642-no
-" /></div>
+"></div>
 
 <p>The last meal I ate at <a href="https://www.tapachulatlv.com/">Tapachula</a>. This place was so good that I ate here again (I ate here for the first night). Bartender was super friendly too. This place had the best fish tacos I've ever had and an amazing Chili with their own hot sauces and Tabasco Habanero.</p> 
 
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/TgJ1NT5dN6Yh991UqT6zP_ngOxiat-1NBSkbXpp0jouehDA53um9uuK_fbSr0Qt-GsVip9hYdny_qCm3gIdaRGjYIot77tTDZd75l2wY9I5uJ2DEYPcG0Z7_afM4KxnlhO8Cdcz3FYbqOQoksFAa1Wo___YB9yVJ9v57XwQ9DFBVgBGUy7laag0XN3r9yy1NvdPx_gRu_NEcRZGUp9pO2gG2eTJD-GQA8Adth-5344EBR8Ch3fAm9EexMg_q8aS8rAkuwW8Nd_YjIc_5yG53wmLGRwvD-TnxmezOamV0nSbqrFYmfoHVA_SyzhXafvR7VeWN26EWM0nH-2fJdOFKF3nT8hIVsOWM1R-qCJKebxoNrDzEqK4A7j-PXXaZbGlsXqXmDNxG550J_e6r6Ar05bxqtWBK0XRWO9dHptZWNQVgxBQCyJLr_j5-bZQi_3luyirlZiCsibP85dbyJPeRS4joM9jz8IZYC5ay5p-fxrNcUrpYZdOUWtuqfTzYpX79izCYnTePAqnjtHP6qIjtEeVSJWCs4bPHr73ml33BDoKLE-OOVmb1LbU2EVEIGBIPtoE5qAWMqxPCVwd_mdhPCOcb-vTkJu9gsqhg9UMNh8xulXsJjq5pd7zsSmXFNO3SRjGf6RRmDvzIbX0XHDX5GNipOX97sQXtp7F_9eJJRgPi5iwWrsk2lUKYdy1bp7Ay9imaOSH4aNiYW0ZsYW8=w2190-h1642-no
-" /></div>
+"></div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/9uBPZA5zK5zL_8NveQGBaKn2k5yq4Nkn_3tiKhManj7rUtQBOikKyK5ejcpdmBq_ojgV4baQZ10UZKg3YgS_0580u4Wl2X8IDpCBZpwUjRES6646mplPhFVnbunm6B-HCOfxMR-Q1RIWBqY4D-4Pdf7JPFzTRczxRiKkncjZc99oUBl8dknyO8TRCheN54pvHM-K4qmDKKU4jPqF82WgszZhSY3cWDRlTGD7pNhaZvmcic0WMFpwd3Z1ObdEej2j3uzpT0cwoMxAeJLV_f4dNYMLTA_l9iwcm06SDRupce_8ncGma1uLV1FezBJS-kYcG6lRzi4ihgG3_cIJgzkCUt4mtQjoxdC6b8c1FTCvDXLAp0NZFVKfc-DAp3mxQiGhyQdtxGvlxp43N2ofoDFHJmMSvdV9Csb6rCkD0PuhBHEzX9QWxqh8xhnLptM2Tcf19M-Hxonxi-CFE6tk0lKepkuyUPgiUDUdjwkMdz2G_1oXNG_4qQRUbhfi7PerDjOjYn7ygv4n1n4clE_aM-0uxr49WdNYcdgpWCO-0XObZJBEWdsvpPK-eIpadj_GjDNYf8N1j9MU7YwXWUHlYaq9YsIRYDKD4flv8NTUt2npckuYye0GUh10denahjjYJ9iw8oCn4s2mppwU4wY_lChV2wZDRA=w2190-h1642-no
-" />
+">
 <p class="post-image-caption">
 The goods</p>
 </div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/KkfNs9a0oJkHQIDgVQQ0pv0aKFlR5uWorOB-k8KKpz4EM3iGcymRYoJ4G0-4_6-l5QlpFdIsPz3GUK4_ugxHaht86SexWup0UeEhDZ3oR1TEJmOoxFWwU9G6ULrPRbCkjpvs8CpitbVL2KjlWuAW5N02I_LZ0-_3PTcZ5fUW8lLXwelzWng87cOsbzFB431fIBU9QOeXMma16Ntzu48FD3gDqOg1FcZk1n6671TS60hjtMF28-S5yC9WY-PRMYch0VJMWNClC0QMvgE9QAw0FK5L1JQ83q11qZ0OcNiESM09nghEVocSSKoNW6V0bQostuBOMTiAwXr1aELXn2-ioZ8nq-i2l0ViA5ge244epFI9Mw_2tRmeDHvKjuKePP9Efvn-qdFyZMtdFrMyyPtciqTfdgCesdjAx6ppfev9JSHXz5g2IaJmJSliVut9vr07La6cPnqWINEOR29i6Us7YbxJPZxALDwuUgQxKyc_1weexJdOeJ2pZrM_hSXfUNIVftfjF2mfaguq05F02jajC6WBv0ivnFNUgQHenUElCjCkGvr-62XVOvRiSs0zu56k5Af8i38IU5j4zawpJEtbozoE1P_jXYrl0WaDKFbsKT_kC_3kaCFmOw3Tjj0LNrJwEiazXddnTbtdls7JOQ-qAe6EFw=w2190-h1642-no
-" />
+">
 <p class="post-image-caption">Fish taco (i ate the other one)</p>
 </div>
 
@@ -237,105 +144,3 @@ I stayed at <a href="">Ultra Boutique Hotel</a>. This was really close to the be
 <p>Primary transportation mode in Tel Aviv was through the use of an app Gett (pretty much Uber).</p>
 
 <p>My only super negative experience in Tel Aviv was the airport security, it took about 3hrs to get through all of the security. I guess having been to Saudi Arabia, Qatar and Indonesia put me at high security risk but it was excruciating and painful. Worst experience yet. So please make sure you get to the airport extra early for your departure. You have to go through security to get to your airline check-in, I was lucky that my flight was relatively not-full so it sped things up for that. Still took 45min or so, with heavy quizzing. But they needed to check my check in luggage of equipment and tools. It took them 1.5hrs to check it and another 1hour to go through the security carry-on bag/scanner check. I arrived at my gate a few moments before they were boarding my zone</p>
-
-    </div>
-    <footer class="post-footer">
-        <a href="https://www.google.com/maps/search/Tel Aviv, Israel" target="_blank" class="post-footer-location">Tel Aviv, Israel</a>
-    </footer>
-</article>
-
-
-
-    <!-- Paginator Links -->
-<!-- Adopted from @shadowens brilliant solution: https://github.com/Shadowen/jekyll-paginator-links -->
-<ul class="pagination">
-    
-        
-    
-
-    
-    
-    
-        <!-- Align from the left -->
-        <!-- Absurdity required to calculate minimum -->
-        
-        
-    
-
-    <!-- First page -->
-    <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href="/index.html"><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> First</a>
-    </li>
-
-    <!-- Previous page -->
-    <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" disabled="disabled" href=""><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> Prev</a>
-    </li>
-
-    <!-- Start ellipsis -->
-    
-
-    <!-- Page numbers -->
-    
-        <li class="pagination-item">
-            
-            <a class="pagination-link pagination-link--selected" href="#"><span class="pagination-link-help">Page&nbsp;</span>1</a>
-            
-        </li>
-    
-        <li class="pagination-item">
-            
-                <a class="pagination-link" href="/page2"><span class="pagination-link-help">Page&nbsp;</span>2</a>
-            
-        </li>
-    
-        <li class="pagination-item">
-            
-                <a class="pagination-link" href="/page3"><span class="pagination-link-help">Page&nbsp;</span>3</a>
-            
-        </li>
-    
-        <li class="pagination-item">
-            
-                <a class="pagination-link" href="/page4"><span class="pagination-link-help">Page&nbsp;</span>4</a>
-            
-        </li>
-    
-        <li class="pagination-item">
-            
-                <a class="pagination-link" href="/page5"><span class="pagination-link-help">Page&nbsp;</span>5</a>
-            
-        </li>
-    
-
-    <!-- End ellipsis -->
-    
-        <li class="pagination-item">
-            <span class="pagination-ellipsis">&#8230;</span>
-        </li>
-    
-
-    <!-- Next page -->
-    <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric"  href="/page2">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
-    </li>
-
-    <!-- Last page -->
-    <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric"  href="/page14">Last <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
-    </li>
-</ul>
-
-
-
-        </section>
-<footer id="footer">
-    <p><strong><a href="http://anhtice.com" target="_blank">Anh Truong</a></strong></p>
-    <p class="legal">Time for Adventure</p>
-  <p>Level 14 Red Mage</p>
-</footer> 
-        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
-        crossorigin="anonymous"></script>
-        <script type="text/javascript" src="/js/galileo.js"></script>
-    </body>
-</html>
