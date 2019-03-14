@@ -12,7 +12,12 @@ Ah the promised land of US funding. Tel Aviv was pretty cool and my hotel was pr
 <h4>Soundtrack</h4>
 <iframe width="400vw" height="115" src="https://www.youtube.com/embed/C_GUj12tdtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<div class="post-image">
+<img src="https://lh3.googleusercontent.com/ydvOAwIsRo5fW_TIO01CAx0seULHm3umZGbTzcw34pJb7bN0v-0Iw1PEQQ4sAXLmx5CTjn1c5hyDd3bkDGK3m29eDP4SSxqkYjhZ9xcTxv6e5-xxWNq66WZwG89an05i9Cg55DJAR8gM5sof-K9MIDNyd-W-ZVR--DQyzDFQHO_m_71Ic1sdh5FX7wQsR9Gqc_Q0tWkh0Lbh1l2RvOZwxbnh1lseTWvR6e3ewuiCGV6tFhgHaK81MhihVw84SCDdeoxRRhdCpdV25FvM7KSkymoontl_QQNBSlqOpFNbcsSoOsh0BL2letwr7U7LCqfAXjP1gEbIBXUt1XSbkgc1F48N4ItDiGGz3649fpEFdo5SGSjewjIujUL2PgGU4jXy0Yh_EkTsRNG7z5u7o31ODoRitambfA3kNLn-oELbps2FxehAPilwqixL1kFuJwFyx96gRruQXtjBUa7RhYsgmkbDJM-ZK4_vPD_tHKMp7BCRwXFuRKMlE56QC2uwgjv2uSoxBFlB1bVMausrth2tYtdklhV0t1DiDkSKq6yPfzMu0bcXSHXyU3Ir42d5uk4d18uwTKbv0pHNWkySOXAmh0jT_GHUo1KDaPWLewDzWKfdMVmbAAV5YggRzF2Q-VkOMF1oCDFXixeaJoUZYeIochrkDiFhsEuW81OH-200XbgTIv9LmpMk1CYq27336U_Qe58dnBNsVpFEmLnuH-o=w1544-h1158-no"/>
+<p class="post-image-caption">
+A lot of fun activities on the beach, I didn't bring sandles and shorts :(
+  </p>
+</div>
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/J3A4cXaVlVcvpMQjJ2SularqT4IZfLZ19_hSbQtbWQSyY8kmouqDDUEtAsyguw-zyHho0Ja2qf2AyDwj4LwWf-IF98zlmVzMV13Ct7dlfXKftX_LTKBMAksEFAK-gSHuedzm6SKlaZYJzGMT2cHtWUSK88Nx8O7VPNinRhXYp5rrIPYYKkoiNVASbTf-vtrvJ0dD11et5rfRCZq3_Pz00JU5UiDz8dHrV9OBq2lhgyOQAqWq_kq8i4mDHsYFyb0uOg5JVdwqtS9adIdTMAkBJadF7I5HTtzSgpFBUuRPW4II2wiUUiusCbfUlQ00uJo7NHdsm9VrOnxAK9Tha0jF70aIOOfLcr31oHJyMxd06W6aPPExOwU_JIalo1cOM8YzMdTybPF6QdRmXLJfyDRf6lcRt7KQLIvcNPbUQMWvB1bSH9PYAfl3SzFgR3kJllgPXNKjh2KHBBPRpHlA4ya5g4fqwpmsQeoqnKi9c1JwUVjFlV_0xgmONrwj-k-BC8i62rg3kwLhQaW7pjqT69wpoPiPMCRDxdsIxYzDyHKSickIREOx00ovD44WPVPY_OU9ryFUYR1dYPh_CN5b6FWImoTfNkX65Wq7uhvlIKz50K2qp78GbIfKcibbQZ76c0KLehOJmMNIns9-tkkgDhk6f5fOcUgrU--jOGbwcI1EgStz0oPyT-Yei6CVj52NDs44312Vptl8lXqbkBxjaaE=w1544-h1158-no
 "></div>
@@ -26,12 +31,7 @@ Ah the promised land of US funding. Tel Aviv was pretty cool and my hotel was pr
 
 
 
-<div class="post-image">
-<img src="https://lh3.googleusercontent.com/ydvOAwIsRo5fW_TIO01CAx0seULHm3umZGbTzcw34pJb7bN0v-0Iw1PEQQ4sAXLmx5CTjn1c5hyDd3bkDGK3m29eDP4SSxqkYjhZ9xcTxv6e5-xxWNq66WZwG89an05i9Cg55DJAR8gM5sof-K9MIDNyd-W-ZVR--DQyzDFQHO_m_71Ic1sdh5FX7wQsR9Gqc_Q0tWkh0Lbh1l2RvOZwxbnh1lseTWvR6e3ewuiCGV6tFhgHaK81MhihVw84SCDdeoxRRhdCpdV25FvM7KSkymoontl_QQNBSlqOpFNbcsSoOsh0BL2letwr7U7LCqfAXjP1gEbIBXUt1XSbkgc1F48N4ItDiGGz3649fpEFdo5SGSjewjIujUL2PgGU4jXy0Yh_EkTsRNG7z5u7o31ODoRitambfA3kNLn-oELbps2FxehAPilwqixL1kFuJwFyx96gRruQXtjBUa7RhYsgmkbDJM-ZK4_vPD_tHKMp7BCRwXFuRKMlE56QC2uwgjv2uSoxBFlB1bVMausrth2tYtdklhV0t1DiDkSKq6yPfzMu0bcXSHXyU3Ir42d5uk4d18uwTKbv0pHNWkySOXAmh0jT_GHUo1KDaPWLewDzWKfdMVmbAAV5YggRzF2Q-VkOMF1oCDFXixeaJoUZYeIochrkDiFhsEuW81OH-200XbgTIv9LmpMk1CYq27336U_Qe58dnBNsVpFEmLnuH-o=w1544-h1158-no"/>
-<p class="post-image-caption">
-A lot of fun activities on the beach, I didn't bring sandles and shorts :(
-  </p>
-</div>
+
 
 <p> The food here was very good, a lot of different foods from Italy, Mexico, Asia etc</p>
 <div class="post-image">
@@ -105,7 +105,7 @@ Supoosedly the best bread/pizza spot in Jaffa 24/7
 Grilled Cauliflower and Lamb kabob falafel with Goldstar beer</p>
 </div>
 
-<p>This was the 2nd time the guy asked if I wanted to take a shot of liquor with him, I presume he might've been the owner or a manager. How could I pass it up? The people here are super nice</p>
+<p>This was the 2nd time the guy asked if I wanted to take a shot of liquor with him, I presume he might've been the owner or a manager. How could I pass it up? The people here are super nice. I definitely want to do some of that Grilled Cauliflower at home (afaik its salt, grill, cauliflower, maybe add some spices)</p>
 
 <p>There were some nice architecture here in Tel Aviv. I shot these as I was on m way to the bus station for Jerusalem. Sadly did not make it as I had to go in for work.</p>
 
