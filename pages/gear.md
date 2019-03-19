@@ -56,7 +56,7 @@ permalink: /gear/
   <div class="post-image"><img src="https://cdn5.kicksonfire.com/wp-content/uploads/2017/06/adidas-Ultra-Boost-3.0-.jpg?x65229" class="gear"/></div>
 
   <li>
-  <p> I used to be a sneakerhead and have a pretty solid collection but it all ended once I tried on the Ultraboosts. There's really no sneaker as comfortable as these. 
+  <p> I used to be a sneakerhead and have a pretty solid collection but it all ended once I tried on the Ultraboosts. There's really no sneaker as comfortable as these.
   <p> Not a fan of the new 19s, I rock the 3.0 and 4.0's in Triple Black.</p>
 
 
@@ -75,7 +75,7 @@ These are sturdy and super compact. Able to keep them in my pocket. I used to us
   <li class="gear_li">Bang and Olufsen h8's</li>
   <li class="gear_li">Nintendo Switch</li>
   <li class="gear_li">Apple Macbook 2017</li>
-  <li class="gear_li"><a href="https://www.amazon.com/myCharge-Portable-Integrated-Lightning-Micro-USB/dp/B01K2UP6JW/ref=sr_1_1_sspa?ie=UTF8&qid=1545160831&sr=8-1-spons&keywords=mycharge+usb+c&psc=1">MyCharge USB C portable charger</a></li>
+  <li class="gear_li"><a target="_blank" href="https://www.amazon.com/gp/product/B01K2UP6JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K2UP6JW&linkCode=as2&tag=anhsolo-20&linkId=6a47f1063feee7fde72fb4e14b42916c">myCharge HubMax Portable Charger 10050mAh </a></li>
   <p>Charges all my devices. This thing is simply amazing with the plugs already connected</p>
 
 <ul>
