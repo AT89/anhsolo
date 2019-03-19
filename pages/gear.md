@@ -7,6 +7,21 @@ permalink: /gear/
 
   I have tried and tested a few gadgets and clothing that I absolutely need to have with me while traveling. This is my gear, this is my equipment, this is what I upgraded to +10 and to have the perfect stats
   <p>My Motto is buy nice or buy twice. I have found that aiming for quality and buying things that would last me a lifetime is a more frugal strategy over the long term and better for the environment/less waste.
+  <br>
+<ul>
+  <li class="gear_header"> Travel Pillow </li>
+  <li class="gear_li"><a target="_blank" href="https://www.amazon.com/gp/product/B079X5FTZR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079X5FTZR&linkCode=as2&tag=anhsolo-20&linkId=91200d0519000499b4da65532b3069a1">Cabeau Evolution S3 Travel Pillow</a></li>
+
+
+<p>I realized after several trips, this is the most important thing I have. I was able to fully sleep on a Denver to Washington DC flight, even with crappy bare-basics Frontier seats. I had neck issues with sleeping on planes before and because of how painful and tired I was after flight, I got this pillow. This pillow is great, has straps to attach to the back of the airplane headrest but it is not needed all the time (as the Frontier flight proved). Super compact, can roll up and fit inside a pouch that can attach to anything on your backpack. Personally, I am repulsed when I see people attach the pillow to their backpack or carry-on while dragging it all over the airport (and then take it to the bathroom..), which we know is not the cleaniest place.. A lot of my friends have tried it out, its comfty and approved. </p>
+
+
+<div class="center">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=anhsolo-20&marketplace=amazon&region=US&placement=B079X5FTZR&asins=B079X5FTZR&linkId=b55a5902342d952bdcd9568529a543f2&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
+    </iframe>
+  </div>
+
+
 
   <br>
 <ul>
