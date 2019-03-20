@@ -7,7 +7,7 @@ location:  Singapore
 ---
 is regarded as the richest area per square mile in Asia and I would have to agree. The population is not that large for such a small island and the business school is here world class reverred. The streets were super clean too, to attest to that it is illegal to have gum in Singapore. Heavy taxes for cigarettes and alcohol. The bars were all contained in one area called Clarke Quay. As the case, this was the first place I visited after getting off a lengthy 20hr flight.
 
-<div class="center">
+<div class="center"><h4>Soundtrack</h4>
 <iframe width="400vw" height="115" src="https://www.youtube.com/embed/sy1dYFGkPUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
