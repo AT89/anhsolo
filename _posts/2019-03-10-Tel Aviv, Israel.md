@@ -49,7 +49,7 @@ Lentil soup for breakfast at the beach</p>
 
 
 
-<p>Work partners took me to the <a href="http://www.meatbar.co.il/english/" target="_blank">Meat Bar</a>. It was fantastic, they kept their steaks aged and well. It was probably one of the better steaks I've had.</p>
+<p>Work partners took me to the <a href="http://www.meatbar.co.il/english/">Meat Bar</a>. It was fantastic, they kept their steaks aged and well. It was probably one of the better steaks I've had.</p>
 
 
 <div class="post-image">

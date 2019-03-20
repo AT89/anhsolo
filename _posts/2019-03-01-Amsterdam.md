@@ -93,6 +93,6 @@ I stayed at an AMAZING airbnb, probably the best experience so far. Nikkie was t
     <img src="
 https://lh3.googleusercontent.com/7R48zIfKQbf4m6hj70Z2LhNeYD0rXA3N9wdlqDfYrNZSeYgYORpBuF3G9dK3uYdEVUtDcXe12-GHPgv189wQz1nSWgtF4ny4cq8ugOS4G5exSOm_i4nHpuZw5IV_e3IE_wedZQ40zqfZbQB9E59j93zkTzTSHv-0rd6vLs5e4cmalFyHD2111CWRmLRoftKdEfQ_tZTaTup1D77BInYH2TmgvE7hXGspH7TO88FoagH45T0kF3NCaHZX616R_VL2_Y-wA49Bzu-RHsLdjTo5uJ4AbCG1WYddB6oHROv7Kz4ldWnAkWYoBl0v3ZICRT6HtX2nVrsMoVPvT7JkJ5n-K3XZaZTXYYo-Eu2VSuRF3K9U4vCxzUNJ2JDHLPkYkuCjRdVUOsyfX1EYuxjuEOEdNI_uZBQKvutyZLHMP30FVJ0CWcOJ2tWzk4JUVJoW5v1hryG-Z0VIDe4Fdo7XW-6FHtJ31biegfHbptoGIVmOG0QFRQ9fsrUVb2QsfBBCV1ZzLMpd3pGja8_CgycOAkWCLvJEQzuSHiajhFIjtro5hbsNqVQ70V4e7Id5xOt4phHPNeH-4cVhh59ZFS4GtWfkbJuv9_kYfveGV6fMcXGfC7zq8x6qzO39pQiLcNwkjrP_VstuCHQSEFD04ZThOzcLpI7Ky1ZG_SlTTKUHqFx2d5r1FMiclN8WHh6BOWGRDtNkIvh82c7d5uxy_I3gtWc=w1612-h1210-no"/></div>
 
-I would highly recommend this as a stay, best for first timers. <a href="https://www.airbnb.com/rooms/12065591?guests=1&adults=1">Link here</a>
+I would highly recommend this as a stay, best for first timers. <a href="https://www.airbnb.com/rooms/12065591?guests=1&adults=1" >Link here</a>
 
 <p>I definitely want to visit again and go more in-depth. There are amazing museums here and tons of things to do. I had tickets to see Max Cooper at Shelter but I was too tired and opted to sleep in. Definitely want to check out the techno scene here</p>
