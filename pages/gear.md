@@ -27,13 +27,15 @@ permalink: /gear/
 <ul>
   <li class="gear_header"> Bags </li>
 
-  <li class="gear_li"><a href="https://www.coteetciel.com/en_us/isar-backpack-black-medium-laptop-bag">Cote et Ciel Isar</a></li>
+  <li class="gear_li"><a target="_blank" href="https://www.amazon.com/gp/product/B007A7BJ92/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B007A7BJ92&linkCode=as2&tag=anhsolo-20&linkId=acc650cefea300b2c955f4f31181b759">Cote &amp; Ciel Isar</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=anhsolo-20&l=am2&o=1&a=B007A7BJ92" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
   <div class="post-image"><img src="../img/isar.png" class="gear"/></div>
   <p>Amazing backpack with style and utility. Perfectly stores my laptop, anti theft compartment for important things. Secret compartment on the side. Front is a duffel that fits a whole bunch of things. Waterproof. This backpack is what I consider to be life-lasting</p>
 
   <li class="gear_li"><a href="https://www.hookandalbert.com/products/mens-project-11-garment-weekender-black-black">Hook and Albert Weekender</a><li>
   <div class="post-image"><img src="../img/weekender.png" class="gear"/></div>
   <p>The perfect carry-on bag. Because it is more compact than rollies, you will never get stopped to ask to have this checked in. It also survives the check in as well. Fits quite a bit and collapses for storage. It has a pretty well working hangar compartment for pants/shirts. Shoes compartments on the sides too. I love this bag</p>
+
+  <p><a target="_blank" href="https://www.amazon.com/stores/node/8104855011?_encoding=UTF8&amp;field-lbr_brands_browse-bin=HOOK%20%26%20ALBERT&amp;ref_=bl_dp_s_web_8104855011&_encoding=UTF8&tag=anhsolo-20&linkCode=ur2&linkId=a8a33efde860fc133f0aff05aa9ec1c3&camp=1789&creative=9325">Hook and Albert on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=anhsolo-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
   <!-- <li class="gear_header">Clothes</li>
 
@@ -58,6 +60,7 @@ permalink: /gear/
   <li>
   <p> I used to be a sneakerhead and have a pretty solid collection but it all ended once I tried on the Ultraboosts. There's really no sneaker as comfortable as these.
   <p> Not a fan of the new 19s, I rock the 3.0 and 4.0's in Triple Black.</p>
+  <p><a target="_blank" href="https://www.amazon.com/s?k=adidas+ultraboosts&amp;ref=nb_sb_noss_2&_encoding=UTF8&tag=anhsolo-20&linkCode=ur2&linkId=ab6c8c7aa7744308b10cf32d4c98e014&camp=1789&creative=9325">Ultraboosts on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=anhsolo-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
 
 
 <li class="gear_header">Sunglasses</li>
@@ -72,10 +75,9 @@ These are sturdy and super compact. Able to keep them in my pocket. I used to us
 
   <li class="gear_li">Google Pixel 2 XL<li>
   <li class="gear_li">Google Pixel Buds</li>
-  <li class="gear_li">Bang and Olufsen h8's</li>
+  <li class="gear_li"><a target="_blank" href="https://www.amazon.com/gp/product/B078HQ5QQJ/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B078HQ5QQJ&linkCode=as2&tag=anhsolo-20&linkId=ac12333fa6ab848e157371d71bbb35e0">Bang &amp; Olufsen H8i</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=anhsolo-20&l=am2&o=1&a=B078HQ5QQJ" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></li>
   <li class="gear_li">Nintendo Switch</li>
   <li class="gear_li">Apple Macbook 2017</li>
   <li class="gear_li"><a target="_blank" href="https://www.amazon.com/gp/product/B01K2UP6JW/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01K2UP6JW&linkCode=as2&tag=anhsolo-20&linkId=6a47f1063feee7fde72fb4e14b42916c">myCharge HubMax Portable Charger 10050mAh </a></li>
-  <p>Charges all my devices. This thing is simply amazing with the plugs already connected</p>
 
 <ul>
