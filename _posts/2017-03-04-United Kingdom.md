@@ -151,16 +151,16 @@ Fire & Tuba
 
 
 
-<!-- <p>Visited Harrod's</p>
+<p>Visited Harrod's</p>
 
 
 <div class="post-image">
-<img src="
+<img src="https://lh3.googleusercontent.com/MhSfJ7EdSWruNKU7zCCWhHHMqre2hCEXKkz_qEtR6rr-satyxfmMrYLDdPPhsGX7pmyApPZ7WRadMiv9zDbrZx5VnPnhZmIFpJVB_EdR64ZLPkFe_VDkE1ayRnTEDXjGOl2_9VPnAAJfWFhhqP-8rr8AjZ3IzaNHbOqjYP2mYl1oZ2dyxajNLaqJgyY7mFl2k47bmcLC9Zh_flfwZz8N6TykfAxEkWJYGmeStjjLSihg8ZiKNlSVdjAbpxIvp7LQmuyOH4k6_LoB3WCeSgQyNj-MysQrYpAzjB21Non2lle3PYq_8KR-46oleh9cg4zJIltyrsOrBUr-waDZBxe4SW0bwqzMnz7nIcWdeEnEzpw0OXggLzKHxycNhG9cTPeDVeo-833mXQjeEIH-tVdwpPKLQ788h4gC2GKHkfmbP9w2Y5yMwD77Qn6rrdMUWu9pLQciooSbnM2yWVn4Jobe-Wzya1LWm_Edu_sDg8yxCOCLf8BtZVOOGnwzof-NcE8mtUpYJkVQ16PQv_EvICCRz8iKWQf-atkDszXOEfZpskhmZ-Z0s4-TjrVqLs_s2Tz9Lx-izAYdGfGyBAs23Eh-lr7WEoKxC8cAhSjJacHeb48fET3daXfJI6PvWNIuMwQ4nzaUkl7papJ-DqS-q0RXlBAQYPIa3fqDscajL80-RWGdS-_ETS3HbqPR3zTVHZDmjmMbQSVEKotSlKsYzHQ=w1230-h1638-no
 "/>
 <p class="post-image-caption">
 
   </p>
-</div> -->
+</div>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/0MFpLQhaJTv8FBZTE8dHSVJHvHFCS8J2kP9xC9FMF3wJ9W7n5ouCXzREq5YkXrlLZQvDuNazqWBKpOuWkiVN9Z6PQJ79mVeC3dzP2B26DChS4FdrBjkgTthjQdiUB1FqPOaCxD4AXDPbhJ367rNT7iy3LuTvbZ0atOzmHGGXQO7ulmVmHod2Hru7hTvaGvL-xka3TYjV635iFuJF69CxcNsiQZ1z78dpmtxg5xFLiAkTlyc6Ha1w5zmQWmi9lAwrBMzWEKf26QfuilixsaooUFzQtpXof_uDz6dTtczcrDrELUGs6G5kRT9Ds1H8f2wQ-OZyIqEHISZjSJsuseqjH9whbAIvwI2rFUHF4zl8xcTEmZtdM8BooD885smJV3lid68s7uYUniKKMRXHJN9s74N74eEl7g4PgDTrMEHP6ewDpBQcCnX-FWnivhn5dDiLZx93Bx0iBFqUpmZ-uNxVoCtsFDa9TLNya706vcEMg2f5dRgs20IMj80DZRiu8bBMXw2edPXZ3FSND90WbJ63M2_ylI0MyZj4WGMnBBCqykqQdh_bR1j1ayYvEWFLSJgX80_TQ9OO8uTTkfgC9hEpA0nHIhtkQRpwmIdcoi7QVXeCn4phmj7tIWzbhvXRmvKmNI6tKx9gd1IB4gckczLnGJzjeg=w2186-h1638-no
@@ -319,7 +319,9 @@ Experiencing some beautiful sunsets
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/A3Xo32AOpIbiyGdBe9wBdLzXHyUFWnlgzujIe9Fds5z8cpFBTlgX1u8kNO4raLnJSQCX8bKdEZov-YMC8oSfKtVjB0Or34DrcclLX8qXMynxyS5lTWxPf6sn-RwpDqmpb8tTI5uE8CB86cT4dIrEQCHtQ163NcHXo1J7KMiw7Fsf4RLtTxJBwYAxlja89RwxISXYb2DjXVi15xr5nctm_1bFjczPwBK2MCbwPAemKfmnF1qNrqnmDmiy5Tzh43WydVKiERloUHyHgsaHUUhWroV_Dn-fiZdK8ocFEO5Iludn_COLjz6JNXMqQ7DWdAPuaXDehdBnn4c7qCFaKXckRkctd_ksXTLYIGDPjALv4GBWcbXmdkUA3H_pgC-U14pc6cJvZ08b7d5Gv7Lak1h7hI7WKmuRGIxAnjMq7ubvKt_0NGGf76OTu5pzDVUjDa8dsV64CXrZ0L_E_anibzTRp-shS__9WOqXfVim7iPHcK2NfyWZGIbJt7UZspLKkHfyrsZt0r3vcNRSrln4jA1wJ86XOWpB7iXCtAw0p7Ai3tmVLZ8ONt1oy1UPfeQWBLocfZYWfYAi8g7rOD-mRwbRZDiaEUD-r-ngB_tcBH_-m1yCUYWELipgKHgX560RFPJmCIRx-rXYfDY9ArPBwxQXbNpX22PWdoyUX8X59NRsGjblX7BnO2VsSDv_k_00hCt4KFKtcHfIW94en1-DwtY=w2373-h1640-no
 "/>
-
+<p class="post-image-caption">
+Albert Memorial
+  </p>
 </div>
 
 
@@ -336,3 +338,5 @@ Crashed a Spanish international student's party, made some friends
 
 
 <p>I wish I had the energy to visit Camden Locke on the weekend during the day because it's super fun there.</p>
+
+<p>My favorite stay here was <a href="https://www.booking.com/hotel/gb/harrods-room.en-gb.html?label=gen173nr-1FCAEoggI46AdIM1gEaKsCiAEBmAEJuAEHyAEM2AEB6AEB-AELiAIBqAIDuALj887kBcACAQ;sid=fe2c63af8c4004a70978c29328d7297c">Harrod's Room</a>. The price was right, bed was comfty, room was clean and the host was awesome. The location is perfect too, its a walk away from Harrods so its on the main road of action on Brompton Road.
