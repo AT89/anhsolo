@@ -63,11 +63,15 @@
     {% for num  in (start..end) %}
         <li class="pagination-item">
             {% if num == paginator.page %}
-            <a class="pagination-link pagination-link--selected" href="#"><span class="pagination-link-help">Page&nbsp;</span>{{ num }}</a>
+            <a class="pagination-link pagination-link--selected" href="#" target="_self"><span
+                class="pagination-link-help">Page&nbsp;</span>{{ num }}</a>
             {% elsif num == 1 %}
-                <a class="pagination-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}"><span class="pagination-link-help">Page&nbsp;</span>{{ num }}</a>
+                <a class="pagination-link" href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}"
+                  target="_self"><span class="pagination-link-help">Page&nbsp;</span>{{ num }}</a>
             {% else %}
-                <a class="pagination-link" href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', num }}"><span class="pagination-link-help">Page&nbsp;</span>{{ num }}</a>
+                <a class="pagination-link"
+                  href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', num }}"
+                  target="_self"><span class="pagination-link-help">Page&nbsp;</span>{{ num }}</a>
             {% endif %}
         </li>
     {% endfor %}
@@ -81,11 +85,16 @@
 
     <!-- Next page -->
     <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" {% if paginator.next_page == nil %}disabled="disabled"{% endif %} href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+        <a class="pagination-link pagination-link--non-numeric" {% if paginator.next_page == nil %}disabled="disabled"
+          {% endif %} href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}"
+          target="_self">Next <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
     </li>
 
     <!-- Last page -->
     <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" {% if paginator.page == paginator.total_pages %}disabled="disabled"{% endif %} href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">Last <span class="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
+        <a class="pagination-link pagination-link--non-numeric"
+          {% if paginator.page == paginator.total_pages %}disabled="disabled" {% endif %}
+          href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">Last
+          <span cla target="_self" ss="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
     </li>
 </ul>
