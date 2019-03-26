@@ -6,11 +6,13 @@ permalink: /tips/
 
 This is mostly a page for things that I have found to supremely help out traveling.
 
+<div class="space">
+
 <ul>
   <li class="gear_header">Car Rental
  <li class="gear_li"><a href="http://bit.ly/VirtuoApp">Virtuo</a> </li>
 
-<div class="post-image"><img src="https://www.govirtuo.com/_next/static/images/virtuo-wide-1200-1954c542849699d14fff08f860cf6934.jpg" class="gear"/></div>
+<div class="post-image"><img src="https://cdn.leadersleague.com/origami-redaction/media/cache/articles/full_article/578decd0ee56e.jpg" class="gear"/></div>
 
 I discovered a company that will let you rent a car through an app and bluetooth and without personally talking to anyone. As of 2019 Feb, <strong>it's only available in UK, France and Belgium.</strong>
 <br><br>
@@ -25,8 +27,9 @@ I discovered a company that will let you rent a car through an app and bluetooth
 <a href="http://bit.ly/VirtuoApp">Virtuo link</a>
 
 <p>Also you can drive as fast as you want in Belgium on the left lane in the highway :)
+</div>
 
-
+<div class="space">
   <li class="gear_header">CC
 <li class="gear_li"><a href="https://creditcards.chase.com/rewards-credit-cards/chase-sapphire-reserve?CELL=6290">Chase Sapphire Reserve </a></li>
 
@@ -40,3 +43,4 @@ I discovered a company that will let you rent a car through an app and bluetooth
 <br>
 <a href="https://thepointsguy.com/guide/chase-sapphire-reserve-review/">Heres</a> the Pts Guy review of this card
 <p>I found Visa way more widely acceptable than AMEX
+</div>

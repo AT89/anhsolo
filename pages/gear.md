@@ -8,6 +8,8 @@ permalink: /gear/
   I have tried and tested a few gadgets and clothing that I absolutely need to have with me while traveling. This is my gear, this is my equipment, this is what I upgraded to +10 and to have the perfect stats
   <p>My Motto is buy nice or buy twice. I have found that aiming for quality and buying things that would last me a lifetime is a more frugal strategy over the long term and better for the environment/less waste.
   <br>
+  <div class="space">
+
 <ul>
   <li class="gear_header"> Travel Pillow </li>
   <li class="gear_li"><a target="_blank" href="https://www.amazon.com/gp/product/B079X5FTZR/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B079X5FTZR&linkCode=as2&tag=anhsolo-20&linkId=91200d0519000499b4da65532b3069a1">Cabeau Evolution S3 Travel Pillow</a></li>
@@ -18,11 +20,13 @@ permalink: /gear/
 
 <div class="center">
 <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=anhsolo-20&marketplace=amazon&region=US&placement=B079X5FTZR&asins=B079X5FTZR&linkId=b55a5902342d952bdcd9568529a543f2&show_border=false&link_opens_in_new_window=true&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-  </div>
+</iframe>
+</div>
 
 
 
+<div class="space">
+</div>
   <br>
 <ul>
   <li class="gear_header"> Bags </li>
@@ -46,7 +50,8 @@ permalink: /gear/
   <li class="gear_li"><a href="https://outlier.nyc/">Outlier NYC</a><li>
   <p>The shirts are pretty good here but they need to be ironed, but otherwise they are great for heavier climates and durability. The light shortsleeve shirts are great here too. I really like the <a href="https://shop.outlier.nyc/shop/retail/slim-dungarees.html">Slim Dungarees</a> for my go to Pants. These are very durable, high tech and form-fitting. I have not found slim pants that feel and fit this great. I have not worn jeans in years because of these. These are waterproof and you can even put out a cigarette on them without any damage. Very tough.</p> -->
 
-
+<div class="space">
+</div>
   <li class="gear_header">Shoes</li>
 
   <li class="gear_li"><a href="https://wolfandshepherd.com">Wolf and Shepherd</a><li>  
@@ -61,12 +66,14 @@ permalink: /gear/
   <p> I used to be a sneakerhead and have a pretty solid collection but it all ended once I tried on the Ultraboosts. There's really no sneaker as comfortable as these.
   <p> Not a fan of the new 19s, I rock the 3.0 and 4.0's in Triple Black.</p>
   <p><a target="_blank" href="https://www.amazon.com/s?k=adidas+ultraboosts&amp;ref=nb_sb_noss_2&_encoding=UTF8&tag=anhsolo-20&linkCode=ur2&linkId=ab6c8c7aa7744308b10cf32d4c98e014&camp=1789&creative=9325">Ultraboosts on Amazon</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=anhsolo-20&l=ur2&o=1" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /></p>
-
+<div class="space">
+</div>
 
 <li class="gear_header">Sunglasses</li>
 <li class="gear_li"><a href="https://roaveyewear.com/"> Roav Virgil</a>
 <div class="post-image"><img src="https://cdn.shopify.com/s/files/1/1832/8023/products/Black_Moonrise_Layout_View_820b1848-a977-4971-948e-75aa97e0d085_345x@2x.progressive.jpg?v=1544556221" class="gear"/></div>
-
+<div class="space">
+</div>
 <li><p>
 These are sturdy and super compact. Able to keep them in my pocket. I used to use the Ray Bans forever but these compactness just beat it. The nosemarks don't appear because these are so light.
 <li>
