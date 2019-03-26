@@ -12,7 +12,9 @@ Hey folks, this the first stop of a long journey. It was pretty great to escape 
 <iframe width="400vw" height="auto" src="https://www.youtube.com/embed/OuPRPEZTp5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<p>Unfortunately I was working too much so I didn't really have a chance to explore the city. Pretty nice cityscapes but what I did get to explore was the main market place Souq Waqif. My main mission was to find some Turkish coffee.</p>
+<p>Unfortunately I was working too much so I didn't really have a chance to explore the city. Pretty nice cityscapes but what I did get to explore was the main market place Souq Waqif. My main mission was to find some Turkish coffee.</p> 
+
+<p>Heres a nice <a href="https://photos.app.goo.gl/JAU5quwKENocJaq59">Video</a> of how the Turkish coffee is made. I bought myself a Bronze cup and 3 cans of Turkish Coffee. it seems like you can cook it ontop of a stove. Sand may or may not be needed.</p>
 
 <div class="post-image">
     <img src="https://lh3.googleusercontent.com/mQClvj-6WJdG_z_P2TRGqpkJnLEZyB8rSK_mZzULlub6YJr0aGPHk82zPC3dKmLvm15oEDfqCkMh1WMTNzLC1GM5Z7Wy5Vt43ec-VSjAjt9DvhfrJ51KWnGnPVziw2WYZvye-akKWAF7kh-aWlg6r-Dzdz7sdlVz8S4bz5Cxcm1n9VUvWd18b7intbh4e-3ORqPm6o7myLEZpqayEgM11mU59gSpCZgR0fY15ms4ph0wL4jtL7TVhIr_3busmqOdB0K7KeJ9KSf87GrmdXvoiPpj60to7EwHg30VvoqE65Ubujr2aGLYofHgp1nAKj14SsOolXWP0r6fi1b3XDp0_1Ud_DNpayE1fbsney1NzzwH0nk2rUwvdn2hlz7kdk1LvjQUG5h7Jlm4w6Kx7ehR2zh22PdKEbFeFqwTPGWMH3xpPmLE00vzVV_QpnGukatCNeUeO_kVnPcEQjfVD9e7UZwAluAovK3vuVRzmL5NL9t7z5WxhtAghBski7kIQHIuOPFUqdjz_ClgJo9jj4UmR5_xbxbcbTlhH_i-URsHYb9I2JzVNB_gk2F10CkIs_NIAn3kYGjuwpQ2fFJe-5fiMme0UEHZG2pwJ6uycy9_tahE8-TIae0imwnn8zC3LwlCzcJQtbkB642OnQOm0xyMLP5fOw=w874-h656-no
