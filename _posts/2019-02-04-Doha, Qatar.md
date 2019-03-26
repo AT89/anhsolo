@@ -15,6 +15,12 @@ Hey folks, this the first stop of a long journey. It was pretty great to escape 
 <p>Unfortunately I was working too much so I didn't really have a chance to explore the city. Pretty nice cityscapes but what I did get to explore was the main market place Souq Waqif. My main mission was to find some Turkish coffee.</p>
 
 <div class="post-image">
+    <img src="https://lh3.googleusercontent.com/mQClvj-6WJdG_z_P2TRGqpkJnLEZyB8rSK_mZzULlub6YJr0aGPHk82zPC3dKmLvm15oEDfqCkMh1WMTNzLC1GM5Z7Wy5Vt43ec-VSjAjt9DvhfrJ51KWnGnPVziw2WYZvye-akKWAF7kh-aWlg6r-Dzdz7sdlVz8S4bz5Cxcm1n9VUvWd18b7intbh4e-3ORqPm6o7myLEZpqayEgM11mU59gSpCZgR0fY15ms4ph0wL4jtL7TVhIr_3busmqOdB0K7KeJ9KSf87GrmdXvoiPpj60to7EwHg30VvoqE65Ubujr2aGLYofHgp1nAKj14SsOolXWP0r6fi1b3XDp0_1Ud_DNpayE1fbsney1NzzwH0nk2rUwvdn2hlz7kdk1LvjQUG5h7Jlm4w6Kx7ehR2zh22PdKEbFeFqwTPGWMH3xpPmLE00vzVV_QpnGukatCNeUeO_kVnPcEQjfVD9e7UZwAluAovK3vuVRzmL5NL9t7z5WxhtAghBski7kIQHIuOPFUqdjz_ClgJo9jj4UmR5_xbxbcbTlhH_i-URsHYb9I2JzVNB_gk2F10CkIs_NIAn3kYGjuwpQ2fFJe-5fiMme0UEHZG2pwJ6uycy9_tahE8-TIae0imwnn8zC3LwlCzcJQtbkB642OnQOm0xyMLP5fOw=w874-h656-no
+    "/>
+    <p class="post-image-caption">Partial Persian Gulf view at night</p>
+</div>
+
+<div class="post-image">
     <img src="https://lh3.googleusercontent.com/-R1eUzxiq2MQ4u_fXjCID8SX4PVq0cFCsuCZewmM6BOQ-qXhJM8ks0as6d1JeTNjHwDZ5YqNoMJ-hYJWakI8w0Vd2RIRQsNRbuvJ2kRdmzLP3X7trHhxr0y9lZAKzUv_K5Y2hcLIs4ZjbWiHjobHj4v3GddgVUJOFR74K3CzOUnEaU4PiXatXciPWyHWNlYbN-Gow-gr_2Vjh28f_hE7uaG2HrrrYw-3PrwnEILLEU8rKBtuaaQt6t-jCTqLTS_A5AiauiY1Vo8kE559ag4sp8J4rOQjljyIhu5lFr9z-D2PkDaGDjjd72u9VV8w1KNxAfQC_0ytUegKJucmyOfs8glWXDSRfd653wO71tk9tSu06ngh365kIek391GwkP_gB20ZP9ATm1HqyzTozmd-4ScBs1Qym4u7Y7CRCt7T3iZGBfc_bEDMgrUxe2AIgVF9LQ_PcdXsUj_0g5gsdw-Lp9ZWXT26nIo-9ZJ89kHQaG-9yZ98r208BFTUaCdjgWAdMAx9Db-Cp8Md4PJznEIbr5xPqQqaNuoKAC4AirvoLSpuOZLMuY4XbIAdkVjGe4Z5bit8fWDy1OjlvajAZcTOZVYxvJ8o6Auo4wkRYkNXwmHSSlZBenmKOQMFvWO8ldmPofe8JNNik3Pf8QbMKEsDJ25TkjTUWrS2QiLiImRoQrh7m_gQtQiFm77gv820oemiIkQ469YmGrZD_L_rJWc=w1952-h1464-no
     "/>
     <p class="post-image-caption">Resturaunt 2nd floor view</p>
