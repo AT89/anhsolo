@@ -1,8 +1,8 @@
 <header role="banner">
 
 <div class="navbar" id="top">
-  <a href="{{site.url}}/">Latest</a>
-    <div class="dropdown">
+  <a href="{{site.url}}/" target="_self">Latest</a>
+    <!-- <div class="dropdown">
       <button class="dropbtn">Posts
         <i class="fa fa-caret-down"></i>
       </button>
@@ -11,8 +11,9 @@
           <a href="{{ post.url | prepend: site.baseurl }}" target="_self">{{ post.title }}</a>
         {% endfor %}
       </div>
-    </div>
-  <a href="{{site.url}}/gear/" target="_self" class="subnav">Gear</a>
+    </div> -->
+<a href="{{site.url}}/index/" target="_self" class="subnav">Index</a>
+<a href="{{site.url}}/gear/" target="_self" class="subnav">Gear</a>
 <a href="{{site.url}}/tips/" target="_self" class="subnav">Tips</a>
 <div class="subnav"><a href="https://www.instagram.com/anhtice/">IG</a>
 </div>
