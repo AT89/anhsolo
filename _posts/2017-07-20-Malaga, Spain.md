@@ -2,7 +2,7 @@
 layout: post
 title:  "Malaga, Spain"
 date:   2017-07-20
-categories: Spain
+categories: EU
 location:  Malaga, Spain
 ---
 <p>This was a wonderful trip in a 'vacation resort' (aren't they all?) area of Spain. 
