@@ -113,7 +113,7 @@ View from the Castle
   </p>
 </div>
 
-
+<p>The cool attraction here was <a href="https://www.museopicassomalaga.org/en/home">Picasso exhibit</a> in the heart of the city. I unfortunately did not take any picture in my time there.</p>
 
 
 
