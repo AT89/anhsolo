@@ -44,7 +44,7 @@
 
     <!-- First page -->
     <li class="pagination-item">
-        <a class="pagination-link pagination-link--non-numeric" {% if paginator.page == 1 %}disabled="disabled"{% endif %} href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}"><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> First</a>
+        <a class="pagination-link pagination-link--non-numeric" {% if paginator.page == 1 %}disabled="disabled"{% endif %} href="{{ '/index.html' | prepend: site.baseurl | replace: '//', '/' }}"target="_self" ><span class="pagination-link-arrow pagination-link-arrow--leftward">&larr;</span> First</a>
     </li>
 
     <!-- Previous page -->
@@ -94,7 +94,7 @@
     <li class="pagination-item">
         <a class="pagination-link pagination-link--non-numeric"
           {% if paginator.page == paginator.total_pages %}disabled="disabled" {% endif %}
-          href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}">Last
+          href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', paginator.total_pages }}"target="_self">Last
           <span cla target="_self" ss="pagination-link-arrow pagination-link-arrow--rightward">&rarr;</span></a>
     </li>
 </ul>
