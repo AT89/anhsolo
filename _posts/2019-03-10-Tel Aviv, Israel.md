@@ -12,6 +12,7 @@ Ah the promised land of US funding. Tel Aviv was pretty cool and my hotel was pr
 <h4>Soundtrack</h4>
 <iframe width="400vw" height="115" src="https://www.youtube.com/embed/C_GUj12tdtA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/ydvOAwIsRo5fW_TIO01CAx0seULHm3umZGbTzcw34pJb7bN0v-0Iw1PEQQ4sAXLmx5CTjn1c5hyDd3bkDGK3m29eDP4SSxqkYjhZ9xcTxv6e5-xxWNq66WZwG89an05i9Cg55DJAR8gM5sof-K9MIDNyd-W-ZVR--DQyzDFQHO_m_71Ic1sdh5FX7wQsR9Gqc_Q0tWkh0Lbh1l2RvOZwxbnh1lseTWvR6e3ewuiCGV6tFhgHaK81MhihVw84SCDdeoxRRhdCpdV25FvM7KSkymoontl_QQNBSlqOpFNbcsSoOsh0BL2letwr7U7LCqfAXjP1gEbIBXUt1XSbkgc1F48N4ItDiGGz3649fpEFdo5SGSjewjIujUL2PgGU4jXy0Yh_EkTsRNG7z5u7o31ODoRitambfA3kNLn-oELbps2FxehAPilwqixL1kFuJwFyx96gRruQXtjBUa7RhYsgmkbDJM-ZK4_vPD_tHKMp7BCRwXFuRKMlE56QC2uwgjv2uSoxBFlB1bVMausrth2tYtdklhV0t1DiDkSKq6yPfzMu0bcXSHXyU3Ir42d5uk4d18uwTKbv0pHNWkySOXAmh0jT_GHUo1KDaPWLewDzWKfdMVmbAAV5YggRzF2Q-VkOMF1oCDFXixeaJoUZYeIochrkDiFhsEuW81OH-200XbgTIv9LmpMk1CYq27336U_Qe58dnBNsVpFEmLnuH-o=w1544-h1158-no"/>
 <p class="post-image-caption">
