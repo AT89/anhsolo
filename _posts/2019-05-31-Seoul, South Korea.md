@@ -154,7 +154,7 @@ Everything here was so clean!
   </p>
 </div>
 
-<p>I went to Samseong station to get a glimpse of the Global Starcraft League (GSL).</p>
+<p>I went to Samseong station to get a glimpse of the Global Starcraft League (GSL). Starcraft is taken VERY seriously in Korea where teens train for hour and hours non-stop in teamhouses to be the top professional gamer. I think it's the most demandin game out there that can blur the line between esports and actual sports. The GSL is specifically for Starcraft II while the Korean Star League is for Starcraft:Brood War (the first one). The difference of the two is automatic vs manual respectively. I might be able to make it to the KSL match on Friday.</p>
 
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/lxhxB1e8H8X_pTUKk3730MsbCrKVyvauTn3U44IkRGlblaleqUF16l93xTvXxWiB7I-_lA3RuEqzIo2GKTer_-SgyOQ7QPO6fRlQnBy8xXzisWXWVYhy0346CELn-tT6IFbAjzsl6b8VRaxMMZIeLIREkYbciI_QHgtl0P80HqxJBN9Cx2rqmXS3TO1PrAA2aQ7czTUCL0PWIoa-hUj0qzB61iEybm2B5Q_83ij7eyduRLUjJsgW11gYSTYglGJqW8SndpXQl_7relSEGueblhcXQOllnJhZmspgkXcdc-RDhBuFmelLoauuhNl_xGoONZaBHIXqAEfqJDCgNwj6nNOsANBfQ2gDAQc6DJ7rrgYlAL8F8praP3qcZ-FutFwLug1WDQjHK6dcyF4yUGwZS6KwfYfNZ7KWUGxszG8kRm861oTAgLQTstN2tleTiwevHj-vcnemeGqui9YihvV_0IW9fZ0OpbEJpzlPpIzoZKFz4TGfCuFA7bt8u40e_cqJgWZxmY9qm0Vcd0runZkMN9ITUt0Ade8IABUvWrRtUviQog7by6AeNVGgJQyKiEiom8c6gOVhbOcbk1R9M5fGtdO_huEbFaRswnvPh_yKTj05MSNUbaOA6CzGENJR241oNm2aXDcvve5FgKsK9mYnPgVNv-rx4v6eMp0XcVM3U6rctMt0gvOm0W2lkMAforqyGAg3xM4k8SB-OyE-J4I=w2004-h1503-no"/>
