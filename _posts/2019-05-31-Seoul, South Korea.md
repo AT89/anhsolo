@@ -336,6 +336,30 @@ Here's a close up of this beauty
 
 <p>I also learned that in Korean age, you are 2 years older because they count the years when you have a tail</p>
 
+
+<div class="post-image">
+<img src="https://lh3.googleusercontent.com/XQyOQp_gJyzL3tssGmEK3PWL2HFaaxkMvYyqLoECxXOopjOUlxF4aobUuOAMB9d9XVdD_6FlfG0sV9-M2OiEK6AB3J0o2GjOjri8haGV0mmBdCk7ssgaeHc_fJt7_rgB35AIpNw3G6ohJHfEh00ikHQzGh0w7MogY3gCyY-vQt_P7LmgEQMpnrMCD2slDZ7SXo65gEfcB79e_w3t1Cn-6bGl91PsJjsTwG5yzSYnm1k1F3B_G8gMkL9ophpGc61iendrUqy5vb_ZMSsFv1QAT-3zlcAH8koadHcWUzoXOtARNivFECqFoPWLNT9_p55hHPrNLerVvynCQjDqO9HebCZAdNb1dyxoiiro7k8bWOjGZyr4fPOdqFcw87XYg8vX2b_TTYIFS-MwuxYqLuZoEyZ7KSGdniGE-8Sz1jP0hUHcDdPt-Gk9lSVIjJefKxHORZ2pFrhOdXOCLl-bp5tkaH7lAdrVRpKOapx9OimX6_6v3IOfovNHb0esMBJDQRulGkkjKyf7rcv9b5GaYBchc4fgl_Hvj3F9C4lBADEA0-V4kms5RfK37F6KvZ20Dng7py9mJfdL5zggIWI6vO5hp2B6GMvR4d20sAc7_7aYE3uGoFvEtb4Y59R_4l4itunARGgJF2ek3AOVyxTlx6nh_xAFag=w1232-h1642-no"/>
+<p class="post-image-caption">
+Fried Chicken and squid in a cup
+  </p>
+</div>
+
+
+<div class="post-image">
+<img src="https://lh3.googleusercontent.com/eJygYv_Zepi1718_JdT3UYcNOLGXHBgj78xVMrMdNVBYwRaf-QQXVk4M3-EP1YU4cJ-uLchoDpTt2bu87tgRe-aEuAXE1X06BYjeOGEsJEvdJz_wypI8B_7IxV3Zt2zEEEJGfwMvkT6XVPVWj_njp2OMK9XpuOAvnxJEwXbOp23PpESGAHIxkXEk5D-a8KLZrZAmUE1mj4c2FUVRrM-d0Bs_7iY1AGUnOGxVMCkSwYjlO_mNdnPONyGGC0qKjgysZV-0hshgKsxqR2r5zi7WS2LIlPD3XojpxSYeqrgKPf8L757IJFp0pQ9Uiz1QDZY96FyRD9OvTLqXSayuAm_vJJ2-wMwi_eN4Zad2YGSiEpxDpTEGjk3qqugl-bUmwZqRBqi8OVieXUK8kD6x7VsRp6OLHOIIlaZne6Uu8zUgOca8UzQ0qzl-5GxeyiTJCHI6c4NOMzZC3tAT3CXwW1GlQWDhyt3z9gUiYxvomehO-_DZNDhyAxJoSj43u2dxzdLGz1DC_-88hbyEcG_uuVgMxVSWCzrVRZGOnvFzS5dxStb6AZhIjyWzR8RLKKCsa1VVP3U72M02pYKZQp3EBd2umLYSUn7sbj2TCXuPf2v-5gpTSCD4GPhBN8SIfyvp2D9foX6jfKjsWtF74onuLDs_rkdY9Q=w2190-h1642-no"/>
+<p class="post-image-caption">
+Mandatory Korean bbq
+  </p>
+</div>
+
+<div class="post-image">
+<img src="https://lh3.googleusercontent.com/xdec09RYHvP_-TlMDSihAitsrksqKKAn3gjNqU1OkbI5UaGqmSlvkxkYTuo9Tk6KEpuL6_Gus3wqv9HV3Wrhq-gPAe61ZQ0Lc7M1fZf-9HEAla6-dpjugE2ePfg4X09ZrTK4JUCqMwpaQEz8P5lzzcBkiqJUrklNSCTsAKs24CrnGwgtMVH2XYTp6EwPU_nmEjBbfH01W3Tgl77bXJYBz8znjaFtKA4MqIgwTzaeHBwdcWIHxJuDYCQxKJ3KP4Gup-QpjqURRH_lpM3hywb79RXHfh0mIZlw52ddhc2zlOu3NgpAtF8lOvqj1X2idC2x3s6wsR0HCuiQ1DWzvHFcah6ILAi3uhCcMdci4RGk_0oF-RX9cHBJ9xPTYjdflJltvK1GKMHvMrbwPkiW9ZfV765rsXFfSm8tH7WGHtuFlpYi30p_zTRI8UFkRYP7ELqtnK6ucMypOR30XbUPykjARc_iHISn1x2eT2eOpMw80BQgLhaO7dxF70NTRdeYPXo_xv5rMnc5p11s1H_LOT0D2kaDsU415pPiHVj6XFzrpYvc4Mc3XDNftTG38nDN7nDIvE1n_8pnEVHN9LrLYH6MMHwPIPZnRYjkEmcjNyipxrK52j3znNDiFlCcWGzRvkdq4mDaHurnG2q3TWcIxeZS34AZIw=w2190-h1642-no"/>
+<p class="post-image-caption">
+Rice wine from a street vendor
+  </p>
+</div>
+
+<p>Pretty huge jug of rice wine "Live Makgeolli". 2 huge bottles for 5000won, less than $5</p>
 <p><strong>WIP as I am updating as days go on</strong></p>
 
 
