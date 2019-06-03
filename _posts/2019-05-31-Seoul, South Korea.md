@@ -5,7 +5,7 @@ date:   2019-05-31
 categories: Asia
 location:  Seoul, South Korea
 ---
-I think it was a mix of nostalgia, surprise and unexpected pleasantness. Seoul is clean, people are friendly, the subway is navigatable (similar to New York but not crappy) and super clean. The food is amazing aand open late. The conversion rate is not too shabby either. I think the rush of nostalgia kpop of my 2002s  (when I was 12) came when I was at a accessories store and a familar tune was playing. I knew the feel of the song, I heard it before when I was 12. I had to use Soundhound, it was SES - Oh My Love (included in the soundtrack). After that, it all came rushing back to me why Kpop was so damn good. I included some more recent modern Korean songs too!</p>
+I think it was a mix of nostalgia, surprise and unexpected pleasantness. Seoul is clean, people are friendly, the subway is navigatable (similar to New York but not crappy) and super clean. The food is amazing aand open late. The conversion rate is not too shabby either. I think the rush of nostalgia kpop of my 2002s  (when I was 12) came when I was at a accessories store and a familar tune was playing. I knew the feel of the song, I heard it before when I was 12. I had to use Soundhound, it was SES - Oh My Love (included in the soundtrack). After that, it all came rushing back to me why Kpop was so damn good. I included some more recent modern Korean songs too!
 
 <div class="center">
 <h4>Soundtrack</h4>
