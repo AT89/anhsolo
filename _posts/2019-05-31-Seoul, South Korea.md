@@ -23,7 +23,7 @@ I think it was a mix of nostalgia, surprise and unexpected pleasantness. Seoul i
 
 <p>Just 7 kpop songs that I can remember, I was a huge fam of BoA Kwon; mainly cause I had the hots for her but I can't really remember the other songs. I'm pretty blown away that she still "makes" music, there was a music video from 2018..I later learned Turbo (pronounced "Tuebo" is still active too.</p>
 
-<p>First night, arrive from Gimpo airport around 10pm, been on the plane for about 12hrs+ from Miami. Was a pleasant flight, courtesy of Japan Airlines (amazing airlines). Took the subway about 3 stops from Gimpo to Hongik University and started to hunt down my Airbnb. I didn't realize how tired I was despite sleeping most of the way through. Google maps didn't me too much but luckily I was able to figure it out with some friendly help :)</p>
+<p>First night, arrive from Gimpo airport around 10pm, been on the planes for about 12hrs+ from Miami to New York to Tokyo to Seoul (Gimpo intl). Was a pleasant flight, courtesy of Japan Airlines (amazing airlines). Took the subway about 3 stops from Gimpo to Hongik University and started to hunt down my Airbnb. I didn't realize how tired I was despite sleeping most of the way through. Google maps didn't me too much but luckily I was able to figure it out with some friendly help :)</p>
 
 
 <div class="post-image">
