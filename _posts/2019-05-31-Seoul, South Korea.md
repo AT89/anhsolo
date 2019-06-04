@@ -361,7 +361,7 @@ Rice wine from a street vendor
 
 <p>Pretty huge jug of rice wine "Live Makgeolli". This dude was hustling but in a good way. He gave me a sample and it was pretty darn good (and cold). I asked how much and it was 5000won. The dude gabe me another bottle because I was American and hugged me. 2 huge bottles for 5000won, less than $5</p>
 
-<p><strong>WIP as I am updating as days go on</strong></p>
+
 
 
 <div class="post-image">
@@ -523,6 +523,11 @@ Kabrew Forest, sneak peaks, opens tomorrow
 Hongdae shopping street at night
   </p>
 </div>
+
+
+<p><strong>WIP as I am updating as days go on</strong></p>
+
+
 
 <p>I stayed at this pretty petite Airbnb, all I really needed was a bed and a bathroom. This place has decent A/C, washer and fridge. This is a perfect tiny little compact studio for a light packer. What really appealed to me about this listing rather than a hotel was that I would "live" like a local to get the full hands on experience. It's a good idea to get earplugs as well because you are in the heart of the city.<a href="https://www.airbnb.com/rooms/26928004?guests=1&adults=1&sl_alternate_dates_exclusion=true&source_impression_id=p3_1559522082_5VAwUa8oPu57aDEh">Listing here</a>. The location is pretty perfect too, really close to Hongik University (take subway exit 3) and around many shops, bars, resturaunts and convenience stores. Pretty close to Hongdae, alternatively theres this neat hotel <a href="https://rysehotel.com/">Ryse</a> that is in the heart of Hongdae, behind the street of the hotel is party packed city.</p>
 
