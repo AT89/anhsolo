@@ -6,7 +6,7 @@ categories: Middle-East
 location:  Tel Aviv, Israel
 ---
 
-Ah the promised land of US funding. Tel Aviv was pretty cool and my hotel was pretty close to the beach. It was a little chilly (still early spring) and it was a little too cold to swim so I just had to admire it from a distance. The water was very blue and it was pretty awesome to see an endless Medditerranean sea.
+Tel Aviv was pretty cool and my hotel was pretty close to the beach. It was a little chilly (still early spring) and it was a little too cold to swim so I just had to admire it from a distance. The water was very blue and it was pretty awesome to see an endless Medditerranean sea.
 
 <div class="center">
 <h4>Soundtrack</h4>

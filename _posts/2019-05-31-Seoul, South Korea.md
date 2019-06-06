@@ -603,6 +603,8 @@ Closer up with no powerline lol
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/0uamD3Md2B_bkYCZ016OVcnBZj5dBaSd5FHU5bR-pR6jYQOATqWUtA0Yjr-2JXcw0PpKboLvftO8YumwRGkX9owa1iLVapVWxKsq_-1uuWKOgUFWQpPMB1gBwEDK0gwrlcy1228aswonC6XPAZ_OC33TUdajQlYVw8ISCjE8rWu3Dbxo3WfLyvesSGlVbRzIumZVlSELXLFl38YDnRZ_VuD1zKIX7g4iiI7Vmb79JC2_YfVcWxir4TZLYuL8x0Ba8rn8tjWrg3VeO1rC8ENY4hl5L06DY2rB0f7Rme7ya3pQJ8Wh_pwbghoHwr2HIcYsZKBgkEqah5xV8qkzDY35jL0bupMNOH8vLWmvmk70h1c4Lxh2jKNdu3MQLRuevJCtPSgDCa6JyTcCLgPd2jcouYW-ka3cyEveQzN79cHhYqIDJjot2krBar58QRauLhm2fnUin4JC4jCUtAs8FbxyVjDrUrPChMijkbZcx1P-VoVVM7dFWwjaXezVfpFVM93zgXrlgw6d7_Uw7a8F_wI5qqrIxSHu1kShilAx0HDARYWQPORCxxAkoyGUsfn5qh_D408-Dr6yIT6F7kFrenoEoCj7M4y57hH-pssQ3fK39tM8-3UcOXxu3gJK8Zix6i75ppwKy_K_bmHKtUzcLINJPhYG0w=w1988-h1490-no"/>
 </div>
+<br>
+
 
 <p>Next day, just strolled around but it was forecasted to rain so I didn't make it too far on my plans. With some work things and finding an ATM to get more won for the subway fares I ended up just checking out Hongdae again (tons of unexplored alleys). Stopped by for some Korean bbq though</p>
 
