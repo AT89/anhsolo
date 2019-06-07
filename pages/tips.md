@@ -47,6 +47,6 @@ I discovered a company that will let you rent a car through an app and bluetooth
 
 
 <div class="space">
-  <li class="gear_header">CC
-<li class="gear_li"><a href="https://www.allianztravelinsurance.com/">Travel insurance</a></li>
+  <li class="gear_header">Travel Insurance
+<li class="gear_li"><a href="https://www.allianztravelinsurance.com/">Allianz Travel insurance</a></li>
 <p>This travel insurance directly saved my dad's life. We were very fortunate that he was able to be transported back to the US to get treated because we got this travel insurance. It will protect and cover you medically, dire trip cancellations, etc. Depending on how much you travel, this is definitely worth it and if you even travel 3x in a year, this will be worth its cost. </p>
