@@ -837,7 +837,7 @@ A Digital tree
 <div class="post-image">
 <img src="https://lh3.googleusercontent.com/_lAqaOsO7wnXwO1AFjdu72rmWdnWXvyLVEvOpm51rZCY0UtUBhh5lRmOEhbVSzweOio8--J9y5u4BNmfyAFAtId46iCXq8AgdfIxCEhcyw1NWcUZ1mW7tkwoA2Dta_pYIfdTZDEc_bGZJGF-PMThh8F5xCp9_2Gkd78u4C7O6epXO6Bi6yhw-ocia8cUMZZ3EQ1FTCxYSjCR1TUNtKEwfRgZlvXq8k7bfXVwizPWVB_wLXE7klA1BZDh2uNu9HNCNnv6din6zLJQbdz7bpp4pKk8z7zM0ZSy8pTU6_k21769ab1XIDGPXAppJISugrr-MMbbwOeUxYYtfBYfKx5TtW9XzGWICfRA541PIJse4aRbKVn9RursdLPdO3btFWUVUcD4W5QpP8qmaN_bqKfpNMyE2UlLT9shu_8bPaPpY-9yYd7dMcKXRrApomD5ZbnPuIdL4gk58J-QuohVSopHqfSs02aXjJJ43uw1FSsNfvQPJry60_383_FXmb0Un27GtB9fbQ6ZutFUbaHOlDFP6UQuv6jtz_XpyIT0CN5tcwo9I7SfjOzbSOZVQVpOzY8SIlTXb-WFSQstX5NqY1kcHOriFDFMTun9WvxS9Yoe8OfOokrwhTjbDaKG4GW2Eu4158cM2-FY4XVj4yE4M0ZIHCnmlZn-zw0DAH2J5kYZm5cknwYbNxlXoSnxjAB7_2eavRwhXZiah5zBMCehGHg=w478-h359-no"/>
 <p class="post-image-caption">
-Some really neat art here, there is a real 3d model in the back and the front panel is glass with animations on it. 
+Some really neat art here, there is a real physical object in the the display case and the front panel is glass with animations on it. Somewhat bewildered how they did this but it's a nice preview of the future of cars with HUDs. I think this is similar to the technology we have seen with Glass windows with a UI.
   </p>
 </div>
 
