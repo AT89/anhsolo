@@ -14,7 +14,7 @@ permalink: /index/
     <ul>
     {% endif %}
 
-<p>  <a href="{{ post.url | prepend: site.baseurl }}" target="_self">{{ post.date | date: '%b %d' }} {{ post.title }}</a><br></p>
+<p>  <a href="{{ post.url | prepend: site.baseurl }}" target="_self">{{ post.date | date: '%b %d' }} - {{ post.title }}</a><br></p>
 
     {% if forloop.last %}
     </ul>
