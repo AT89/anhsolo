@@ -6,7 +6,7 @@ categories: Eurasia
 location: Moscow, Russia
 ---
 
-<p>I wasn't sure how I wanted to tackle going to a city twice but I think my experience again in Moscow was different enough to warrant it's own post and actually better than the first time. I stayed here at an interesting time as during the end of my stay the protests against Putin imprisoning his political opponent was ripe. I did catch a whimst of all protest march going on near the Kremlin.</p>
+<p>I wasn't sure how I wanted to handle making a part 2 post for going to a city twice or multiple times but I think my experience again in Moscow was different enough to warrant it's own post and actually better than the first time. I stayed here at an interesting time as during the end of my stay the protests against Putin imprisoning his political opponent was ripe. I did catch a whimst of all protest march going on near the Kremlin.</p>
 
 <div class="center">
 <h4>Soundtrack</h4>
