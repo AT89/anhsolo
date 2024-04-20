@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Index
+title: Home
 permalink: /index/
 ---
 <div class="index">
@@ -18,108 +18,69 @@ permalink: /index/
     
     <div id="mapid"></div>
 
-    <div>
-        <label for="states">Choose a country:</label>
-        <select id="countries" onchange="filterMarkers()">
-            <option value="all">All Countries</option>
-            <option value="United Kingdom">United Kingdom</option>
-            <option value="Milan, Italy">Milan, Italy</option>
-            <option value="Florence, Italy">Florence, Italy</option>
-            <option value="New Zealand">New Zealand</option>
-            <option value="Sydney, Australia">Sydney, Australia</option>
-            <option value="Lame Como, Italy">Lame Como, Italy</option>
-            <option value="Malaga, Spain">Malaga, Spain</option>
-            <option value="Singapore">Singapore</option>
-            <option value="Moscow, Russia">Moscow, Russia</option>
-            <option value="Tokyo, Japan">Tokyo, Japan</option>
-            <option value="Kyoto, Japan">Kyoto, Japan</option>
-            <option value="Kalispell, Montana">Kalispell, Montana</option>
-            <option value="Mumbai, India">Mumbai, India</option>
-            <option value="Johannesburg, South Africa">Johannesburg, South Africa</option>
-            <option value="Ho Chi Minh City, Vietnam">Ho Chi Minh City, Vietnam</option>
-            <option value="Riyadh">Riyadh</option>
-            <option value="Jakarta, Indonesia">Jakarta, Indonesia</option>
-            <option value="Doha, Qatar">Doha, Qatar</option>
-            <option value="Belgium">Belgium</option>
-            <option value="Amsterdam">Amsterdam</option>
-            <option value="Tel Aviv, Israel">Tel Aviv, Israel</option>
-            <option value="Seoul, South Korea">Seoul, South Korea</option>
-            <option value="Sacramento, California">Sacramento, California</option>
-        </select>
-    </div>
-
     <!-- Include Leaflet library -->
     <script src="{{ site.baseurl }}/leaflet/leaflet.js"></script>
     <script>
-        var map = L.map('mapid').setView([0, 0], 2); // Centered on the world, zoom level 2
+            var map = L.map('mapid').setView([0, 0], 2); // Centered on the world, zoom level 2
 
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-            attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
-        }).addTo(map);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
+            }).addTo(map);
 
-        // Define custom icons
-        var countryIcon = L.icon({
-            iconUrl: '{{ site.baseurl }}/leaflet/images/marker-icon-2x.png',
-            iconSize: [25, 41],
-            iconAnchor: [12, 41],
-            popupAnchor: [1, -34],
-            tooltipAnchor: [16, -28],
-            shadowUrl: '{{ site.baseurl }}/leaflet/images/marker-shadow.png',
-            shadowSize: [41, 41],
-            shadowAnchor: [12, 41]
-        });
+            // Define custom icons
+            var countryIcon = L.icon({
+                iconUrl: '{{ site.baseurl }}/leaflet/images/marker-icon-2x.png',
+                iconSize: [25, 41],
+                iconAnchor: [12, 41],
+                popupAnchor: [1, -34],
+                tooltipAnchor: [16, -28],
+                shadowUrl: '{{ site.baseurl }}/leaflet/images/marker-shadow.png',
+                shadowSize: [41, 41],
+                shadowAnchor: [12, 41]
+            });
 
-        // Define marker coordinates for each country
-        var countries = [
-            { name: 'United Kingdom', latLng: [51.5074, -0.1278] },
-            { name: 'Milan, Italy', latLng: [45.4642, 9.1900] },
-            { name: 'Florence, Italy', latLng: [43.7696, 11.2558] },
-            { name: 'New Zealand', latLng: [-40.9006, 174.8860] },
-            { name: 'Sydney, Australia', latLng: [-33.8688, 151.2093] },
-            { name: 'Lame Como, Italy', latLng: [45.9646, 9.2452] },
-            { name: 'Malaga, Spain', latLng: [36.7213, -4.4215] },
-            { name: 'Singapore', latLng: [1.3521, 103.8198] },
-            { name: 'Moscow, Russia', latLng: [55.7558, 37.6176] },
-            { name: 'Tokyo, Japan', latLng: [35.6895, 139.6917] },
-            { name: 'Kyoto, Japan', latLng: [35.0116, 135.7681] },
-            { name: 'Kalispell, Montana', latLng: [48.2023, -114.3129] },
-            { name: 'Mumbai, India', latLng: [19.0760, 72.8777] },
-            { name: 'Johannesburg, South Africa', latLng: [-26.2041, 28.0473] },
-            { name: 'Ho Chi Minh City, Vietnam', latLng: [10.8231, 106.6297] },
-            { name: 'Riyadh', latLng: [24.7136, 46.6753] },
-            { name: 'Jakarta, Indonesia', latLng: [-6.2088, 106.8456] },
-            { name: 'Doha, Qatar', latLng: [25.2854, 51.5310] },
-            { name: 'Belgium', latLng: [50.8503, 4.3517] },
-            { name: 'Amsterdam', latLng: [52.3676, 4.9041] },
-            { name: 'Tel Aviv, Israel', latLng: [32.0853, 34.7818] },
-            { name: 'Seoul, South Korea', latLng: [37.5665, 126.9780] },
-            { name: 'Sacramento, California', latLng: [38.5816, -121.4944] }
-        ];
+            // Define marker coordinates for each country
+            var countries = [
+                { name: 'United Kingdom', latLng: [51.5074, -0.1278] },
+                { name: 'Milan, Italy', latLng: [45.4642, 9.1900] },
+                { name: 'Florence, Italy', latLng: [43.7696, 11.2558] },
+                { name: 'New Zealand', latLng: [-40.9006, 174.8860] },
+                { name: 'Sydney, Australia', latLng: [-33.8688, 151.2093] },
+                { name: 'Lame Como, Italy', latLng: [45.9646, 9.2452] },
+                { name: 'Malaga, Spain', latLng: [36.7213, -4.4215] },
+                { name: 'Singapore', latLng: [1.3521, 103.8198] },
+                { name: 'Moscow, Russia', latLng: [55.7558, 37.6176] },
+                { name: 'Tokyo, Japan', latLng: [35.6895, 139.6917] },
+                { name: 'Kyoto, Japan', latLng: [35.0116, 135.7681] },
+                { name: 'Kalispell, Montana', latLng: [48.2023, -114.3129] },
+                { name: 'Mumbai, India', latLng: [19.0760, 72.8777] },
+                { name: 'Johannesburg, South Africa', latLng: [-26.2041, 28.0473] },
+                { name: 'Ho Chi Minh City, Vietnam', latLng: [10.8231, 106.6297] },
+                { name: 'Riyadh', latLng: [24.7136, 46.6753] },
+                { name: 'Jakarta, Indonesia', latLng: [-6.2088, 106.8456] },
+                { name: 'Doha, Qatar', latLng: [25.2854, 51.5310] },
+                { name: 'Belgium', latLng: [50.8503, 4.3517] },
+                { name: 'Amsterdam', latLng: [52.3676, 4.9041] },
+                { name: 'Tel Aviv, Israel', latLng: [32.0853, 34.7818] },
+                { name: 'Seoul, South Korea', latLng: [37.5665, 126.9780] },
+                { name: 'Sacramento, California', latLng: [38.5816, -121.4944] }
+            ];
 
+    
         // Add markers for each country
         countries.forEach(country => {
             var marker = L.marker(country.latLng, { icon: countryIcon }).addTo(map);
             marker.bindPopup('<b>' + country.name + '</b>');
+
+ 
         });
 
-        // Filter markers based on selected country
-        function filterMarkers() {
-            var selectedCountry = document.getElementById('countries').value;
-            map.eachLayer(function (layer) {
-                if (layer instanceof L.Marker) {
-                    map.removeLayer(layer);
-                }
-            });
-            countries.forEach(country => {
-                if (selectedCountry === 'all' || country.name === selectedCountry) {
-                    var marker = L.marker(country.latLng, { icon: countryIcon }).addTo(map);
-                    marker.bindPopup('<b>' + country.name + '</b>');
-                }
-            });
-        }
+
     </script>
 
+    
 
+<div id="locationlist">
 {% for post in site.posts  %}
     {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
     {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
@@ -141,6 +102,4 @@ permalink: /index/
         {% endif %}
     {% endif %}
 {% endfor %}
-
-
 </div>

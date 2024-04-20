@@ -20,6 +20,15 @@ url: "https://anhsolo.com" # the base hostname & protocol for your site
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
 picturefill: true
 
+defaults:
+  -
+    scope:
+      path: ""
+      type: "index"
+    values:
+      layout: "home"
+
+
 # Typography
 # To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
 # leave this ID blank
